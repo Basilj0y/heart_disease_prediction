@@ -5,7 +5,7 @@ from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.auth.decorators import login_required
 from .models import UserProfile
 # Create your views here.
-def home_page(request):
+def home(request):
     return render(request, 'home.html')
 
 
