@@ -17,9 +17,9 @@ def register(request):
             user = form.save()
             phone_number = form.cleaned_data.get('phone_number')
             dob=form.cleaned_data.get('dob')
-            Hospital_name=form.cleaned_data.get('Hospital_name')
+            hospital_name=form.cleaned_data.get('hospital_name')
             #Saving PHNO and DOB to the userprofile model
-            profile = UserProfile(user=user,phone_number=phone_number,dob=dob,Hospital_name=Hospital_name)
+            profile = UserProfile(user=user,phone_number=phone_number,dob=dob,hospital_name=hospital_name)
             profile.save()
             login(request, user)
             return redirect('successfully_registered')
