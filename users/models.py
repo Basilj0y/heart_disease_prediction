@@ -7,3 +7,8 @@ class UserProfile(models.Model):
     phone_number=models.CharField(max_length=15)
     dob=models.DateField(null=True,blank=True)
     hospital_name=models.CharField(blank = True,max_length = 100)
+
+   
+    def __str__(self):
+        return self.user.username
+
