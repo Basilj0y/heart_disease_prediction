@@ -3,10 +3,190 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
+    <title>Heart Disease Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 15px;
+        }
+        nav ul li {
+            display: inline;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 1rem;
+            padding: 8px 15px;
+            background-color: #0056b3;
+            border-radius: 5px;
+        }
+        nav ul li a:hover {
+            background-color: #004494;
+        }
+        .hero-section {
+            text-align: center;
+            background-image: url('istockphoto-868644242-1024x1024.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 5rem 2rem;
+        }
+        .hero-section h1 {
+            font-size: 3rem;
+        }
+        .hero-section p {
+            font-size: 1.5rem;
+            margin: 1rem 0;
+        }
+        .hero-section a {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            font-size: 1.2rem;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .hero-section a:hover {
+            background-color: #0056b3;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            padding: 3rem 2rem;
+            background-color: #f4f4f4;
+        }
+        .feature {
+            text-align: center;
+            width: 30%;
+        }
+        .feature img {
+            width: 50px;
+            height: 50px;
+        }
+        .feature h3 {
+            font-size: 1.5rem;
+            margin: 1rem 0;
+        }
+        .feature p {
+            font-size: 1rem;
+            color: #666;
+        }
+        .latest-news {
+            padding: 2rem;
+        }
+        .news-container {
+            display: flex;
+            justify-content: space-around;
+            gap: 15px;
+        }
+        .news-item {
+            width: 30%;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .news-item img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+        }
+        .news-item h4 {
+            margin: 1rem;
+            font-size: 1.2rem;
+        }
+        .news-item p {
+            margin: 1rem;
+            color: #666;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
 </head>
 <body>
-    <h2>Welcome!</h2>
-    <p>You have successfully logged in.</p>
+    <header>
+        <div class="logo">Heart Disease Predictor</div>
+        <nav>
+            <ul>
+                <!-- The Update Profile link has been removed -->
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero-section">
+        <h1>Predict Heart Diseases with Accuracy</h1>
+        <p>Leverage advanced machine learning models to predict heart diseases early and save lives.</p>
+        <a href="{% url 'patient_form' %}">Predict</a>
+    </section>
+
+    <section id="features" class="features">
+        <div class="feature">
+            <img src="accuracy-icon.png" alt="High Accuracy">
+            <h3>High Accuracy</h3>
+            <p>Our model is designed to provide highly accurate predictions.</p>
+        </div>
+        <div class="feature">
+            <img src="data-icon.png" alt="Data Insights">
+            <h3>Data Insights</h3>
+            <p>Analyze patient data to understand risk factors and trends.</p>
+        </div>
+        <div class="feature">
+            <img src="support-icon.png" alt="24/7 Support">
+            <h3>24/7 Support</h3>
+            <p>Our team is here to assist you around the clock.</p>
+        </div>
+    </section>
+
+    <section id="news" class="latest-news">
+        <h2>Latest Health Tips & News</h2>
+        <div class="news-container">
+            <div class="news-item">
+                <img src="article1.jpg" alt="Article 1">
+                <h4>How to Maintain a Healthy Heart</h4>
+                <p>Tips and tricks to keep your heart healthy and strong.</p>
+            </div>
+            <div class="news-item">
+                <img src="article2.jpg" alt="Article 2">
+                <h4>Understanding Heart Diseases</h4>
+                <p>Learn more about heart diseases and how to prevent them.</p>
+            </div>
+            <div class="news-item">
+                <img src="article3.jpg" alt="Article 3">
+                <h4>Latest Medical Technologies</h4>
+                <p>Discover the newest advancements in heart disease treatment.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Heart Disease Predictor. All rights reserved.</p>
+    </footer>
 </body>
 </html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prediction Result</title>
+</head>
+<body>
+  <h1>Heart Disease Prediction Result</h1>
+  <ul>
+    {% for disease, risk in result.items %}
+      <li>{{ disease }}: {{ risk }}</li>
+    {% endfor %}
+  </ul>
+  <a href="{% url 'predict_heart_disease' %}">Go back to form</a>
+</body>
+</html>

@@ -8,5 +8,8 @@ urlpatterns = [
     path('successfully_logged_in/', views.successfully_logged_in, name='successfully_logged_in'),
     path('forgot_password/', views.forgot_password, name='forgot_password'),  
     path('verify_otp/', views.verify_otp, name='verify_otp'),  
-    path('reset_password/', views.reset_password, name='reset_password'),  
+    path('reset_password/', views.reset_password, name='reset_password'),
+    path('predict_health/', views.predict_health, name='predict_health'),
+    path('patient-form/', views.patient_form, name='patient_form'),
+    path('view-patients/', views.view_patients, name='view_patients'),
 ]

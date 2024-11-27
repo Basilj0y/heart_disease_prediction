@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Patients</title>
+</head>
+<body>
+    <h1>All Patient Details</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Patient ID</th>
+                <th>Height (cm)</th>
+                <th>Weight (kg)</th>
+                <th>Temperature (°C)</th>
+                <th>Heart Rate</th>
+                <th>Cholesterol (mg/dL)</th>
+                <th>Blood Sugar (mg/dL)</th>
+                <th>Blood Pressure</th>
+                <th>Symptoms</th>
+                <th>Existing Conditions</th>
+                <th>Lab Results</th>
+                <th>Smoking Status</th>
+                <th>Family History</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for patient in patients %}
+                <tr>
+                    <td>{{ patient.Patient_ID }}</td>
+                    <td>{{ patient.Height_cm }}</td>
+                    <td>{{ patient.Weight_kg }}</td>
+                    <td>{{ patient.Temperature_C }}</td>
+                    <td>{{ patient.Heart_Rate }}</td>
+                    <td>{{ patient.Cholesterol_mg_dL }}</td>
+                    <td>{{ patient.Blood_Sugar_mg_dL }}</td>
+                    <td>{{ patient.Blood_Pressure_Systolic }}/{{ patient.Blood_Pressure_Diastolic }}</td>
+                    <td>
+                        {% if patient.Symptoms_Chest_Pain %}Chest Pain{% endif %}
+                        {% if patient.Symptoms_Dizziness %}Dizziness{% endif %}
+                        {% if patient.Symptoms_Fatigue %}Fatigue{% endif %}
+                        {% if patient.Symptoms_Nausea %}Nausea{% endif %}
+                        {% if patient.Symptoms_Palpitations %}Palpitations{% endif %}
+                        {% if patient.Symptoms_Shortness_of_Breath %}Shortness of Breath{% endif %}
+                    </td>
+                    <td>
+                        {% if patient.Existing_Conditions_Asthma %}Asthma{% endif %}
+                        {% if patient.Existing_Conditions_Diabetes %}Diabetes{% endif %}
+                        {% if patient.Existing_Conditions_High_Cholesterol %}High Cholesterol{% endif %}
+                        {% if patient.Existing_Conditions_Hypertension %}Hypertension{% endif %}
+                        {% if patient.Existing_Conditions_Thyroid %}Thyroid{% endif %}
+                    </td>
+                    <td>
+                        {% if patient.Laboratory_Test_Results_High_Blood_Sugar %}High Blood Sugar{% endif %}
+                        {% if patient.Laboratory_Test_Results_High_Cholesterol %}High Cholesterol{% endif %}
+                        {% if patient.Laboratory_Test_Results_Low_Iron %}Low Iron{% endif %}
+                        {% if patient.Laboratory_Test_Results_Normal %}Normal{% endif %}
+                    </td>
+                    <td>
+                        {% if patient.Smoking_Status_Current %}Current{% endif %}
+                        {% if patient.Smoking_Status_Former %}Former{% endif %}
+                        {% if patient.Smoking_Status_Never %}Never{% endif %}
+                    </td>
+                    <td>
+                        {% if patient.Family_History_Heart_Disease_Yes %}Yes{% endif %}
+                        {% if patient.Family_History_Heart_Disease_No %}No{% endif %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

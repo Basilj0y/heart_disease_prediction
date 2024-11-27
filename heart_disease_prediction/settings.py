@@ -142,3 +142,12 @@ DEFAULT_FROM_EMAIL = 'webmaster@localhost'  # Optional, you can set your own ema
 
 # Email settings for development (console backend)
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+
+
+# settings.py
+
+import os
+
+# Add the model path to Django settings
+MODEL_PATH = os.path.join(BASE_DIR, 'users', 'savedmodels', 'model.joblib')
