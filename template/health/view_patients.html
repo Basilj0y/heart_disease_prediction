@@ -4,29 +4,95 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Patients</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Light blue background */
+            color: #333; /* Text color */
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #0056b3; /* Blue color for the title */
+        }
+
+        .table-container {
+            width: 100%;
+            overflow-x: auto; /* Ensure responsiveness for smaller screens */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 0 auto;
+            background-color: #fff; /* White table background */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+
+        th, td {
+            padding: 10px 15px;
+            text-align: center;
+            border: 1px solid #ddd; /* Light border for cells */
+        }
+
+        th {
+            background-color: #0056b3; /* Blue header background */
+            color: #fff; /* White header text */
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9; /* Alternate row background */
+        }
+
+        tr:hover {
+            background-color: #e6f7ff; /* Highlight row on hover */
+        }
+
+        td {
+            font-size: 0.9rem;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.85rem;
+            color: #666;
+        }
+    </style>
 </head>
 <body>
     <h1>All Patient Details</h1>
-    <table border="1">
-        <thead>
-            <tr>
-                <th>Patient ID</th>
-                <th>Height (cm)</th>
-                <th>Weight (kg)</th>
-                <th>Temperature (°C)</th>
-                <th>Heart Rate</th>
-                <th>Cholesterol (mg/dL)</th>
-                <th>Blood Sugar (mg/dL)</th>
-                <th>Blood Pressure</th>
-                <th>Symptoms</th>
-                <th>Existing Conditions</th>
-                <th>Lab Results</th>
-                <th>Smoking Status</th>
-                <th>Family History</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for patient in patients %}
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Patient ID</th>
+                    <th>Height (cm)</th>
+                    <th>Weight (kg)</th>
+                    <th>Temperature (°C)</th>
+                    <th>Heart Rate</th>
+                    <th>Cholesterol (mg/dL)</th>
+                    <th>Blood Sugar (mg/dL)</th>
+                    <th>Blood Pressure</th>
+                    <th>Symptoms</th>
+                    <th>Existing Conditions</th>
+                    <th>Lab Results</th>
+                    <th>Smoking Status</th>
+                    <th>Family History</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for patient in patients %}
                 <tr>
                     <td>{{ patient.Patient_ID }}</td>
                     <td>{{ patient.Height_cm }}</td>
@@ -67,8 +133,12 @@
                         {% if patient.Family_History_Heart_Disease_No %}No{% endif %}
                     </td>
                 </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <div class="footer">
+        © 2024 Heart Disease Prediction System
+    </div>
 </body>
 </html>

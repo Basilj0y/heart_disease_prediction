@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Disease Predictor</title>
+    <style>
+        /* Reset body margin and padding */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('background.jpg'); /* Set background image */
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+        }
+
+        /* Container for Heart Disease Predictor */
+        .container {
+            position: absolute; /* Positions the container relative to the page */
+            top: 50%; /* Vertically centered */
+            left: 20px; /* Aligned to the left */
+            transform: translateY(-50%); /* Center container vertically */
+            width: 280px; /* Reduced width for a compact box */
+            height: auto; /* Height adjusts dynamically based on content */
+            padding: 20px; /* Inner padding for better spacing */
+            background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque white background */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow for better visibility */
+        }
+
+        /* Title Style */
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        /* Button Styling */
+        .button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: #007BFF; /* Blue background for buttons */
+            color: white;
+            text-align: center;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .button:hover {
+            background-color: #0056b3; /* Darker blue when hovered */
+        }
+
+        /* Footer Styling */
+        .footer {
+            position: fixed;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: white;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Container for Heart Disease Prediction -->
+    <div class="container">
+        <h1>Heart Disease Predictor</h1>
+        <!-- Buttons for navigation -->
+        <button class="button" onclick="window.location.href='predict.html'">Predict</button>
+        <button class="button" onclick="window.location.href='about.html'">About</button>
+        <button class="button" onclick="window.location.href='contact.html'">Contact</button>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>&copy; 2024 Heart Disease Predictor</p>
+    </div>
+</body>
+</html>

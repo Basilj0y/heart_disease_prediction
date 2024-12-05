@@ -1,93 +1,124 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(45deg, #6a11cb, #2575fc); 
+/* General reset */
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+/* Body styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("{% static 'login_bg.jpg' %}") no-repeat center center fixed;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    overflow: hidden;
+    min-height: 100vh;
+    padding: 20px;
 }
 
-.container {
-    background-color: #ffffff;
-    padding: 40px;
-    border-radius: 10px;  
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-    text-align: center;
+/* Login container */
+.login-container {
     width: 100%;
-    max-width: 400px;  
-    transition: transform 0.3s ease-in-out;
+    max-width: 400px;
+    margin: 0 auto;
 }
 
-.container:hover {
-    transform: scale(1.05);  
+/* Login card */
+.login-card {
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    backdrop-filter: blur(10px);
 }
 
-
+/* Title styling */
 h2 {
     color: #333;
-    font-size: 24px;
-    font-weight: 600;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: bold;
 }
 
-
-p {
-    color: #777;
-    font-size: 16px;
-    margin-top: 5px;
+/* Form group styling */
+.form-group {
+    text-align: left;
+    margin-bottom: 20px;
 }
 
-.btn {
-    background-color: #007bff;
-    color: white;
-    padding: 12px 24px;
-    border: none;
-    border-radius: 6px;
-    text-decoration: none;
-    cursor: pointer;
-    display: inline-block;
-    margin-top: 20px;
+form p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Input fields */
+input[type="text"], input[type="password"] {
     width: 100%;
-    transition: background-color 0.3s ease;
+    padding: 12px;
+    margin: 10px 0;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: border-color 0.3s;
 }
 
-.btn:hover {
-    background-color: #0056b3;
+input[type="text"]:focus, input[type="password"]:focus {
+    border-color: #2575fc;
+    outline: none;
 }
 
+/* Button styling */
+button.btn {
+    background-color: #2575fc;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
 
-.forgot-password {
+button.btn:hover {
+    background-color: #6a11cb;
+    transform: scale(1.05);
+}
+
+button.btn:active {
+    transform: scale(1);
+}
+
+/* Links styling */
+.links p {
     margin-top: 20px;
-    font-size: 14px;
-    color: #555;
+    color: #666;
+    font-size: 1rem;
 }
 
-.forgot-password a {
-    color: #007bff;
+.links a {
+    color: #2575fc;
+    font-weight: bold;
     text-decoration: none;
-    font-weight: 500;
 }
 
-.forgot-password a:hover {
+.links a:hover {
     text-decoration: underline;
-    color: #0056b3;
 }
 
-
-@media (max-width: 600px) {
-    .container {
-        padding: 30px;
-        width: 90%;
+/* Responsive Design */
+@media (max-width: 480px) {
+    .login-card {
+        padding: 20px;
     }
 
     h2 {
-        font-size: 22px;
+        font-size: 1.8rem;
     }
-
-    .btn {
-        padding: 12px 20px;
+    
+    button.btn {
+        padding: 10px;
     }
 }
