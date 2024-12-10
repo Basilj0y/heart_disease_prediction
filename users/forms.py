@@ -10,6 +10,10 @@ class RegisterForm(UserCreationForm):
     hospital_name = forms.CharField(required=True, max_length=100)
     
     
+    def __init__(self, *args, **kwargs):
+        super(RegisterForm, self).__init__(*args, **kwargs)
+        self.fields['username'].help_text = ""  # Set help_text to an empty string
+
     def clean_email(self):
         email = self.cleaned_data.get('email')
         if User.objects.filter(email=email).exists():

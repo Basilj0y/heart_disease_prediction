@@ -62,7 +62,7 @@ def send_otp_email(user_email, otp):
     send_mail(
         'Password Reset OTP',
         f'Your OTP for password reset is {otp}.',
-        'your_email@example.com', 
+        '', 
         [user_email],
         fail_silently=False,
     )
@@ -147,7 +147,11 @@ from .forms import Health_Prediction_form
 label_encoder = joblib.load('./label_encoder.pkl')
 train_column=joblib.load('./train_columns.pkl')
 scaler = joblib.load('scaler.pkl')
+<<<<<<< HEAD
 #knn_model=joblib.load('./model_pipeline.pkl')
+=======
+#knn_model=joblib.load('./hdp_model_pipeline.pkl')
+>>>>>>> 431c0cb (Initial commit)
 knn_model=joblib.load('knn_model.pkl')
 def patient_form(request):
     if request.method == 'POST':
@@ -210,7 +214,11 @@ def patient_form(request):
             
             decoded_prediction = label_encoder.inverse_transform(prediction)
             request.session['prediction'] = ', '.join(decoded_prediction)
+<<<<<<< HEAD
             return redirect('predict_health')            
+=======
+            return redirect('predict_health')  
+>>>>>>> 431c0cb (Initial commit)
         else:
             return JsonResponse({'error': 'Invalid form input'}, status=400)
 

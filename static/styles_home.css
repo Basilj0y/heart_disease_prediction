@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 /* General Reset */
 * {
+=======
+body {
+    font-family: Arial, sans-serif;
+    background:urlurl("/static/home.jpg") no-repeat center center fixed;
+    background-size: cover; 
+>>>>>>> 431c0cb (Initial commit)
     margin: 0;
     padding: 0;
     box-sizing: border-box;

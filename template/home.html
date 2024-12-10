@@ -10,7 +10,11 @@
         body {
             margin: 0;
             padding: 0;
+<<<<<<< HEAD
             background: url("{% static 'homelogo.jpg' %}") no-repeat center center fixed;
+=======
+            background: url("{% static 'home.jpg' %}") no-repeat center center fixed;
+>>>>>>> 431c0cb (Initial commit)
             background-size: cover;
             font-family: 'Poppins', sans-serif;
             color: white;
@@ -18,6 +22,7 @@
 
         .container {
             position: fixed;
+<<<<<<< HEAD
             top: 18%; /* Moves the box upwards */
             right: 13%; /* Aligns the box to the right */
             width: 400px; /* Increased width for better fit */
@@ -43,6 +48,33 @@
             font-size: 1em; /* Increased font size */
             margin-bottom: 10px;
             color: white; /* Maintains a clean contrast */
+=======
+            top: 18%; /* Adjusts vertical position */
+            left: 15%; /* Moved further to the right */
+            width: 320px; /* Adjusted width */
+            height: 300px; /* Adjusted height */
+            padding: 15px;
+            background: #e60000; /* Solid red background */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Adds depth with shadow */
+            text-align: center;
+            display: flex;
+            flex-direction: column; /* Vertical alignment */
+            justify-content: space-between; /* Space between elements */
+        }
+
+        header h1 {
+            font-size: 1.8em; /* Adjusted font size */
+            margin-bottom: 10px;
+            color: white; /* Contrast with the background */
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Subtle shadow for text */
+        }
+
+        .description {
+            font-size: 0.9em; /* Adjusted font size */
+            margin-bottom: 10px;
+            color: white; /* Matches the text color */
+>>>>>>> 431c0cb (Initial commit)
         }
 
         .links {
@@ -53,18 +85,28 @@
 
         .btn {
             display: inline-block;
+<<<<<<< HEAD
             padding: 10px 20px;
             margin: 5px;
             background: white; /* White background for buttons */
             color: #e60000; /* Matches the box's red color */
             text-decoration: none;
             border-radius: 5px;
+=======
+            padding: 8px 18px; /* Reduced padding */
+            margin: 5px;
+            background: white; /* Button background color */
+            color: #e60000; /* Button text color matches box */
+            text-decoration: none;
+            border-radius: 5px; /* Rounded corners for buttons */
+>>>>>>> 431c0cb (Initial commit)
             font-size: 1em;
             font-weight: bold;
             transition: all 0.3s ease-in-out;
         }
 
         .btn:hover {
+<<<<<<< HEAD
             background: #ffffff; /* Lighter hover effect */
             color: #b30000; /* Slightly darker red */
             box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5);
@@ -73,6 +115,16 @@
         span {
             font-size: 1.2em; /* Increased font size */
             color: white; /* Matches the box text color */
+=======
+            background: #ffffff; /* Hover effect */
+            color: #b30000; /* Slightly darker red for hover text */
+            box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5); /* Glow effect */
+        }
+
+        span {
+            font-size: 1.2em; /* Span font size */
+            color: white; /* Text color matches box */
+>>>>>>> 431c0cb (Initial commit)
             margin: 10px 0;
         }
     </style>
