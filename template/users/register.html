@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,54 +6,119 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #4A90E2; 
+        /* Global styles */
+        * {
+            box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
-        .container {
-            width: 500px; 
-            margin: 50px auto;
-            padding: 20px;
-            background-color: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 15px;
+
+        html, body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100%;
+            margin: 0;
+            background: url("{% static 'register.jpg' %}") no-repeat center center fixed;
+            background-size: cover;
+            overflow-y: auto;
+            min-height: 100vh; /* Ensures the body takes up at least the full height */
         }
-        h2 {
+
+        .form-container {
+            position: relative;
+            top: 20%; /* Adjust this value to center the form vertically */
+            left: 50%;
+            transform: translateX(-50%); /* Center horizontally */
+            max-width: 450px;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .form-container h1 {
+            font-size: 2.5rem;
+            color: #34495E; /* Darker blue-grey color for contrast */
+            font-weight: bold;
+            margin-bottom: 10px;
             text-align: center;
-            color: #333;
         }
+
+        .form-container h2 {
+            font-size: 1rem;
+            color: #566573; /* Slightly muted grey for the subheading */
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
         form {
             display: flex;
             flex-direction: column;
             gap: 15px;
         }
-        form input, form select, form button {
-            padding: 5px;  
-            font-size: 14px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
+
+        form input,
+        form select,
+        form button {
+            padding: 12px;
+            font-size: 1rem;
+            border: 2px solid #ddd;
+            border-radius: 8px;
             width: 100%;
+            transition: all 0.3s ease;
         }
+
+        form input:focus,
+        form select:focus,
+        form button:hover {
+            border-color: #58B19F; /* Light green-blue border for interactivity */
+            outline: none;
+        }
+
+        form input:focus {
+            box-shadow: 0 0 8px rgba(88, 177, 159, 0.6);
+        }
+
         button {
-            background-color: #4CAF50;
+            background-color: #27AE60; /* Green button */
             color: white;
             border: none;
             cursor: pointer;
-            border-radius: 5px; 
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.2s ease;
         }
+
         button:hover {
-            background-color: #45a049;
+            background-color: #229954;
+            transform: scale(1.05);
+        }
+
+        p {
+            color: #34495E;
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        p a {
+            color: #2E86C1; /* Blue link color */
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        p a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h2>Register</h2>
+    <div class="form-container">
+        <h1>Welcome to Registration</h1>
+        <h2>Create an account to login</h2>
         <form method="POST">
             {% csrf_token %}
-            {{ form.as_p }}
+            <div class="form-group">
+                {{ form.as_p }}
+            </div>
             <button type="submit">Register</button>
         </form>
     </div>

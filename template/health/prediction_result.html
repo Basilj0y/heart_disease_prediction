@@ -1,17 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
+{% load static %}
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prediction Result</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url("{% static 'predict.jpg' %}") no-repeat center center fixed;
+            background-size: cover;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            width: 90%;
+            max-width: 400px;
+            text-align: center;
+            padding: 20px;
+            margin: 20px;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            color: #2c3e50;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        .btn {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: #fff;
+            background-color: #3498db;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #2980b9;
+        }
+
+        .btn:active {
+            transform: scale(0.98);
+        }
+    </style>
 </head>
 <body>
-  <h1>Heart Disease Prediction Result</h1>
-  <ul>
-    {% for disease, risk in result.items %}
-      <li>{{ disease }}: {{ risk }}</li>
-    {% endfor %}
-  </ul>
-  <a href="{% url 'predict_heart_disease' %}">Go back to form</a>
+    <div class="container">
+        <h1>Health Prediction Result</h1>
+        <p><strong>Prediction:</strong> {{ prediction }}</p>
+        <a href="{% url 'patient_form' %}" class="btn">Predict Again</a>
+    </div>
 </body>
 </html>

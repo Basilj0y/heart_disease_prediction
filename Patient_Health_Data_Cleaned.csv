@@ -1,0 +1,1612 @@
+Patient_ID,Height_cm,Weight_kg,Temperature_C,Heart_Rate,Symptoms,Existing_Conditions,Disease_Predictions,Laboratory_Test_Results,Cholesterol_mg_dL,Blood_Sugar_mg_dL,Family_History_Heart_Disease,Smoking_Status,Blood_Pressure_Systolic,Blood_Pressure_Diastolic
+P0001,174.0,59.0,36.6,63.0,chest pain,Diabetes,Heart Disease,High Cholesterol,198.0,79.0,Yes,Never,120.0,80.0
+P0002,169.90234986945168,67.0,37.0,68.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,179.0,90.0,No,Former,130.0,85.0
+P0003,176.0,58.0,37.0,65.0,fatigue,High Cholesterol,Arrhythmia,Normal,193.0,82.0,Yes,Current,140.0,90.0
+P0005,167.0,41.0,36.3,72.0,palpitations,Asthma,Hypertension,High Blood Sugar,251.0,135.0,Yes,Former,135.0,88.0
+P0007,185.0,70.0,35.6,71.0,nausea,Diabetes,Heart Disease,High Blood Sugar,204.0,130.0,Yes,Never,132.45075757575756,86.14621212121212
+P0008,177.0,57.0,36.7,59.0,chest pain,Hypertension,Coronary Artery Disease,Normal,199.6129541864139,76.0,No,Former,120.0,80.0
+P0009,165.0,79.0,36.8,86.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,187.0,74.0,Yes,Current,130.0,85.0
+P0010,169.90234986945168,84.0,36.97098308668076,66.0,fatigue,Diabetes,Stroke,High Blood Sugar,241.0,124.0,No,Never,140.0,90.0
+P0011,165.0,45.0,37.0,74.0,dizziness,Asthma,Hypertension,High Cholesterol,188.0,127.0,Yes,Former,125.0,82.0
+P0013,172.0,58.0,36.5,76.0,nausea,Diabetes,Heart Disease,Normal,195.0,60.0,Yes,Never,145.0,92.0
+P0014,150.0,55.0,37.1,85.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,197.0,86.0,No,Former,132.45075757575756,86.14621212121212
+P0015,152.0,82.0,37.0,79.0,chest pain,Diabetes,Arrhythmia,High Blood Sugar,184.0,124.0,Yes,Current,120.0,80.0
+P0016,164.0,67.0,36.7,66.0,shortness of breath,Diabetes,Stroke,High Cholesterol,253.0,101.0,No,Never,130.0,85.0
+P0017,159.0,66.0,36.8,96.0,fatigue,Diabetes,Hypertension,High Blood Sugar,170.0,67.0,Yes,Former,140.0,90.0
+P0019,160.0,79.0,36.7,73.0,palpitations,Diabetes,Heart Disease,Low Iron,284.0,99.00744680851064,Yes,Never,135.0,88.0
+P0020,169.90234986945168,51.0,37.0,84.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,239.0,153.0,No,Former,145.0,92.0
+P0021,184.0,70.0,38.1,74.56752496058854,nausea,High Cholesterol,Arrhythmia,High Cholesterol,104.0,146.0,Yes,Current,132.45075757575756,86.14621212121212
+P0022,167.0,74.0,36.97098308668076,78.0,chest pain,Diabetes,Stroke,High Blood Sugar,177.0,118.0,No,Never,120.0,80.0
+P0023,170.0,90.0,36.1,74.56752496058854,nausea,Asthma,Hypertension,Normal,127.0,140.0,Yes,Former,130.0,85.0
+P0025,164.0,24.0,36.7,71.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,74.0,122.0,Yes,Never,125.0,82.0
+P0026,171.0,72.0,36.8,76.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,194.0,144.0,No,Former,135.0,88.0
+P0027,158.0,97.0,36.6,85.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,154.0,99.00744680851064,Yes,Current,145.0,92.0
+P0028,173.0,88.0,36.9,59.0,nausea,Diabetes,Stroke,Normal,202.0,92.0,No,Never,132.45075757575756,86.14621212121212
+P0029,163.0,73.0,37.8,55.0,chest pain,Asthma,Hypertension,High Blood Sugar,134.0,48.0,Yes,Former,120.0,80.0
+P0031,163.0,82.0,37.4,58.0,nausea,Diabetes,Heart Disease,High Cholesterol,183.0,124.0,Yes,Never,140.0,90.0
+P0032,188.0,55.0,36.3,70.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,260.0,128.0,No,Former,125.0,82.0
+P0033,169.0,77.0,36.4,80.0,palpitations,High Cholesterol,Arrhythmia,Normal,256.0,115.0,Yes,Current,135.0,88.0
+P0034,159.0,77.0,35.6,66.0,nausea,Diabetes,Stroke,Low Iron,231.0,83.0,No,Never,145.0,92.0
+P0035,178.0,85.0,36.6,60.0,nausea,Asthma,Hypertension,High Blood Sugar,186.0,40.0,Yes,Former,132.45075757575756,86.14621212121212
+P0037,172.0,75.0,37.3,83.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,137.0,90.0,Yes,Former,130.0,85.0
+P0038,150.0,62.0,36.9,74.56752496058854,fatigue,Hypertension,Coronary Artery Disease,Normal,143.0,90.0,No,Former,140.0,90.0
+P0039,156.0,69.0,37.0,83.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,196.0,118.0,Yes,Current,125.0,82.0
+P0040,171.0,43.0,36.7,83.0,palpitations,Diabetes,Stroke,High Blood Sugar,199.6129541864139,159.0,Yes,Never,135.0,88.0
+P0041,177.0,59.0,36.97098308668076,84.0,nausea,Asthma,Hypertension,High Cholesterol,191.0,103.0,Yes,Former,145.0,92.0
+P0043,168.0,62.0,36.2,97.0,nausea,Diabetes,Heart Disease,Normal,142.0,99.00744680851064,Yes,Never,120.0,80.0
+P0044,166.0,72.0,37.1,71.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,237.0,103.0,No,Former,130.0,85.0
+P0045,169.90234986945168,57.0,37.5,76.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,238.0,75.0,Yes,Current,140.0,90.0
+P0046,162.0,86.0,36.8,70.0,dizziness,Diabetes,Stroke,High Cholesterol,231.0,103.0,No,Former,125.0,82.0
+P0047,165.0,70.0,37.4,75.0,palpitations,Asthma,Hypertension,High Blood Sugar,174.0,113.0,Yes,Former,135.0,88.0
+P0049,173.0,65.0,36.9,61.0,nausea,Diabetes,Heart Disease,Low Iron,148.0,113.0,Yes,Never,132.45075757575756,86.14621212121212
+P0050,152.0,72.0,37.2,66.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,203.0,113.0,No,Former,120.0,80.0
+P0051,173.0,82.0,36.6,88.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,156.0,46.0,Yes,Current,130.0,85.0
+P0052,166.0,56.0,37.1,85.0,fatigue,Diabetes,Stroke,High Blood Sugar,152.0,119.0,No,Never,140.0,90.0
+P0053,163.0,60.0,37.2,71.0,dizziness,Asthma,Hypertension,Normal,183.0,79.0,Yes,Former,125.0,82.0
+P0055,180.0,49.0,36.5,78.0,nausea,Diabetes,Heart Disease,High Blood Sugar,178.0,66.0,Yes,Never,145.0,92.0
+P0056,179.0,57.0,37.1,90.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,218.0,113.0,Yes,Former,132.45075757575756,86.14621212121212
+P0057,161.0,62.0,37.7,75.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,203.0,93.0,Yes,Former,120.0,80.0
+P0058,166.0,83.0,37.2,85.0,shortness of breath,Diabetes,Stroke,Normal,188.0,49.0,No,Never,130.0,85.0
+P0059,173.0,73.0,37.5,101.0,fatigue,Asthma,Hypertension,Low Iron,207.0,114.0,Yes,Former,140.0,90.0
+P0061,165.0,82.0,37.4,75.0,palpitations,Diabetes,Heart Disease,High Cholesterol,204.0,104.0,Yes,Never,135.0,88.0
+P0062,168.0,67.0,37.1,82.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,206.0,107.0,No,Former,145.0,92.0
+P0063,158.0,75.0,36.5,71.0,nausea,High Cholesterol,Arrhythmia,Normal,139.0,126.0,Yes,Current,132.45075757575756,86.14621212121212
+P0064,158.0,68.0,36.97098308668076,98.0,chest pain,Diabetes,Stroke,Low Iron,239.0,153.0,Yes,Never,120.0,80.0
+P0065,178.0,73.0,36.5,76.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,164.0,59.0,Yes,Former,130.0,85.0
+P0067,169.0,33.0,37.1,66.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,246.0,91.0,Yes,Never,125.0,82.0
+P0068,180.0,67.0,37.1,85.0,palpitations,Hypertension,Coronary Artery Disease,Normal,237.0,113.0,No,Former,135.0,88.0
+P0069,173.0,69.38871473354232,36.4,83.0,nausea,High Cholesterol,Arrhythmia,Low Iron,201.0,106.0,Yes,Former,145.0,92.0
+P0070,163.0,83.0,37.5,70.0,nausea,Diabetes,Stroke,High Blood Sugar,185.0,89.0,No,Never,132.45075757575756,86.14621212121212
+P0071,173.0,84.0,37.3,80.0,chest pain,Asthma,Hypertension,High Cholesterol,237.0,86.0,Yes,Former,120.0,80.0
+P0073,169.0,71.0,36.2,76.0,fatigue,Diabetes,Heart Disease,Normal,175.0,129.0,Yes,Never,132.45075757575756,86.14621212121212
+P0074,185.0,72.0,36.97098308668076,79.0,dizziness,Diabetes,Coronary Artery Disease,Low Iron,168.0,113.0,No,Former,125.0,82.0
+P0075,143.0,60.0,36.8,92.0,palpitations,Diabetes,Arrhythmia,High Blood Sugar,117.0,127.0,Yes,Current,135.0,88.0
+P0076,178.0,65.0,37.1,67.0,nausea,Diabetes,Stroke,High Cholesterol,206.0,90.0,No,Never,145.0,92.0
+P0077,170.0,79.0,36.8,62.0,nausea,Asthma,Hypertension,High Blood Sugar,196.0,80.0,Yes,Former,132.45075757575756,86.14621212121212
+P0079,170.0,67.0,36.8,61.0,shortness of breath,Diabetes,Heart Disease,Low Iron,214.0,110.0,Yes,Never,130.0,85.0
+P0080,150.0,63.0,36.8,88.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,253.0,68.0,No,Former,132.45075757575756,86.14621212121212
+P0081,167.0,70.0,37.3,90.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,172.0,155.0,Yes,Current,125.0,82.0
+P0082,173.0,79.0,36.7,78.0,palpitations,Diabetes,Stroke,High Blood Sugar,245.0,60.0,No,Never,135.0,88.0
+P0083,184.0,48.0,36.97098308668076,87.0,nausea,Asthma,Hypertension,Normal,178.0,108.0,Yes,Former,145.0,92.0
+P0085,161.0,61.0,37.7,74.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,141.0,117.0,Yes,Never,120.0,80.0
+P0086,164.0,51.0,36.9,71.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,209.0,105.0,Yes,Former,130.0,85.0
+P0087,179.0,62.0,37.4,71.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,120.0,70.0,Yes,Current,140.0,90.0
+P0088,173.0,67.0,37.0,59.0,dizziness,Diabetes,Stroke,Normal,189.0,58.0,No,Never,125.0,82.0
+P0089,169.90234986945168,63.0,37.6,77.0,palpitations,Asthma,Hypertension,Low Iron,217.0,123.0,Yes,Former,135.0,88.0
+P0091,170.0,74.0,36.5,82.0,nausea,Diabetes,Heart Disease,High Cholesterol,157.0,86.0,Yes,Never,132.45075757575756,86.14621212121212
+P0092,179.0,74.0,37.7,75.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,233.0,65.0,No,Former,120.0,80.0
+P0093,162.0,79.0,36.97098308668076,73.0,shortness of breath,Diabetes,Arrhythmia,Normal,195.0,26.0,Yes,Current,130.0,85.0
+P0095,169.90234986945168,85.0,36.97098308668076,75.0,dizziness,Asthma,Hypertension,High Blood Sugar,201.0,96.0,Yes,Former,125.0,82.0
+P0097,172.0,80.0,37.3,63.0,nausea,Diabetes,Heart Disease,High Blood Sugar,246.0,120.0,Yes,Never,145.0,92.0
+P0098,172.0,53.0,36.7,75.0,nausea,Hypertension,Coronary Artery Disease,Normal,246.0,109.0,No,Former,132.45075757575756,86.14621212121212
+P0099,170.0,46.0,36.9,74.56752496058854,chest pain,High Cholesterol,Arrhythmia,Low Iron,217.0,87.0,Yes,Current,120.0,80.0
+P0100,167.0,82.0,37.0,67.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,206.0,82.0,No,Never,132.45075757575756,86.14621212121212
+P0101,155.0,75.0,36.2,69.0,nausea,Asthma,Hypertension,High Cholesterol,104.0,99.00744680851064,Yes,Former,140.0,90.0
+P0103,166.0,56.0,37.7,63.0,nausea,Diabetes,Heart Disease,Normal,180.0,36.0,Yes,Never,135.0,88.0
+P0104,161.0,86.0,37.4,78.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,125.0,79.0,No,Former,145.0,92.0
+P0105,168.0,52.0,37.0,66.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,153.0,74.0,Yes,Current,132.45075757575756,86.14621212121212
+P0106,174.0,94.0,37.1,85.0,chest pain,Diabetes,Stroke,High Cholesterol,120.0,83.0,No,Never,120.0,80.0
+P0107,188.0,56.0,36.9,98.0,nausea,Asthma,Hypertension,High Blood Sugar,198.0,99.00744680851064,Yes,Former,130.0,85.0
+P0109,172.0,65.0,36.9,80.0,dizziness,Diabetes,Heart Disease,Low Iron,244.0,97.0,Yes,Never,125.0,82.0
+P0110,169.0,79.0,37.1,67.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,139.0,No,Former,135.0,88.0
+P0111,150.0,61.0,37.6,85.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,161.0,79.0,Yes,Current,132.45075757575756,86.14621212121212
+P0112,169.0,67.0,36.6,62.0,nausea,Diabetes,Stroke,High Blood Sugar,122.0,155.0,No,Never,132.45075757575756,86.14621212121212
+P0113,170.0,70.0,37.8,79.0,nausea,Asthma,Hypertension,Normal,129.0,79.0,Yes,Former,120.0,80.0
+P0115,168.0,81.0,37.8,72.0,nausea,Diabetes,Heart Disease,High Blood Sugar,164.0,91.0,Yes,Never,140.0,90.0
+P0116,173.0,62.0,36.8,64.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,193.0,103.0,No,Former,125.0,82.0
+P0117,169.0,66.0,36.9,83.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,159.0,113.0,Yes,Current,135.0,88.0
+P0118,158.0,55.0,36.1,66.0,nausea,Diabetes,Stroke,Normal,213.0,113.0,No,Never,145.0,92.0
+P0119,181.0,31.0,36.8,80.0,nausea,Asthma,Hypertension,High Blood Sugar,190.0,77.0,Yes,Former,132.45075757575756,86.14621212121212
+P0121,177.0,69.38871473354232,36.7,73.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,245.0,175.0,Yes,Never,130.0,85.0
+P0122,160.0,81.0,36.9,76.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,152.0,85.0,No,Former,140.0,90.0
+P0123,184.0,69.0,36.97098308668076,67.0,dizziness,High Cholesterol,Arrhythmia,Normal,216.0,120.0,Yes,Current,125.0,82.0
+P0124,155.0,66.0,37.1,77.0,palpitations,Diabetes,Stroke,Low Iron,199.0,51.0,No,Never,135.0,88.0
+P0125,175.0,70.0,37.2,90.0,nausea,Asthma,Hypertension,High Blood Sugar,186.0,91.0,Yes,Former,145.0,92.0
+P0127,169.90234986945168,52.0,36.6,86.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,235.0,114.0,Yes,Never,120.0,80.0
+P0128,164.0,86.0,37.9,89.0,shortness of breath,Hypertension,Coronary Artery Disease,Normal,162.0,18.0,No,Former,130.0,85.0
+P0129,170.0,80.0,36.6,66.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,192.0,104.0,Yes,Current,140.0,90.0
+P0130,164.0,80.0,37.8,60.0,dizziness,Diabetes,Stroke,High Blood Sugar,211.0,65.0,No,Never,125.0,82.0
+P0131,154.0,76.0,36.9,78.0,palpitations,Asthma,Hypertension,High Cholesterol,189.0,109.0,Yes,Former,135.0,88.0
+P0133,159.0,69.38871473354232,37.5,93.0,nausea,Diabetes,Heart Disease,Normal,211.0,74.0,Yes,Never,132.45075757575756,86.14621212121212
+P0134,174.0,78.0,37.6,75.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,273.0,91.0,No,Former,120.0,80.0
+P0135,169.90234986945168,64.0,36.9,66.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,138.0,68.0,Yes,Current,130.0,85.0
+P0136,185.0,61.0,36.8,63.0,fatigue,Diabetes,Stroke,High Cholesterol,195.0,85.0,No,Never,140.0,90.0
+P0137,162.0,71.0,37.0,85.0,dizziness,Asthma,Hypertension,High Blood Sugar,163.0,99.00744680851064,Yes,Former,125.0,82.0
+P0139,178.0,51.0,37.4,75.0,nausea,Diabetes,Heart Disease,Low Iron,135.0,130.0,Yes,Never,145.0,92.0
+P0140,157.0,47.0,37.0,84.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,213.0,61.0,No,Former,132.45075757575756,86.14621212121212
+P0141,172.0,72.0,37.3,70.0,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,174.0,94.0,Yes,Current,120.0,80.0
+P0142,183.0,70.0,37.8,74.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,170.0,122.0,No,Never,130.0,85.0
+P0143,153.0,72.0,37.2,74.0,fatigue,Asthma,Hypertension,Normal,142.0,99.00744680851064,Yes,Former,140.0,90.0
+P0145,172.0,66.0,36.2,80.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,243.0,106.0,Yes,Never,132.45075757575756,86.14621212121212
+P0146,177.0,92.0,35.7,72.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,198.0,133.0,No,Former,145.0,92.0
+P0147,157.0,45.0,37.2,75.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,225.0,64.0,Yes,Current,132.45075757575756,86.14621212121212
+P0148,156.0,57.0,37.0,71.0,chest pain,Diabetes,Stroke,Normal,266.0,95.0,No,Never,120.0,80.0
+P0149,175.0,68.0,36.7,60.0,shortness of breath,Asthma,Hypertension,Low Iron,210.0,99.00744680851064,Yes,Former,130.0,85.0
+P0151,172.0,67.0,37.0,93.0,nausea,Diabetes,Heart Disease,High Cholesterol,218.0,101.0,Yes,Never,125.0,82.0
+P0152,173.0,94.0,37.6,66.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,178.0,74.0,No,Former,135.0,88.0
+P0153,163.0,69.38871473354232,37.0,67.0,nausea,High Cholesterol,Arrhythmia,Normal,179.0,86.0,Yes,Current,132.45075757575756,86.14621212121212
+P0154,172.0,69.38871473354232,36.6,66.0,nausea,Diabetes,Stroke,Low Iron,139.0,57.0,No,Never,132.45075757575756,86.14621212121212
+P0155,172.0,51.0,37.5,82.0,chest pain,Asthma,Hypertension,High Blood Sugar,237.0,102.0,Yes,Former,120.0,80.0
+P0157,188.0,64.0,37.3,73.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,207.0,67.0,Yes,Never,140.0,90.0
+P0158,174.0,65.0,36.8,65.0,dizziness,Hypertension,Coronary Artery Disease,Normal,158.0,81.0,No,Former,125.0,82.0
+P0159,158.0,89.0,36.7,75.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,217.0,99.00744680851064,Yes,Current,135.0,88.0
+P0160,176.0,78.0,37.0,59.0,nausea,Diabetes,Stroke,High Blood Sugar,169.0,136.0,No,Never,145.0,92.0
+P0161,160.0,53.0,37.0,76.0,nausea,Asthma,Hypertension,High Cholesterol,199.6129541864139,55.0,Yes,Former,132.45075757575756,86.14621212121212
+P0163,181.0,69.38871473354232,36.9,62.0,shortness of breath,Diabetes,Heart Disease,Normal,231.0,108.0,Yes,Never,130.0,85.0
+P0164,161.0,87.0,36.1,59.0,fatigue,Hypertension,Coronary Artery Disease,Low Iron,199.0,96.0,No,Former,140.0,90.0
+P0165,179.0,93.0,36.8,90.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,129.0,25.0,Yes,Current,125.0,82.0
+P0166,169.90234986945168,54.0,37.4,68.0,palpitations,Diabetes,Stroke,High Cholesterol,319.0,115.0,No,Never,135.0,88.0
+P0167,178.0,57.0,36.9,86.0,nausea,Asthma,Hypertension,High Blood Sugar,269.0,145.0,Yes,Former,145.0,92.0
+P0169,167.0,66.0,37.5,73.0,chest pain,Diabetes,Heart Disease,Low Iron,169.0,69.0,Yes,Never,120.0,80.0
+P0170,162.0,76.0,36.6,79.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,84.0,No,Former,130.0,85.0
+P0171,161.0,84.0,36.2,66.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,178.0,153.0,Yes,Current,140.0,90.0
+P0172,161.0,68.0,36.9,76.0,dizziness,Diabetes,Stroke,High Blood Sugar,250.0,127.0,No,Never,125.0,82.0
+P0173,169.0,69.38871473354232,36.8,71.0,palpitations,Asthma,Hypertension,Normal,210.0,119.0,Yes,Former,135.0,88.0
+P0175,172.0,57.0,36.9,78.0,nausea,Diabetes,Heart Disease,High Blood Sugar,181.0,80.0,Yes,Never,132.45075757575756,86.14621212121212
+P0176,178.0,101.0,37.2,72.0,chest pain,Hypertension,Coronary Artery Disease,High Cholesterol,244.0,93.0,No,Former,120.0,80.0
+P0177,169.90234986945168,45.0,37.0,73.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,264.0,97.0,Yes,Current,130.0,85.0
+P0178,184.0,72.0,37.2,62.0,fatigue,Diabetes,Stroke,Normal,261.0,116.0,No,Never,140.0,90.0
+P0179,167.0,100.0,37.9,90.0,dizziness,Asthma,Hypertension,Low Iron,230.0,145.0,Yes,Former,125.0,82.0
+P0181,176.0,69.38871473354232,37.1,84.0,nausea,Diabetes,Heart Disease,High Cholesterol,70.0,57.0,Yes,Never,145.0,92.0
+P0182,161.0,64.0,36.7,71.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,211.0,106.0,No,Former,132.45075757575756,86.14621212121212
+P0183,159.0,67.0,36.6,57.0,nausea,High Cholesterol,Arrhythmia,Normal,199.0,122.0,Yes,Current,120.0,80.0
+P0184,169.90234986945168,90.0,36.7,74.56752496058854,shortness of breath,Diabetes,Stroke,Low Iron,205.0,118.0,No,Never,132.45075757575756,86.14621212121212
+P0185,167.0,36.0,36.8,74.0,fatigue,Asthma,Hypertension,High Blood Sugar,202.0,81.0,Yes,Former,140.0,90.0
+P0187,174.0,48.0,38.2,79.0,nausea,Diabetes,Heart Disease,High Blood Sugar,222.0,61.0,Yes,Never,135.0,88.0
+P0188,169.0,66.0,36.6,86.0,nausea,Hypertension,Coronary Artery Disease,Normal,225.0,67.0,No,Former,145.0,92.0
+P0189,161.0,63.0,36.8,74.0,nausea,High Cholesterol,Arrhythmia,Low Iron,227.0,107.0,Yes,Current,132.45075757575756,86.14621212121212
+P0190,154.0,78.0,37.0,87.0,chest pain,Diabetes,Stroke,High Blood Sugar,237.0,163.0,No,Never,120.0,80.0
+P0191,165.0,46.0,37.2,85.0,nausea,Asthma,Hypertension,High Cholesterol,224.0,74.0,Yes,Former,130.0,85.0
+P0193,172.0,100.0,37.6,68.0,dizziness,Diabetes,Heart Disease,Normal,197.0,132.0,Yes,Never,125.0,82.0
+P0194,157.0,69.38871473354232,35.8,84.0,palpitations,Hypertension,Coronary Artery Disease,Low Iron,203.0,99.0,Yes,Former,135.0,88.0
+P0195,171.0,72.0,35.8,47.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,204.0,89.0,Yes,Current,145.0,92.0
+P0196,173.0,60.0,36.8,73.0,nausea,Diabetes,Stroke,High Cholesterol,239.0,116.0,No,Never,132.45075757575756,86.14621212121212
+P0197,161.0,76.0,37.5,60.0,nausea,Diabetes,Hypertension,High Blood Sugar,225.0,108.0,Yes,Former,132.45075757575756,86.14621212121212
+P0199,170.0,60.0,35.5,72.0,nausea,Diabetes,Heart Disease,Low Iron,288.0,138.0,Yes,Never,140.0,90.0
+P0200,158.0,77.0,37.3,71.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,203.0,109.0,No,Former,125.0,82.0
+P0201,173.0,97.0,37.1,69.0,palpitations,Diabetes,Arrhythmia,High Cholesterol,46.0,108.0,Yes,Current,135.0,88.0
+P0202,175.0,67.0,36.5,64.0,nausea,Diabetes,Stroke,High Blood Sugar,249.0,106.0,No,Never,145.0,92.0
+P0203,180.0,80.0,36.5,97.0,nausea,Asthma,Hypertension,Normal,178.0,114.0,Yes,Former,132.45075757575756,86.14621212121212
+P0205,156.0,55.0,37.1,63.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,184.0,99.0,Yes,Never,130.0,85.0
+P0206,160.0,77.0,36.7,90.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,182.0,135.0,No,Former,140.0,90.0
+P0207,175.0,92.0,36.97098308668076,71.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,224.0,145.0,Yes,Current,125.0,82.0
+P0208,169.90234986945168,75.0,35.6,76.0,palpitations,Diabetes,Stroke,Normal,199.6129541864139,54.0,No,Never,135.0,88.0
+P0209,175.0,65.0,36.6,74.0,nausea,Asthma,Hypertension,Low Iron,156.0,99.00744680851064,Yes,Former,145.0,92.0
+P0211,175.0,69.38871473354232,36.9,84.0,chest pain,Diabetes,Heart Disease,High Cholesterol,224.0,90.0,Yes,Never,120.0,80.0
+P0212,181.0,79.0,36.7,76.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,225.0,112.0,No,Former,130.0,85.0
+P0213,179.0,83.0,37.4,70.0,fatigue,High Cholesterol,Arrhythmia,Normal,168.0,120.0,Yes,Current,140.0,90.0
+P0214,176.0,63.0,36.1,61.0,dizziness,Diabetes,Stroke,Low Iron,160.0,96.0,No,Never,125.0,82.0
+P0215,166.0,69.38871473354232,37.0,66.0,palpitations,Asthma,Hypertension,High Blood Sugar,179.0,42.0,Yes,Former,135.0,88.0
+P0217,162.0,63.0,37.9,75.0,nausea,Diabetes,Heart Disease,High Blood Sugar,259.0,126.0,Yes,Never,132.45075757575756,86.14621212121212
+P0218,167.0,69.0,36.8,63.0,chest pain,Hypertension,Coronary Artery Disease,Normal,118.0,17.0,No,Former,120.0,80.0
+P0219,165.0,101.0,37.2,72.0,nausea,High Cholesterol,Arrhythmia,Low Iron,191.0,135.0,Yes,Current,130.0,85.0
+P0220,170.0,66.0,36.1,88.0,fatigue,Diabetes,Stroke,High Blood Sugar,146.0,115.0,No,Never,140.0,90.0
+P0221,193.0,64.0,35.8,86.0,dizziness,Asthma,Hypertension,High Cholesterol,133.0,139.0,Yes,Former,125.0,82.0
+P0223,176.0,81.0,37.0,74.0,nausea,Diabetes,Heart Disease,Normal,221.0,38.0,Yes,Never,145.0,92.0
+P0224,153.0,67.0,37.6,93.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,217.0,112.0,No,Former,132.45075757575756,86.14621212121212
+P0225,169.90234986945168,60.0,36.3,80.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,236.0,138.0,Yes,Current,120.0,80.0
+P0226,180.0,89.0,37.3,71.0,shortness of breath,Diabetes,Stroke,High Cholesterol,180.0,127.0,No,Never,130.0,85.0
+P0227,170.0,91.0,37.9,60.0,fatigue,Asthma,Hypertension,High Blood Sugar,182.0,80.0,Yes,Former,140.0,90.0
+P0229,162.0,42.0,37.1,83.0,palpitations,Diabetes,Heart Disease,Low Iron,190.0,84.0,Yes,Never,135.0,88.0
+P0230,176.0,85.0,37.0,68.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,229.0,75.0,No,Former,145.0,92.0
+P0231,162.0,59.0,36.97098308668076,77.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,200.0,128.0,Yes,Current,132.45075757575756,86.14621212121212
+P0232,172.0,81.0,37.7,71.0,chest pain,Diabetes,Stroke,High Blood Sugar,126.0,64.0,No,Never,120.0,80.0
+P0233,170.0,40.0,36.7,73.0,shortness of breath,Asthma,Hypertension,Normal,118.0,73.0,Yes,Former,130.0,85.0
+P0235,191.0,51.0,36.2,72.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,242.0,55.0,Yes,Never,125.0,82.0
+P0236,176.0,80.0,36.4,84.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,231.0,104.0,No,Former,135.0,88.0
+P0237,149.0,70.0,37.7,68.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,236.0,134.0,Yes,Current,145.0,92.0
+P0238,171.0,55.0,36.8,75.0,nausea,Diabetes,Stroke,Normal,160.0,94.0,No,Never,132.45075757575756,86.14621212121212
+P0239,163.0,69.38871473354232,36.97098308668076,67.0,chest pain,Asthma,Hypertension,High Blood Sugar,264.0,54.0,Yes,Former,120.0,80.0
+P0241,162.0,71.0,36.1,72.0,fatigue,Diabetes,Heart Disease,High Cholesterol,208.0,99.00744680851064,Yes,Never,140.0,90.0
+P0242,168.0,78.0,37.4,65.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,199.0,80.0,No,Former,125.0,82.0
+P0243,175.0,99.0,36.7,88.0,palpitations,High Cholesterol,Arrhythmia,Normal,193.0,85.0,Yes,Current,135.0,88.0
+P0244,178.0,46.0,37.3,84.0,nausea,Diabetes,Stroke,Low Iron,253.0,115.0,No,Never,145.0,92.0
+P0245,157.0,94.0,37.0,68.0,nausea,Asthma,Hypertension,High Blood Sugar,171.0,148.0,Yes,Former,132.45075757575756,86.14621212121212
+P0247,165.0,56.0,37.1,80.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,200.0,60.0,Yes,Never,130.0,85.0
+P0248,163.0,50.0,36.97098308668076,81.0,fatigue,Hypertension,Coronary Artery Disease,Normal,184.0,118.0,Yes,Former,140.0,90.0
+P0249,187.0,67.0,37.2,58.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,335.0,123.0,Yes,Current,125.0,82.0
+P0250,174.0,83.0,37.0,85.0,palpitations,Diabetes,Stroke,High Blood Sugar,227.0,99.00744680851064,No,Never,135.0,88.0
+P0251,157.0,68.0,36.97098308668076,69.0,nausea,Diabetes,Hypertension,High Cholesterol,183.0,83.0,Yes,Former,145.0,92.0
+P0253,169.90234986945168,69.38871473354232,37.1,101.0,chest pain,Diabetes,Heart Disease,Normal,124.0,115.0,Yes,Never,120.0,80.0
+P0254,180.0,69.0,36.5,78.0,shortness of breath,Diabetes,Coronary Artery Disease,Low Iron,158.0,76.0,No,Former,130.0,85.0
+P0255,154.0,51.0,37.1,71.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,204.0,101.0,Yes,Current,140.0,90.0
+P0256,165.0,75.0,37.5,52.0,dizziness,Diabetes,Stroke,High Cholesterol,257.0,59.0,No,Never,125.0,82.0
+P0257,169.90234986945168,83.0,36.6,74.56752496058854,palpitations,Asthma,Hypertension,High Blood Sugar,244.0,120.0,Yes,Former,135.0,88.0
+P0259,174.0,30.0,37.0,64.0,nausea,Diabetes,Heart Disease,Low Iron,187.0,86.0,Yes,Never,132.45075757575756,86.14621212121212
+P0260,177.0,72.0,36.6,71.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,210.0,99.0,No,Former,120.0,80.0
+P0261,160.0,76.0,37.5,89.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,179.0,101.0,Yes,Current,130.0,85.0
+P0263,137.0,88.0,37.4,73.0,dizziness,Diabetes,Hypertension,High Blood Sugar,192.0,117.0,Yes,Former,125.0,82.0
+P0265,167.0,80.0,37.0,68.0,nausea,Diabetes,Heart Disease,High Blood Sugar,111.0,122.0,Yes,Never,145.0,92.0
+P0266,157.0,87.0,37.2,76.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,192.0,112.0,No,Former,132.45075757575756,86.14621212121212
+P0267,186.0,43.0,37.1,75.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,233.0,87.0,Yes,Current,120.0,80.0
+P0268,155.0,74.0,36.0,84.0,shortness of breath,Diabetes,Stroke,Normal,199.6129541864139,96.0,No,Never,130.0,85.0
+P0269,165.0,62.0,36.4,84.0,fatigue,Asthma,Hypertension,Low Iron,169.0,95.0,Yes,Former,140.0,90.0
+P0271,184.0,75.0,36.9,71.0,palpitations,Diabetes,Heart Disease,High Cholesterol,140.0,88.0,Yes,Never,135.0,88.0
+P0272,155.0,62.0,36.7,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,242.0,88.0,No,Former,145.0,92.0
+P0273,181.0,59.0,36.3,74.56752496058854,nausea,High Cholesterol,Arrhythmia,Normal,178.0,159.0,Yes,Current,132.45075757575756,86.14621212121212
+P0274,170.0,70.0,36.5,64.0,chest pain,Diabetes,Stroke,Low Iron,184.0,128.0,No,Never,120.0,80.0
+P0275,160.0,53.0,36.0,70.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,155.0,77.0,Yes,Former,130.0,85.0
+P0277,171.0,80.0,36.7,84.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,298.0,103.0,Yes,Never,125.0,82.0
+P0278,163.0,52.0,36.5,73.0,palpitations,Hypertension,Coronary Artery Disease,Normal,231.0,111.0,No,Former,135.0,88.0
+P0279,170.0,79.0,37.0,62.0,nausea,High Cholesterol,Arrhythmia,Low Iron,165.0,104.0,Yes,Current,145.0,92.0
+P0281,171.0,44.0,38.0,76.0,chest pain,Asthma,Hypertension,High Cholesterol,187.0,110.0,Yes,Former,120.0,80.0
+P0283,185.0,87.0,37.6,84.0,fatigue,Diabetes,Heart Disease,Normal,232.0,99.00744680851064,Yes,Never,140.0,90.0
+P0284,157.0,55.0,37.5,85.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,82.0,106.0,No,Former,125.0,82.0
+P0285,191.0,63.0,36.97098308668076,69.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,159.0,99.00744680851064,Yes,Current,135.0,88.0
+P0286,150.0,76.0,37.1,68.0,nausea,Diabetes,Stroke,High Cholesterol,237.0,99.00744680851064,No,Never,145.0,92.0
+P0287,168.0,81.0,36.97098308668076,64.0,nausea,Asthma,Hypertension,High Blood Sugar,206.0,97.0,Yes,Former,132.45075757575756,86.14621212121212
+P0289,172.0,61.0,36.97098308668076,89.0,shortness of breath,Diabetes,Heart Disease,Low Iron,174.0,82.0,Yes,Former,130.0,85.0
+P0290,163.0,91.0,37.3,71.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,123.0,77.0,No,Former,140.0,90.0
+P0291,167.0,96.0,37.3,72.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,199.6129541864139,99.00744680851064,Yes,Current,125.0,82.0
+P0292,165.0,84.0,36.8,89.0,palpitations,Diabetes,Stroke,High Blood Sugar,288.0,58.0,Yes,Never,135.0,88.0
+P0293,164.0,71.0,36.3,80.0,nausea,Asthma,Hypertension,Normal,232.0,73.0,Yes,Former,145.0,92.0
+P0295,173.0,57.0,37.6,63.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,235.0,103.0,Yes,Never,120.0,80.0
+P0296,163.0,77.0,36.2,81.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,241.0,91.0,No,Former,130.0,85.0
+P0297,178.0,76.0,36.5,65.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,278.0,29.0,Yes,Current,140.0,90.0
+P0298,173.0,91.0,37.1,63.0,dizziness,Diabetes,Stroke,Normal,215.0,147.0,No,Never,125.0,82.0
+P0299,178.0,79.0,36.5,71.0,palpitations,Asthma,Hypertension,Low Iron,192.0,132.0,Yes,Former,135.0,88.0
+P0301,161.0,85.0,36.8,72.0,nausea,Diabetes,Heart Disease,High Cholesterol,258.0,157.0,Yes,Never,132.45075757575756,86.14621212121212
+P0303,177.0,64.0,36.5,84.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,171.0,156.0,Yes,Current,130.0,85.0
+P0304,176.0,73.0,37.4,86.0,fatigue,Diabetes,Stroke,High Blood Sugar,205.0,71.0,No,Never,140.0,90.0
+P0305,169.0,99.0,36.3,55.0,dizziness,Asthma,Hypertension,High Blood Sugar,233.0,107.0,Yes,Former,125.0,82.0
+P0307,182.0,79.0,36.7,66.0,nausea,Diabetes,Heart Disease,High Blood Sugar,143.0,100.0,Yes,Never,145.0,92.0
+P0308,164.0,67.0,37.4,83.0,nausea,Hypertension,Coronary Artery Disease,Normal,276.0,111.0,No,Former,132.45075757575756,86.14621212121212
+P0309,175.0,78.0,36.9,74.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,174.0,95.0,Yes,Current,120.0,80.0
+P0310,167.0,83.0,36.8,75.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,189.0,99.00744680851064,No,Never,130.0,85.0
+P0311,167.0,65.0,37.0,73.0,fatigue,Asthma,Hypertension,High Cholesterol,163.0,102.0,Yes,Former,140.0,90.0
+P0313,178.0,73.0,37.2,62.0,palpitations,Diabetes,Heart Disease,Normal,209.0,82.0,Yes,Never,135.0,88.0
+P0314,178.0,77.0,37.2,81.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,165.0,99.00744680851064,No,Former,132.45075757575756,86.14621212121212
+P0315,183.0,79.0,36.8,86.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,234.0,80.0,Yes,Current,132.45075757575756,86.14621212121212
+P0316,170.0,76.0,37.5,82.0,chest pain,Diabetes,Stroke,High Cholesterol,230.0,127.0,No,Never,120.0,80.0
+P0317,176.0,82.0,36.4,98.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,199.6129541864139,136.0,Yes,Former,130.0,85.0
+P0319,173.0,61.0,37.1,84.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,166.0,133.0,Yes,Never,125.0,82.0
+P0320,168.0,53.0,36.8,73.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,180.0,161.0,No,Former,135.0,88.0
+P0321,170.0,76.0,37.0,87.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,119.0,107.0,Yes,Current,145.0,92.0
+P0322,175.0,81.0,36.9,74.0,nausea,Diabetes,Stroke,High Blood Sugar,147.0,117.0,No,Never,132.45075757575756,86.14621212121212
+P0323,161.0,76.0,37.6,71.0,chest pain,Asthma,Hypertension,Normal,272.0,131.0,Yes,Former,120.0,80.0
+P0325,169.90234986945168,69.0,36.6,70.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,202.0,105.0,Yes,Never,140.0,90.0
+P0326,157.0,80.0,37.5,60.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,266.0,60.0,No,Former,125.0,82.0
+P0327,181.0,53.0,36.7,69.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,193.0,104.0,Yes,Current,135.0,88.0
+P0328,177.0,64.0,37.5,81.0,nausea,Diabetes,Stroke,Normal,190.0,114.0,No,Never,145.0,92.0
+P0329,176.0,80.0,36.97098308668076,88.0,nausea,Asthma,Hypertension,Low Iron,202.0,115.0,Yes,Former,132.45075757575756,86.14621212121212
+P0331,169.0,69.38871473354232,37.3,88.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,191.0,76.0,Yes,Never,130.0,85.0
+P0332,161.0,68.0,36.4,61.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,245.0,84.0,No,Former,140.0,90.0
+P0333,170.0,47.0,37.4,70.0,dizziness,High Cholesterol,Arrhythmia,Normal,206.0,156.0,Yes,Current,125.0,82.0
+P0334,163.0,64.0,37.1,72.0,palpitations,Diabetes,Stroke,Low Iron,228.0,95.0,No,Never,135.0,88.0
+P0335,179.0,83.0,37.2,73.0,nausea,Asthma,Hypertension,High Blood Sugar,241.0,106.0,Yes,Former,145.0,92.0
+P0337,161.0,77.0,36.2,81.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,161.0,99.00744680851064,Yes,Never,120.0,80.0
+P0338,166.0,70.0,37.3,70.0,shortness of breath,Hypertension,Coronary Artery Disease,Normal,145.0,148.0,No,Former,130.0,85.0
+P0339,174.0,70.0,36.0,76.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,205.0,84.0,Yes,Current,140.0,90.0
+P0340,164.0,60.0,36.8,74.56752496058854,nausea,Diabetes,Stroke,High Blood Sugar,193.0,66.0,No,Never,125.0,82.0
+P0341,161.0,80.0,37.5,65.0,palpitations,Asthma,Hypertension,High Cholesterol,203.0,86.0,Yes,Former,135.0,88.0
+P0343,172.0,69.38871473354232,38.0,73.0,nausea,Diabetes,Heart Disease,Normal,303.0,80.0,Yes,Never,132.45075757575756,86.14621212121212
+P0344,164.0,62.0,37.5,73.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,146.0,70.0,No,Former,120.0,80.0
+P0345,165.0,37.0,36.7,75.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,120.0,118.0,Yes,Current,130.0,85.0
+P0346,172.0,86.0,37.0,75.0,fatigue,Diabetes,Stroke,High Cholesterol,213.0,79.0,No,Never,140.0,90.0
+P0347,155.0,62.0,37.0,70.0,dizziness,Asthma,Hypertension,High Blood Sugar,184.0,126.0,Yes,Former,125.0,82.0
+P0349,162.0,80.0,36.5,63.0,nausea,Diabetes,Heart Disease,Low Iron,223.0,99.00744680851064,Yes,Never,145.0,92.0
+P0350,167.0,64.0,36.7,67.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,251.0,93.0,No,Former,132.45075757575756,86.14621212121212
+P0351,173.0,85.0,36.0,102.0,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,139.0,104.0,Yes,Current,120.0,80.0
+P0352,184.0,79.0,37.0,64.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,177.0,54.0,No,Former,130.0,85.0
+P0353,178.0,80.0,36.9,61.0,fatigue,Asthma,Hypertension,Normal,217.0,95.0,Yes,Former,140.0,90.0
+P0355,169.0,88.0,36.97098308668076,54.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,287.0,120.0,Yes,Never,135.0,88.0
+P0356,159.0,73.0,37.4,72.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,238.0,177.0,No,Former,145.0,92.0
+P0357,169.0,64.0,36.97098308668076,96.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,197.0,114.0,Yes,Current,132.45075757575756,86.14621212121212
+P0358,167.0,72.0,36.8,59.0,chest pain,Diabetes,Stroke,Normal,164.0,40.0,No,Never,120.0,80.0
+P0359,173.0,43.0,37.3,55.0,shortness of breath,Asthma,Hypertension,Low Iron,177.0,89.0,Yes,Former,130.0,85.0
+P0361,175.0,54.0,37.2,83.0,nausea,Diabetes,Heart Disease,High Cholesterol,226.0,102.0,Yes,Never,125.0,82.0
+P0362,185.0,49.0,36.6,86.0,palpitations,Diabetes,Coronary Artery Disease,High Blood Sugar,210.0,78.0,No,Former,135.0,88.0
+P0363,168.0,47.0,37.1,69.0,nausea,High Cholesterol,Arrhythmia,Normal,147.0,107.0,Yes,Current,145.0,92.0
+P0364,174.0,86.0,37.6,81.0,nausea,Diabetes,Stroke,Low Iron,182.0,62.0,No,Never,132.45075757575756,86.14621212121212
+P0365,176.0,60.0,36.7,88.0,chest pain,Asthma,Hypertension,High Blood Sugar,235.0,71.0,Yes,Former,120.0,80.0
+P0367,172.0,61.0,36.7,72.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,222.0,99.00744680851064,Yes,Never,140.0,90.0
+P0368,170.0,44.0,37.0,51.0,dizziness,Hypertension,Coronary Artery Disease,Normal,215.0,116.0,No,Former,125.0,82.0
+P0369,170.0,53.0,36.7,66.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,265.0,58.0,Yes,Current,135.0,88.0
+P0370,162.0,88.0,37.1,70.0,nausea,Diabetes,Stroke,High Blood Sugar,209.0,152.0,Yes,Never,145.0,92.0
+P0371,170.0,67.0,36.1,74.56752496058854,nausea,Asthma,Hypertension,High Cholesterol,184.0,76.0,Yes,Former,132.45075757575756,86.14621212121212
+P0373,184.0,72.0,36.5,86.0,shortness of breath,Diabetes,Heart Disease,Normal,209.0,109.0,Yes,Never,130.0,85.0
+P0374,179.0,77.0,37.1,87.0,fatigue,Hypertension,Coronary Artery Disease,Low Iron,102.0,83.0,No,Former,140.0,90.0
+P0375,191.0,86.0,37.5,73.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,192.0,104.0,Yes,Current,125.0,82.0
+P0376,162.0,91.0,37.3,85.0,palpitations,Diabetes,Stroke,High Cholesterol,191.0,117.0,No,Never,135.0,88.0
+P0377,178.0,64.0,35.8,78.0,nausea,Asthma,Hypertension,High Blood Sugar,145.0,128.0,Yes,Former,145.0,92.0
+P0379,191.0,63.0,37.1,84.0,chest pain,Diabetes,Heart Disease,Low Iron,232.0,99.00744680851064,Yes,Never,120.0,80.0
+P0380,161.0,73.0,36.6,75.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,209.0,99.00744680851064,No,Former,130.0,85.0
+P0381,161.0,55.0,37.1,95.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,204.0,170.0,Yes,Current,140.0,90.0
+P0382,164.0,55.0,37.1,60.0,dizziness,Diabetes,Stroke,High Blood Sugar,212.0,128.0,No,Never,125.0,82.0
+P0383,148.0,75.0,36.7,69.0,palpitations,Asthma,Hypertension,Normal,203.0,72.0,Yes,Former,135.0,88.0
+P0385,162.0,69.38871473354232,36.7,79.0,nausea,Diabetes,Heart Disease,High Blood Sugar,204.0,89.0,Yes,Never,132.45075757575756,86.14621212121212
+P0386,171.0,58.0,36.8,87.0,chest pain,Hypertension,Coronary Artery Disease,High Cholesterol,141.0,95.0,No,Former,120.0,80.0
+P0387,173.0,66.0,36.7,74.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,265.0,63.0,Yes,Current,130.0,85.0
+P0388,188.0,56.0,36.3,60.0,fatigue,Diabetes,Stroke,Normal,214.0,87.0,No,Never,140.0,90.0
+P0389,179.0,83.0,37.1,83.0,dizziness,Diabetes,Hypertension,Low Iron,176.0,154.0,Yes,Former,125.0,82.0
+P0391,161.0,42.0,37.3,55.0,nausea,Diabetes,Heart Disease,High Cholesterol,199.6129541864139,25.0,Yes,Never,145.0,92.0
+P0392,174.0,56.0,37.4,74.0,nausea,Diabetes,Coronary Artery Disease,High Blood Sugar,195.0,136.0,No,Former,132.45075757575756,86.14621212121212
+P0393,156.0,47.0,37.2,59.0,chest pain,High Cholesterol,Arrhythmia,Normal,262.0,132.0,Yes,Current,120.0,80.0
+P0394,188.0,60.0,36.7,68.0,shortness of breath,Diabetes,Stroke,Low Iron,199.6129541864139,89.0,No,Never,130.0,85.0
+P0395,169.90234986945168,68.0,37.4,65.0,fatigue,Asthma,Hypertension,High Blood Sugar,166.0,121.0,Yes,Former,140.0,90.0
+P0397,152.0,56.0,36.5,76.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,237.0,85.0,Yes,Never,135.0,88.0
+P0398,183.0,54.0,36.5,62.0,nausea,Hypertension,Coronary Artery Disease,Normal,199.6129541864139,144.0,No,Former,145.0,92.0
+P0399,168.0,73.0,37.5,74.56752496058854,nausea,High Cholesterol,Arrhythmia,Low Iron,227.0,91.0,Yes,Current,132.45075757575756,86.14621212121212
+P0400,182.0,71.0,37.5,60.0,chest pain,Diabetes,Stroke,High Blood Sugar,198.0,43.0,No,Never,120.0,80.0
+P0401,154.0,59.0,37.2,78.0,shortness of breath,Asthma,Hypertension,High Cholesterol,209.0,98.0,Yes,Former,130.0,85.0
+P0403,170.0,61.0,36.6,71.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,225.0,135.0,Yes,Never,125.0,82.0
+P0404,170.0,65.0,36.97098308668076,80.0,palpitations,Hypertension,Coronary Artery Disease,Low Iron,193.0,100.0,No,Former,135.0,88.0
+P0405,165.0,95.0,36.9,80.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,254.0,99.00744680851064,Yes,Current,145.0,92.0
+P0406,176.0,90.0,37.4,88.0,nausea,Diabetes,Stroke,High Cholesterol,199.6129541864139,131.0,No,Never,132.45075757575756,86.14621212121212
+P0407,169.90234986945168,50.0,36.9,74.0,chest pain,Asthma,Hypertension,High Blood Sugar,282.0,103.0,Yes,Former,120.0,80.0
+P0409,171.0,82.0,37.3,70.0,fatigue,Diabetes,Heart Disease,Low Iron,174.0,134.0,Yes,Never,140.0,90.0
+P0410,175.0,52.0,37.4,76.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,105.0,No,Former,125.0,82.0
+P0411,177.0,82.0,36.7,79.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,194.0,100.0,Yes,Current,135.0,88.0
+P0412,158.0,93.0,37.0,74.0,nausea,Diabetes,Stroke,High Blood Sugar,240.0,105.0,No,Never,145.0,92.0
+P0413,154.0,53.0,36.5,56.0,nausea,Asthma,Hypertension,Normal,157.0,67.0,Yes,Former,132.45075757575756,86.14621212121212
+P0415,173.0,85.0,37.1,78.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,199.6129541864139,100.0,Yes,Never,130.0,85.0
+P0416,169.90234986945168,74.0,37.3,68.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,211.0,94.0,No,Former,140.0,90.0
+P0417,185.0,78.0,37.1,62.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,197.0,138.0,Yes,Current,125.0,82.0
+P0418,171.0,75.0,36.0,89.0,palpitations,Diabetes,Stroke,Normal,203.0,106.0,No,Never,135.0,88.0
+P0419,181.0,75.0,36.8,79.0,nausea,Asthma,Hypertension,Low Iron,178.0,125.0,Yes,Former,145.0,92.0
+P0421,190.0,85.0,37.7,63.0,chest pain,Diabetes,Heart Disease,High Cholesterol,211.0,131.0,Yes,Never,120.0,80.0
+P0422,187.0,87.0,36.5,66.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,237.0,111.0,No,Former,130.0,85.0
+P0423,167.0,66.0,37.6,88.0,fatigue,Diabetes,Arrhythmia,Normal,176.0,100.0,Yes,Current,140.0,90.0
+P0424,179.0,69.0,37.5,76.0,dizziness,Diabetes,Stroke,High Blood Sugar,165.0,99.0,Yes,Never,125.0,82.0
+P0425,176.0,47.0,36.5,69.0,palpitations,Asthma,Hypertension,High Blood Sugar,224.0,71.0,Yes,Former,135.0,88.0
+P0427,160.0,69.38871473354232,37.2,66.0,nausea,Diabetes,Heart Disease,High Blood Sugar,233.0,98.0,Yes,Never,132.45075757575756,86.14621212121212
+P0428,176.0,69.0,36.6,90.0,chest pain,Hypertension,Coronary Artery Disease,Normal,199.6129541864139,84.0,No,Former,120.0,80.0
+P0429,180.0,86.0,37.1,88.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,128.0,133.0,Yes,Current,130.0,85.0
+P0430,152.0,64.0,36.8,70.0,fatigue,Diabetes,Stroke,High Blood Sugar,178.0,62.0,Yes,Former,140.0,90.0
+P0431,158.0,78.0,36.1,74.56752496058854,dizziness,Asthma,Hypertension,High Cholesterol,169.0,87.0,Yes,Former,125.0,82.0
+P0433,167.0,69.0,37.1,60.0,nausea,Diabetes,Heart Disease,Normal,199.6129541864139,109.0,Yes,Never,145.0,92.0
+P0434,177.0,67.0,36.7,61.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,229.0,98.0,No,Former,132.45075757575756,86.14621212121212
+P0435,185.0,73.0,36.7,76.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,188.0,107.0,Yes,Current,120.0,80.0
+P0437,186.0,68.0,37.6,61.0,fatigue,Asthma,Hypertension,High Blood Sugar,206.0,54.0,Yes,Former,140.0,90.0
+P0439,152.0,63.0,36.8,80.0,palpitations,Diabetes,Heart Disease,Low Iron,199.0,148.0,Yes,Former,135.0,88.0
+P0441,173.0,96.0,36.3,56.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,168.0,90.0,Yes,Current,132.45075757575756,86.14621212121212
+P0442,169.0,90.0,37.1,73.0,chest pain,Diabetes,Stroke,High Blood Sugar,199.6129541864139,83.0,No,Never,120.0,80.0
+P0443,149.0,50.0,37.3,61.0,shortness of breath,Asthma,Hypertension,Normal,190.0,97.0,Yes,Former,130.0,85.0
+P0445,156.0,62.0,36.0,82.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,207.0,114.0,Yes,Never,125.0,82.0
+P0446,176.0,73.0,36.6,66.0,palpitations,Diabetes,Coronary Artery Disease,High Cholesterol,199.6129541864139,105.0,No,Former,135.0,88.0
+P0447,173.0,74.0,36.6,67.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,226.0,123.0,Yes,Current,145.0,92.0
+P0448,160.0,66.0,37.0,70.0,nausea,Diabetes,Stroke,Normal,288.0,68.0,No,Never,132.45075757575756,86.14621212121212
+P0449,164.0,58.0,37.2,52.0,chest pain,Asthma,Hypertension,Low Iron,168.0,89.0,Yes,Former,120.0,80.0
+P0451,169.0,56.0,36.8,72.0,fatigue,Diabetes,Heart Disease,High Cholesterol,129.0,113.0,Yes,Never,140.0,90.0
+P0452,179.0,57.0,36.8,84.0,dizziness,Diabetes,Coronary Artery Disease,High Blood Sugar,218.0,76.0,No,Former,132.45075757575756,86.14621212121212
+P0453,160.0,68.0,37.6,64.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,164.0,127.0,Yes,Current,135.0,88.0
+P0455,164.0,80.0,37.6,59.0,nausea,Asthma,Hypertension,High Blood Sugar,155.0,70.0,Yes,Former,132.45075757575756,86.14621212121212
+P0457,168.0,61.0,36.4,63.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,240.0,84.0,Yes,Never,130.0,85.0
+P0458,159.0,73.0,36.3,84.0,fatigue,Hypertension,Coronary Artery Disease,Normal,200.0,178.0,No,Former,140.0,90.0
+P0459,164.0,77.0,36.2,68.0,nausea,High Cholesterol,Arrhythmia,Low Iron,165.0,87.0,Yes,Former,125.0,82.0
+P0460,158.0,77.0,37.3,76.0,palpitations,Diabetes,Stroke,High Blood Sugar,263.0,150.0,No,Never,135.0,88.0
+P0461,189.0,71.0,37.6,71.0,nausea,Diabetes,Hypertension,High Cholesterol,169.0,62.0,Yes,Former,145.0,92.0
+P0463,163.0,77.0,37.4,73.0,chest pain,Diabetes,Heart Disease,Normal,218.0,79.0,Yes,Never,120.0,80.0
+P0464,172.0,51.0,37.6,80.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,155.0,74.0,No,Former,130.0,85.0
+P0465,168.0,83.0,36.7,74.56752496058854,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,239.0,91.0,Yes,Current,140.0,90.0
+P0466,167.0,83.0,36.4,83.0,dizziness,Diabetes,Stroke,High Cholesterol,184.0,78.0,No,Never,125.0,82.0
+P0467,176.0,58.0,37.4,66.0,palpitations,Diabetes,Hypertension,High Blood Sugar,224.0,75.0,Yes,Former,135.0,88.0
+P0469,164.0,80.0,37.1,80.0,nausea,Diabetes,Heart Disease,Low Iron,199.6129541864139,136.0,Yes,Never,132.45075757575756,86.14621212121212
+P0470,169.90234986945168,66.0,37.2,68.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,177.0,128.0,No,Former,120.0,80.0
+P0471,167.0,86.0,37.2,75.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,196.0,115.0,Yes,Current,130.0,85.0
+P0472,146.0,105.0,37.6,71.0,fatigue,Diabetes,Stroke,High Blood Sugar,261.0,102.0,No,Never,140.0,90.0
+P0473,154.0,58.0,37.6,76.0,dizziness,Asthma,Hypertension,Normal,173.0,85.0,Yes,Former,125.0,82.0
+P0475,186.0,74.0,37.4,56.0,nausea,Diabetes,Heart Disease,High Blood Sugar,219.0,110.0,Yes,Never,145.0,92.0
+P0476,167.0,80.0,37.3,81.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,176.0,64.0,No,Former,132.45075757575756,86.14621212121212
+P0477,175.0,66.0,36.8,85.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,206.0,70.0,Yes,Current,120.0,80.0
+P0478,173.0,91.0,37.4,65.0,shortness of breath,Diabetes,Stroke,Normal,137.0,134.0,No,Never,130.0,85.0
+P0479,200.0,49.0,36.3,72.0,fatigue,Asthma,Hypertension,Low Iron,288.0,157.0,Yes,Former,140.0,90.0
+P0481,168.0,60.0,36.4,81.0,palpitations,Diabetes,Heart Disease,High Cholesterol,187.0,133.0,Yes,Never,135.0,88.0
+P0482,160.0,95.0,37.1,54.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,198.0,92.0,No,Former,145.0,92.0
+P0483,153.0,99.0,36.6,66.0,nausea,High Cholesterol,Arrhythmia,Normal,276.0,59.0,Yes,Current,132.45075757575756,86.14621212121212
+P0485,162.0,61.0,37.0,82.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,279.0,117.0,Yes,Former,130.0,85.0
+P0487,163.0,64.0,37.2,72.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,216.0,92.0,Yes,Never,125.0,82.0
+P0488,159.0,69.0,36.7,74.56752496058854,palpitations,Hypertension,Coronary Artery Disease,Normal,160.0,128.0,No,Former,135.0,88.0
+P0489,186.0,70.0,37.4,79.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,222.0,70.0,Yes,Current,145.0,92.0
+P0491,169.0,69.0,37.2,76.0,chest pain,Asthma,Hypertension,High Cholesterol,250.0,69.0,Yes,Former,120.0,80.0
+P0493,170.0,62.0,36.7,84.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,195.0,67.0,Yes,Never,140.0,90.0
+P0494,169.90234986945168,91.0,36.8,81.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,177.0,79.0,No,Former,125.0,82.0
+P0495,185.0,51.0,37.4,64.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,160.0,78.0,Yes,Current,135.0,88.0
+P0496,175.0,82.0,37.8,74.56752496058854,nausea,Diabetes,Stroke,High Cholesterol,229.0,92.0,Yes,Never,145.0,92.0
+P0497,159.0,65.0,36.6,84.0,nausea,Asthma,Hypertension,High Blood Sugar,221.0,55.0,Yes,Former,132.45075757575756,86.14621212121212
+P0499,161.0,81.0,35.9,74.0,shortness of breath,Diabetes,Heart Disease,Low Iron,128.0,137.0,Yes,Never,130.0,85.0
+P0500,156.0,75.0,36.4,71.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,242.0,104.0,No,Former,140.0,90.0
+P0501,179.0,78.0,36.5,87.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,300.0,146.0,Yes,Current,125.0,82.0
+P0502,169.90234986945168,84.0,36.3,62.0,palpitations,Diabetes,Stroke,High Blood Sugar,181.0,140.0,No,Never,135.0,88.0
+P0503,156.0,65.0,36.2,79.0,nausea,Asthma,Hypertension,Normal,275.0,123.0,Yes,Former,145.0,92.0
+P0505,169.90234986945168,53.0,36.9,85.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,145.0,100.0,Yes,Never,120.0,80.0
+P0506,165.0,57.0,37.2,72.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,187.0,122.0,No,Former,130.0,85.0
+P0507,164.0,114.0,37.3,87.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,241.0,88.0,Yes,Current,140.0,90.0
+P0508,161.0,88.0,37.1,79.0,dizziness,Diabetes,Stroke,Normal,166.0,43.0,No,Never,125.0,82.0
+P0509,170.0,49.0,37.3,62.0,palpitations,Asthma,Hypertension,Low Iron,175.0,114.0,Yes,Former,135.0,88.0
+P0511,172.0,77.0,36.4,90.0,nausea,Diabetes,Heart Disease,High Cholesterol,200.0,71.0,Yes,Never,132.45075757575756,86.14621212121212
+P0512,169.0,78.0,37.5,83.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,223.0,100.0,No,Former,120.0,80.0
+P0513,167.0,78.0,36.7,67.0,shortness of breath,High Cholesterol,Arrhythmia,Normal,209.0,97.0,Yes,Current,130.0,85.0
+P0514,160.0,66.0,36.5,71.0,nausea,Diabetes,Stroke,Low Iron,219.0,57.0,No,Never,140.0,90.0
+P0515,164.0,68.0,36.9,76.0,dizziness,Asthma,Hypertension,High Blood Sugar,182.0,99.00744680851064,Yes,Former,125.0,82.0
+P0517,175.0,69.38871473354232,36.8,91.0,nausea,Diabetes,Heart Disease,High Blood Sugar,162.0,66.0,Yes,Never,145.0,92.0
+P0518,160.0,36.0,37.2,76.0,nausea,Hypertension,Coronary Artery Disease,Normal,251.0,138.0,No,Former,132.45075757575756,86.14621212121212
+P0519,170.0,66.0,37.2,47.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,174.0,53.0,Yes,Current,120.0,80.0
+P0520,177.0,57.0,36.6,78.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,245.0,163.0,No,Never,130.0,85.0
+P0521,153.0,72.0,36.8,71.0,fatigue,Asthma,Hypertension,High Cholesterol,190.0,87.0,Yes,Former,140.0,90.0
+P0523,163.0,75.0,37.2,71.0,palpitations,Diabetes,Heart Disease,Normal,180.0,43.0,Yes,Never,135.0,88.0
+P0524,175.0,69.38871473354232,38.0,83.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,159.0,98.0,No,Former,132.45075757575756,86.14621212121212
+P0525,162.0,83.0,37.6,86.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,130.0,106.0,Yes,Former,132.45075757575756,86.14621212121212
+P0526,151.0,77.0,37.6,77.0,nausea,Diabetes,Stroke,High Cholesterol,157.0,97.0,No,Never,120.0,80.0
+P0527,153.0,76.0,36.3,71.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,187.0,83.0,Yes,Former,130.0,85.0
+P0529,172.0,100.0,37.0,75.0,dizziness,Diabetes,Heart Disease,Low Iron,240.0,133.0,Yes,Never,125.0,82.0
+P0530,160.0,53.0,36.7,66.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,182.0,100.0,No,Former,135.0,88.0
+P0531,176.0,77.0,37.1,80.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,164.0,146.0,Yes,Current,145.0,92.0
+P0532,153.0,56.0,37.5,79.0,nausea,Diabetes,Stroke,High Blood Sugar,142.0,84.0,No,Never,132.45075757575756,86.14621212121212
+P0533,169.0,78.0,37.3,90.0,chest pain,Asthma,Hypertension,Normal,219.0,86.0,Yes,Former,120.0,80.0
+P0535,163.0,63.0,37.4,68.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,250.0,51.0,Yes,Never,140.0,90.0
+P0536,170.0,65.0,36.7,83.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,228.0,63.0,No,Former,125.0,82.0
+P0537,161.0,84.0,37.1,65.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,225.0,132.0,Yes,Current,135.0,88.0
+P0538,166.0,83.0,36.8,81.0,nausea,Diabetes,Stroke,Normal,267.0,64.0,No,Never,132.45075757575756,86.14621212121212
+P0539,180.0,51.0,36.97098308668076,69.0,nausea,Diabetes,Hypertension,Low Iron,213.0,45.0,Yes,Former,132.45075757575756,86.14621212121212
+P0541,178.0,59.0,36.5,77.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,187.0,58.0,Yes,Former,130.0,85.0
+P0542,158.0,51.0,38.0,48.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,145.0,105.0,No,Former,140.0,90.0
+P0543,175.0,66.0,36.1,57.0,dizziness,High Cholesterol,Arrhythmia,Normal,172.0,102.0,Yes,Current,125.0,82.0
+P0544,169.90234986945168,65.0,36.7,73.0,palpitations,Diabetes,Stroke,Low Iron,199.0,15.0,No,Never,135.0,88.0
+P0545,145.0,106.0,37.2,75.0,nausea,Asthma,Hypertension,High Blood Sugar,202.0,91.0,Yes,Former,145.0,92.0
+P0547,175.0,49.0,36.9,74.56752496058854,chest pain,Diabetes,Heart Disease,High Blood Sugar,203.0,110.0,Yes,Never,120.0,80.0
+P0548,167.0,61.0,37.0,66.0,shortness of breath,Hypertension,Coronary Artery Disease,Normal,247.0,127.0,No,Former,130.0,85.0
+P0549,173.0,85.0,36.97098308668076,78.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,182.0,88.0,Yes,Current,132.45075757575756,86.14621212121212
+P0551,170.0,46.0,37.7,74.0,nausea,Asthma,Hypertension,High Cholesterol,146.0,79.0,Yes,Former,135.0,88.0
+P0553,181.0,98.0,37.4,78.0,nausea,Diabetes,Heart Disease,Normal,221.0,61.0,Yes,Never,132.45075757575756,86.14621212121212
+P0554,172.0,75.0,36.5,67.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,200.0,56.0,Yes,Former,120.0,80.0
+P0555,173.0,56.0,37.0,72.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,237.0,130.0,Yes,Current,130.0,85.0
+P0556,165.0,78.0,36.8,60.0,fatigue,Diabetes,Stroke,High Cholesterol,207.0,54.0,No,Never,140.0,90.0
+P0557,165.0,30.0,36.5,73.0,dizziness,Diabetes,Hypertension,High Blood Sugar,185.0,108.0,Yes,Former,125.0,82.0
+P0559,173.0,74.0,36.7,81.0,nausea,Diabetes,Heart Disease,Low Iron,196.0,99.00744680851064,Yes,Never,145.0,92.0
+P0560,165.0,83.0,37.3,89.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,246.0,140.0,No,Former,132.45075757575756,86.14621212121212
+P0561,172.0,54.0,36.5,71.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,183.0,86.0,Yes,Current,120.0,80.0
+P0562,190.0,71.0,37.9,88.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,228.0,118.0,No,Never,130.0,85.0
+P0563,178.0,56.0,36.6,73.0,fatigue,Asthma,Hypertension,Normal,237.0,101.0,Yes,Former,140.0,90.0
+P0565,182.0,56.0,37.4,74.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,105.0,168.0,Yes,Never,135.0,88.0
+P0566,165.0,63.0,36.7,82.0,nausea,Diabetes,Coronary Artery Disease,High Cholesterol,200.0,56.0,No,Former,145.0,92.0
+P0568,159.0,79.0,36.4,73.0,chest pain,Diabetes,Stroke,Normal,221.0,119.0,No,Never,120.0,80.0
+P0569,151.0,82.0,37.7,77.0,shortness of breath,Diabetes,Hypertension,Low Iron,217.0,85.0,Yes,Former,130.0,85.0
+P0571,170.0,70.0,36.7,73.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,171.0,44.0,Yes,Never,125.0,82.0
+P0572,186.0,48.0,36.9,61.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,216.0,84.0,No,Former,135.0,88.0
+P0573,173.0,65.0,37.4,96.0,nausea,High Cholesterol,Arrhythmia,Normal,216.0,63.0,Yes,Current,145.0,92.0
+P0574,167.0,69.0,36.7,70.0,nausea,Diabetes,Stroke,Low Iron,199.6129541864139,112.0,No,Never,132.45075757575756,86.14621212121212
+P0575,178.0,109.0,36.6,76.0,chest pain,Asthma,Hypertension,High Blood Sugar,194.0,66.0,Yes,Former,120.0,80.0
+P0577,172.0,91.0,36.4,68.0,nausea,Diabetes,Heart Disease,High Blood Sugar,200.0,94.0,Yes,Never,140.0,90.0
+P0578,177.0,84.0,37.9,64.0,dizziness,Hypertension,Coronary Artery Disease,Normal,160.0,85.0,No,Former,125.0,82.0
+P0579,155.0,74.0,36.7,77.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,109.0,99.00744680851064,Yes,Current,135.0,88.0
+P0580,181.0,96.0,37.4,57.0,nausea,Diabetes,Stroke,High Blood Sugar,217.0,91.0,No,Never,145.0,92.0
+P0581,173.0,75.0,37.1,72.0,nausea,Asthma,Hypertension,High Cholesterol,206.0,67.0,Yes,Former,132.45075757575756,86.14621212121212
+P0583,176.0,69.0,37.0,72.0,shortness of breath,Diabetes,Heart Disease,Normal,135.0,85.0,Yes,Never,130.0,85.0
+P0584,169.90234986945168,88.0,37.4,59.0,nausea,Diabetes,Coronary Artery Disease,Low Iron,225.0,99.00744680851064,No,Former,140.0,90.0
+P0585,171.0,86.0,36.9,90.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,189.0,74.0,Yes,Current,125.0,82.0
+P0587,165.0,50.0,36.97098308668076,89.0,nausea,Diabetes,Hypertension,High Blood Sugar,274.0,124.0,Yes,Former,145.0,92.0
+P0589,178.0,57.0,36.8,66.0,chest pain,Diabetes,Heart Disease,Low Iron,172.0,111.0,Yes,Never,120.0,80.0
+P0590,169.90234986945168,69.0,36.97098308668076,77.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,191.0,88.0,No,Former,130.0,85.0
+P0591,170.0,88.0,36.7,72.0,fatigue,Diabetes,Arrhythmia,High Cholesterol,258.0,91.0,Yes,Current,140.0,90.0
+P0592,165.0,63.0,37.1,63.0,dizziness,Diabetes,Stroke,High Blood Sugar,134.0,88.0,No,Never,125.0,82.0
+P0593,174.0,69.0,37.3,89.0,palpitations,Asthma,Hypertension,Normal,277.0,97.0,Yes,Former,135.0,88.0
+P0595,180.0,82.0,37.0,56.0,nausea,Diabetes,Heart Disease,High Blood Sugar,196.0,110.0,Yes,Never,132.45075757575756,86.14621212121212
+P0596,164.0,36.0,36.97098308668076,88.0,chest pain,Hypertension,Coronary Artery Disease,High Cholesterol,199.6129541864139,115.0,No,Former,120.0,80.0
+P0597,167.0,69.38871473354232,36.9,69.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,182.0,114.0,Yes,Current,130.0,85.0
+P0599,169.90234986945168,88.0,37.2,57.0,dizziness,Diabetes,Hypertension,Low Iron,157.0,108.0,Yes,Former,125.0,82.0
+P0601,169.90234986945168,41.0,36.9,62.0,nausea,Diabetes,Heart Disease,High Cholesterol,184.0,135.0,Yes,Never,145.0,92.0
+P0602,160.0,79.0,37.5,75.0,nausea,Diabetes,Coronary Artery Disease,High Blood Sugar,169.0,80.0,No,Former,132.45075757575756,86.14621212121212
+P0603,178.0,60.0,37.8,84.0,chest pain,High Cholesterol,Arrhythmia,Normal,303.0,99.00744680851064,Yes,Current,120.0,80.0
+P0605,174.0,60.0,36.5,74.0,fatigue,Diabetes,Hypertension,High Blood Sugar,224.0,105.0,Yes,Former,140.0,90.0
+P0607,162.0,60.0,36.8,66.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,143.0,113.0,Yes,Never,135.0,88.0
+P0608,157.0,36.0,37.2,76.0,nausea,Hypertension,Coronary Artery Disease,Normal,270.0,96.0,No,Former,145.0,92.0
+P0609,169.90234986945168,83.0,37.3,67.0,nausea,High Cholesterol,Arrhythmia,Low Iron,99.0,134.0,Yes,Current,132.45075757575756,86.14621212121212
+P0610,184.0,89.0,36.6,77.0,chest pain,Diabetes,Stroke,High Blood Sugar,169.0,79.0,No,Never,132.45075757575756,86.14621212121212
+P0611,176.0,79.0,37.0,81.0,shortness of breath,Diabetes,Hypertension,High Cholesterol,181.0,93.0,Yes,Former,130.0,85.0
+P0613,172.0,66.0,37.7,62.0,dizziness,Diabetes,Heart Disease,Normal,208.0,141.0,Yes,Never,125.0,82.0
+P0614,158.0,69.0,36.7,74.56752496058854,palpitations,Hypertension,Coronary Artery Disease,Low Iron,193.0,79.0,No,Former,135.0,88.0
+P0615,194.0,78.0,37.0,82.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,199.0,105.0,Yes,Former,145.0,92.0
+P0616,171.0,80.0,36.8,74.0,nausea,Diabetes,Stroke,High Cholesterol,160.0,108.0,No,Never,132.45075757575756,86.14621212121212
+P0617,171.0,58.0,37.6,85.0,chest pain,Asthma,Hypertension,High Blood Sugar,140.0,111.0,Yes,Former,132.45075757575756,86.14621212121212
+P0619,174.0,69.38871473354232,37.0,60.0,fatigue,Diabetes,Heart Disease,Low Iron,227.0,138.0,Yes,Never,140.0,90.0
+P0620,172.0,91.0,36.9,72.0,dizziness,Diabetes,Coronary Artery Disease,High Blood Sugar,263.0,43.0,No,Former,125.0,82.0
+P0621,162.0,80.0,36.8,51.0,palpitations,High Cholesterol,Arrhythmia,High Cholesterol,168.0,87.0,Yes,Current,135.0,88.0
+P0622,174.0,81.0,37.9,76.0,nausea,Diabetes,Stroke,High Blood Sugar,227.0,113.0,No,Never,145.0,92.0
+P0623,188.0,71.0,36.6,78.0,nausea,Diabetes,Hypertension,Normal,188.0,113.0,Yes,Former,132.45075757575756,86.14621212121212
+P0625,185.0,76.0,37.2,68.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,240.0,135.0,Yes,Never,130.0,85.0
+P0626,164.0,57.0,37.6,54.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,208.0,91.0,No,Former,140.0,90.0
+P0627,160.0,91.0,36.7,78.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,186.0,138.0,Yes,Current,125.0,82.0
+P0628,168.0,80.0,36.6,89.0,palpitations,Diabetes,Stroke,Normal,238.0,78.0,No,Never,135.0,88.0
+P0629,170.0,63.0,36.97098308668076,69.0,nausea,Asthma,Hypertension,Low Iron,225.0,127.0,Yes,Former,145.0,92.0
+P0631,153.0,74.0,36.2,59.0,nausea,Diabetes,Heart Disease,High Cholesterol,146.0,136.0,Yes,Never,120.0,80.0
+P0632,185.0,76.0,36.7,79.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,188.0,103.0,No,Former,130.0,85.0
+P0633,168.0,72.0,37.2,71.0,fatigue,High Cholesterol,Arrhythmia,Normal,260.0,90.0,Yes,Current,132.45075757575756,86.14621212121212
+P0634,165.0,74.0,37.4,67.0,dizziness,Diabetes,Stroke,High Blood Sugar,199.6129541864139,99.00744680851064,No,Never,125.0,82.0
+P0635,159.0,95.0,36.7,67.0,palpitations,Asthma,Hypertension,High Blood Sugar,155.0,109.0,Yes,Former,135.0,88.0
+P0637,178.0,72.0,37.3,78.0,nausea,Diabetes,Heart Disease,High Blood Sugar,250.0,76.0,Yes,Never,132.45075757575756,86.14621212121212
+P0638,169.90234986945168,84.0,36.4,61.0,chest pain,Hypertension,Coronary Artery Disease,Normal,154.0,64.0,No,Former,120.0,80.0
+P0639,157.0,54.0,36.0,71.0,shortness of breath,Diabetes,Arrhythmia,Low Iron,220.0,86.0,Yes,Current,130.0,85.0
+P0640,157.0,75.0,35.6,74.0,fatigue,Diabetes,Stroke,High Blood Sugar,199.6129541864139,99.0,No,Never,140.0,90.0
+P0641,166.0,69.38871473354232,37.4,64.0,dizziness,Asthma,Hypertension,High Cholesterol,264.0,108.0,Yes,Former,125.0,82.0
+P0643,167.0,57.0,36.9,74.56752496058854,nausea,Diabetes,Heart Disease,Normal,245.0,132.0,Yes,Never,132.45075757575756,86.14621212121212
+P0644,154.0,60.0,37.7,68.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,207.0,93.0,No,Former,132.45075757575756,86.14621212121212
+P0645,167.0,53.0,37.3,65.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,210.0,76.0,Yes,Current,120.0,80.0
+P0646,167.0,58.0,37.8,92.0,shortness of breath,Diabetes,Stroke,High Cholesterol,121.0,106.0,No,Never,130.0,85.0
+P0647,143.0,64.0,36.3,80.0,fatigue,Asthma,Hypertension,High Blood Sugar,111.0,158.0,Yes,Former,140.0,90.0
+P0649,167.0,70.0,36.97098308668076,86.0,palpitations,Diabetes,Heart Disease,Low Iron,209.0,89.0,Yes,Never,135.0,88.0
+P0650,176.0,83.0,36.9,77.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,154.0,99.00744680851064,No,Former,145.0,92.0
+P0651,188.0,56.0,36.9,77.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,199.6129541864139,99.00744680851064,Yes,Current,132.45075757575756,86.14621212121212
+P0652,169.90234986945168,92.0,37.3,71.0,chest pain,Diabetes,Stroke,High Blood Sugar,199.6129541864139,107.0,No,Never,120.0,80.0
+P0653,167.0,77.0,37.0,67.0,shortness of breath,Asthma,Hypertension,Normal,222.0,88.0,Yes,Former,130.0,85.0
+P0655,195.0,60.0,37.4,74.56752496058854,dizziness,Diabetes,Heart Disease,High Blood Sugar,231.0,74.0,Yes,Never,125.0,82.0
+P0656,170.0,82.0,38.1,93.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,153.0,143.0,No,Former,135.0,88.0
+P0657,170.0,53.0,36.8,62.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,185.0,143.0,Yes,Current,145.0,92.0
+P0658,169.0,83.0,36.5,90.0,nausea,Diabetes,Stroke,Normal,265.0,73.0,No,Never,132.45075757575756,86.14621212121212
+P0659,171.0,72.0,37.1,74.56752496058854,chest pain,Asthma,Hypertension,Low Iron,202.0,120.0,Yes,Former,120.0,80.0
+P0661,164.0,52.0,37.7,83.0,fatigue,Diabetes,Heart Disease,High Cholesterol,292.0,142.0,Yes,Never,140.0,90.0
+P0662,164.0,69.38871473354232,36.9,68.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,144.0,99.00744680851064,No,Former,132.45075757575756,86.14621212121212
+P0663,169.0,78.0,36.7,83.0,palpitations,High Cholesterol,Arrhythmia,Normal,231.0,128.0,Yes,Current,135.0,88.0
+P0664,164.0,55.0,36.8,47.0,nausea,Diabetes,Stroke,Low Iron,266.0,99.00744680851064,No,Never,145.0,92.0
+P0665,162.0,76.0,37.4,67.0,nausea,Asthma,Hypertension,High Blood Sugar,187.0,120.0,Yes,Former,132.45075757575756,86.14621212121212
+P0667,167.0,69.38871473354232,36.7,62.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,160.0,125.0,Yes,Never,130.0,85.0
+P0668,185.0,51.0,37.8,72.0,fatigue,Hypertension,Coronary Artery Disease,Normal,172.0,127.0,No,Former,140.0,90.0
+P0669,143.0,78.0,36.6,78.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,215.0,101.0,Yes,Current,125.0,82.0
+P0670,180.0,79.0,37.0,82.0,nausea,Diabetes,Stroke,High Blood Sugar,231.0,81.0,No,Never,135.0,88.0
+P0671,182.0,59.0,37.3,77.0,nausea,Asthma,Hypertension,High Blood Sugar,244.0,123.0,Yes,Former,145.0,92.0
+P0673,166.0,73.0,37.2,78.0,chest pain,Diabetes,Heart Disease,Normal,197.0,73.0,Yes,Former,120.0,80.0
+P0674,166.0,61.0,36.5,76.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,247.0,72.0,No,Former,130.0,85.0
+P0675,155.0,54.0,37.4,84.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,199.6129541864139,55.0,Yes,Current,140.0,90.0
+P0676,162.0,40.0,36.5,82.0,nausea,Diabetes,Stroke,High Cholesterol,236.0,84.0,No,Never,125.0,82.0
+P0677,158.0,75.0,37.3,75.0,palpitations,Asthma,Hypertension,High Blood Sugar,208.0,133.0,Yes,Former,135.0,88.0
+P0679,179.0,71.0,37.4,68.0,nausea,Diabetes,Heart Disease,Low Iron,216.0,84.0,Yes,Never,132.45075757575756,86.14621212121212
+P0680,182.0,66.0,37.1,69.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,135.0,124.0,No,Former,120.0,80.0
+P0681,177.0,80.0,36.9,71.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,155.0,99.00744680851064,Yes,Current,130.0,85.0
+P0682,158.0,65.0,36.7,77.0,fatigue,Diabetes,Stroke,High Blood Sugar,204.0,102.0,No,Never,132.45075757575756,86.14621212121212
+P0683,164.0,65.0,36.97098308668076,82.0,nausea,Asthma,Hypertension,Normal,132.0,94.0,Yes,Former,125.0,82.0
+P0685,157.0,75.0,36.5,75.0,nausea,Diabetes,Heart Disease,High Blood Sugar,234.0,52.0,Yes,Never,145.0,92.0
+P0686,177.0,74.0,37.3,76.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,213.0,74.0,No,Former,132.45075757575756,86.14621212121212
+P0687,167.0,77.0,36.6,69.0,chest pain,Diabetes,Arrhythmia,High Blood Sugar,155.0,50.0,Yes,Current,120.0,80.0
+P0689,177.0,81.0,36.3,57.0,fatigue,Asthma,Hypertension,Low Iron,281.0,136.0,Yes,Former,140.0,90.0
+P0691,166.0,69.38871473354232,37.0,79.0,palpitations,Diabetes,Heart Disease,High Cholesterol,220.0,84.0,Yes,Never,135.0,88.0
+P0692,181.0,66.0,37.1,67.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,208.0,126.0,No,Former,145.0,92.0
+P0693,159.0,69.0,37.5,72.0,nausea,High Cholesterol,Arrhythmia,Normal,221.0,132.0,Yes,Current,132.45075757575756,86.14621212121212
+P0694,176.0,67.0,37.3,74.56752496058854,chest pain,Diabetes,Stroke,Low Iron,195.0,97.0,No,Former,120.0,80.0
+P0695,175.0,75.0,36.9,80.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,198.0,120.0,Yes,Former,130.0,85.0
+P0697,173.0,86.0,37.3,84.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,293.0,141.0,Yes,Never,125.0,82.0
+P0698,157.0,50.0,37.6,86.0,palpitations,Hypertension,Coronary Artery Disease,Normal,143.0,164.0,No,Former,135.0,88.0
+P0700,168.0,89.0,36.8,66.0,nausea,Diabetes,Stroke,High Blood Sugar,152.0,37.0,No,Never,132.45075757575756,86.14621212121212
+P0701,164.0,75.0,36.5,86.0,nausea,Asthma,Hypertension,High Cholesterol,263.0,83.0,Yes,Former,120.0,80.0
+P0703,162.0,100.0,37.3,52.0,fatigue,Diabetes,Heart Disease,Normal,142.0,87.0,Yes,Never,140.0,90.0
+P0704,155.0,85.0,37.3,74.56752496058854,dizziness,Hypertension,Coronary Artery Disease,Low Iron,225.0,138.0,No,Former,125.0,82.0
+P0705,154.0,73.0,37.3,72.0,palpitations,Diabetes,Arrhythmia,High Blood Sugar,269.0,117.0,Yes,Current,135.0,88.0
+P0706,176.0,69.38871473354232,36.9,63.0,nausea,Diabetes,Stroke,High Cholesterol,226.0,78.0,No,Never,145.0,92.0
+P0707,157.0,72.0,36.97098308668076,70.0,nausea,Asthma,Hypertension,High Blood Sugar,208.0,100.0,Yes,Former,132.45075757575756,86.14621212121212
+P0709,149.0,64.0,37.5,89.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,256.0,94.0,Yes,Never,130.0,85.0
+P0710,186.0,93.0,37.0,72.0,fatigue,Diabetes,Coronary Artery Disease,High Blood Sugar,165.0,83.0,Yes,Former,140.0,90.0
+P0711,172.0,57.0,36.7,85.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,195.0,135.0,Yes,Current,132.45075757575756,86.14621212121212
+P0712,169.0,92.0,36.97098308668076,89.0,palpitations,Diabetes,Stroke,High Blood Sugar,181.0,163.0,No,Never,135.0,88.0
+P0713,164.0,77.0,37.2,89.0,nausea,Diabetes,Hypertension,Normal,153.0,57.0,Yes,Former,145.0,92.0
+P0715,169.0,75.0,37.0,55.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,244.0,92.0,Yes,Never,120.0,80.0
+P0716,181.0,38.0,37.0,79.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,222.0,54.0,No,Former,130.0,85.0
+P0717,171.0,79.0,38.2,85.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,225.0,99.00744680851064,Yes,Current,140.0,90.0
+P0718,171.0,83.0,37.6,74.0,dizziness,Diabetes,Stroke,Normal,205.0,122.0,No,Never,125.0,82.0
+P0719,166.0,61.0,36.97098308668076,92.0,palpitations,Asthma,Hypertension,Low Iron,220.0,144.0,Yes,Former,135.0,88.0
+P0721,169.90234986945168,99.0,37.5,80.0,nausea,Diabetes,Heart Disease,High Cholesterol,187.0,94.0,Yes,Never,132.45075757575756,86.14621212121212
+P0722,152.0,62.0,37.3,85.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,40.0,No,Former,120.0,80.0
+P0723,156.0,54.0,37.0,78.0,nausea,High Cholesterol,Arrhythmia,Normal,211.0,100.0,Yes,Current,130.0,85.0
+P0724,177.0,92.0,36.8,50.0,fatigue,Diabetes,Stroke,Low Iron,212.0,102.0,No,Never,140.0,90.0
+P0725,171.0,99.0,37.0,70.0,dizziness,Asthma,Hypertension,High Blood Sugar,194.0,119.0,Yes,Former,125.0,82.0
+P0727,170.0,85.0,37.1,66.0,nausea,Diabetes,Heart Disease,High Blood Sugar,199.6129541864139,86.0,Yes,Never,145.0,92.0
+P0728,173.0,90.0,36.8,72.0,nausea,Diabetes,Coronary Artery Disease,Normal,236.0,55.0,No,Former,132.45075757575756,86.14621212121212
+P0729,164.0,58.0,37.8,64.0,chest pain,Diabetes,Arrhythmia,Low Iron,216.0,31.0,Yes,Current,120.0,80.0
+P0730,162.0,69.38871473354232,37.0,92.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,190.0,99.00744680851064,No,Never,130.0,85.0
+P0731,171.0,88.0,36.4,91.0,fatigue,Asthma,Hypertension,High Cholesterol,181.0,52.0,Yes,Former,140.0,90.0
+P0733,174.0,78.0,36.5,76.0,palpitations,Diabetes,Heart Disease,Normal,211.0,84.0,Yes,Never,135.0,88.0
+P0734,152.0,56.0,37.2,68.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,124.0,83.0,No,Former,145.0,92.0
+P0735,180.0,99.0,37.1,81.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,137.0,70.0,Yes,Current,132.45075757575756,86.14621212121212
+P0736,174.0,69.38871473354232,36.97098308668076,80.0,chest pain,Diabetes,Stroke,High Cholesterol,174.0,3.0,No,Never,120.0,80.0
+P0737,172.0,64.0,36.6,83.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,208.0,145.0,Yes,Former,130.0,85.0
+P0739,186.0,93.0,36.3,104.0,dizziness,Diabetes,Heart Disease,Low Iron,259.0,87.0,Yes,Never,125.0,82.0
+P0740,180.0,82.0,37.4,64.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,140.0,56.0,No,Former,135.0,88.0
+P0741,151.0,76.0,37.3,57.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,169.0,129.0,Yes,Current,145.0,92.0
+P0742,157.0,76.0,37.2,71.0,nausea,Diabetes,Stroke,High Blood Sugar,260.0,104.0,No,Never,132.45075757575756,86.14621212121212
+P0743,163.0,70.0,37.0,59.0,chest pain,Asthma,Hypertension,Normal,205.0,75.0,Yes,Former,132.45075757575756,86.14621212121212
+P0745,175.0,32.0,37.8,64.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,282.0,150.0,Yes,Never,140.0,90.0
+P0746,162.0,65.0,36.9,65.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,172.0,97.0,No,Former,125.0,82.0
+P0747,171.0,73.0,37.1,65.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,196.0,94.0,Yes,Current,135.0,88.0
+P0748,162.0,52.0,36.5,80.0,nausea,Diabetes,Stroke,Normal,189.0,71.0,No,Never,145.0,92.0
+P0749,163.0,75.0,36.6,69.0,nausea,Asthma,Hypertension,Low Iron,121.0,43.0,Yes,Former,132.45075757575756,86.14621212121212
+P0751,160.0,96.0,37.6,83.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,235.0,109.0,Yes,Never,132.45075757575756,86.14621212121212
+P0752,156.0,93.0,36.9,74.56752496058854,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,221.0,132.0,No,Former,140.0,90.0
+P0753,160.0,63.0,36.97098308668076,72.0,dizziness,High Cholesterol,Arrhythmia,Normal,224.0,32.0,Yes,Current,125.0,82.0
+P0754,180.0,67.0,36.8,78.0,palpitations,Diabetes,Stroke,Low Iron,184.0,66.0,No,Never,135.0,88.0
+P0755,160.0,68.0,36.97098308668076,55.0,nausea,Asthma,Hypertension,High Blood Sugar,199.6129541864139,82.0,Yes,Former,145.0,92.0
+P0757,174.0,72.0,36.3,74.56752496058854,chest pain,Diabetes,Heart Disease,High Blood Sugar,180.0,95.0,Yes,Never,120.0,80.0
+P0758,171.0,58.0,37.6,79.0,shortness of breath,Hypertension,Coronary Artery Disease,Normal,211.0,96.0,No,Former,130.0,85.0
+P0759,161.0,53.0,36.7,95.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,206.0,112.0,Yes,Current,140.0,90.0
+P0761,164.0,79.0,36.4,83.0,palpitations,Asthma,Hypertension,High Cholesterol,238.0,128.0,Yes,Former,135.0,88.0
+P0763,195.0,83.0,37.3,77.0,nausea,Diabetes,Heart Disease,Normal,152.0,99.00744680851064,Yes,Never,132.45075757575756,86.14621212121212
+P0764,169.0,69.38871473354232,37.2,91.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,223.0,148.0,No,Former,120.0,80.0
+P0765,181.0,73.0,36.5,53.0,shortness of breath,Diabetes,Arrhythmia,High Blood Sugar,197.0,146.0,Yes,Current,130.0,85.0
+P0766,162.0,82.0,37.1,79.0,nausea,Diabetes,Stroke,High Cholesterol,181.0,127.0,No,Never,140.0,90.0
+P0767,169.0,69.0,36.4,96.0,dizziness,Diabetes,Hypertension,High Blood Sugar,240.0,9.0,Yes,Former,125.0,82.0
+P0769,163.0,62.0,37.5,91.0,nausea,Diabetes,Heart Disease,Low Iron,202.0,123.0,Yes,Former,145.0,92.0
+P0770,188.0,67.0,37.4,68.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,231.0,160.0,No,Former,132.45075757575756,86.14621212121212
+P0771,177.0,66.0,37.0,74.0,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,184.0,137.0,Yes,Current,120.0,80.0
+P0772,164.0,58.0,36.5,74.56752496058854,shortness of breath,Diabetes,Stroke,High Blood Sugar,262.0,147.0,No,Never,130.0,85.0
+P0773,176.0,67.0,37.3,52.0,nausea,Diabetes,Hypertension,Normal,168.0,126.0,Yes,Former,140.0,90.0
+P0775,176.0,62.0,35.8,64.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,257.0,159.0,Yes,Never,135.0,88.0
+P0776,169.90234986945168,65.0,37.4,83.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,199.6129541864139,106.0,Yes,Former,145.0,92.0
+P0777,162.0,66.0,37.0,83.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,186.0,52.0,Yes,Current,132.45075757575756,86.14621212121212
+P0778,167.0,66.0,37.6,78.0,chest pain,Diabetes,Stroke,Normal,245.0,99.00744680851064,No,Never,120.0,80.0
+P0779,169.0,69.0,36.97098308668076,83.0,shortness of breath,Asthma,Hypertension,Low Iron,246.0,111.0,Yes,Former,130.0,85.0
+P0781,171.0,83.0,37.1,87.0,nausea,Diabetes,Heart Disease,High Cholesterol,170.0,62.0,Yes,Former,125.0,82.0
+P0782,156.0,60.0,37.1,75.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,238.0,51.0,No,Former,135.0,88.0
+P0783,173.0,51.0,36.2,75.0,nausea,High Cholesterol,Arrhythmia,Normal,247.0,77.0,Yes,Current,145.0,92.0
+P0785,175.0,62.0,38.4,81.0,chest pain,Diabetes,Hypertension,High Blood Sugar,199.6129541864139,147.0,Yes,Former,120.0,80.0
+P0787,178.0,58.0,37.4,84.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,225.0,131.0,Yes,Never,140.0,90.0
+P0788,174.0,50.0,36.7,63.0,dizziness,Hypertension,Coronary Artery Disease,Normal,188.0,97.0,No,Former,125.0,82.0
+P0789,169.0,63.0,36.0,64.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,227.0,99.00744680851064,Yes,Current,135.0,88.0
+P0790,153.0,69.38871473354232,36.9,81.0,nausea,Diabetes,Stroke,High Blood Sugar,171.0,86.0,No,Never,145.0,92.0
+P0791,174.0,78.0,36.9,74.56752496058854,nausea,Asthma,Hypertension,High Cholesterol,115.0,92.0,Yes,Former,132.45075757575756,86.14621212121212
+P0793,172.0,63.0,36.9,83.0,shortness of breath,Diabetes,Heart Disease,Normal,202.0,101.0,Yes,Never,130.0,85.0
+P0794,157.0,56.0,37.1,68.0,fatigue,Hypertension,Coronary Artery Disease,Low Iron,188.0,113.0,No,Former,140.0,90.0
+P0795,159.0,69.0,36.9,72.0,dizziness,Diabetes,Arrhythmia,High Blood Sugar,153.0,125.0,Yes,Current,125.0,82.0
+P0796,180.0,57.0,36.4,88.0,nausea,Diabetes,Stroke,High Cholesterol,127.0,91.0,No,Never,135.0,88.0
+P0797,169.0,78.0,37.2,90.0,nausea,Asthma,Hypertension,High Blood Sugar,199.6129541864139,42.0,Yes,Former,145.0,92.0
+P0799,170.0,64.0,36.0,72.0,nausea,Diabetes,Heart Disease,Low Iron,199.6129541864139,101.0,Yes,Never,120.0,80.0
+P0800,170.0,74.0,37.4,87.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,247.0,136.0,No,Former,130.0,85.0
+P0801,179.0,72.0,37.3,65.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,167.0,82.0,Yes,Current,140.0,90.0
+P0802,164.0,110.0,37.0,74.56752496058854,nausea,Diabetes,Stroke,High Blood Sugar,153.0,115.0,No,Never,125.0,82.0
+P0803,170.0,75.0,36.3,51.0,palpitations,Asthma,Hypertension,Normal,219.0,108.0,Yes,Former,135.0,88.0
+P0805,165.0,68.0,36.9,66.0,nausea,Diabetes,Heart Disease,High Blood Sugar,216.0,127.0,Yes,Never,132.45075757575756,86.14621212121212
+P0806,166.0,43.0,36.2,73.0,chest pain,Hypertension,Coronary Artery Disease,High Cholesterol,119.0,80.0,No,Former,120.0,80.0
+P0807,172.0,68.0,36.6,65.0,nausea,Diabetes,Arrhythmia,High Blood Sugar,165.0,82.0,Yes,Former,130.0,85.0
+P0809,182.0,83.0,37.7,71.0,dizziness,Asthma,Hypertension,Low Iron,219.0,80.0,Yes,Former,125.0,82.0
+P0811,168.0,68.0,37.4,79.0,nausea,Diabetes,Heart Disease,High Cholesterol,205.0,78.0,Yes,Never,145.0,92.0
+P0812,165.0,60.0,36.0,60.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,213.0,106.0,No,Former,132.45075757575756,86.14621212121212
+P0813,184.0,96.0,37.3,66.0,nausea,High Cholesterol,Arrhythmia,Normal,203.0,96.0,Yes,Current,120.0,80.0
+P0814,171.0,65.0,36.6,53.0,shortness of breath,Diabetes,Stroke,Low Iron,227.0,106.0,No,Never,130.0,85.0
+P0815,180.0,97.0,37.2,60.0,fatigue,Asthma,Hypertension,High Blood Sugar,212.0,86.0,Yes,Former,140.0,90.0
+P0817,172.0,77.0,37.7,55.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,189.0,102.0,Yes,Never,135.0,88.0
+P0818,178.0,75.0,36.6,60.0,nausea,Hypertension,Coronary Artery Disease,Normal,199.6129541864139,106.0,No,Former,145.0,92.0
+P0819,170.0,75.0,37.3,74.0,nausea,High Cholesterol,Arrhythmia,Low Iron,219.0,99.00744680851064,Yes,Current,132.45075757575756,86.14621212121212
+P0820,180.0,41.0,36.9,69.0,chest pain,Diabetes,Stroke,High Blood Sugar,210.0,151.0,No,Never,120.0,80.0
+P0821,164.0,65.0,36.9,94.0,shortness of breath,Asthma,Hypertension,High Cholesterol,215.0,99.00744680851064,Yes,Former,130.0,85.0
+P0823,192.0,69.0,36.6,66.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,210.0,52.0,Yes,Never,125.0,82.0
+P0824,166.0,48.0,37.0,80.0,palpitations,Diabetes,Coronary Artery Disease,Low Iron,174.0,111.0,No,Former,135.0,88.0
+P0825,165.0,69.0,37.0,82.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,235.0,66.0,Yes,Current,145.0,92.0
+P0826,184.0,69.38871473354232,37.1,69.0,nausea,Diabetes,Stroke,High Cholesterol,145.0,91.0,No,Never,132.45075757575756,86.14621212121212
+P0827,185.0,88.0,37.0,60.0,chest pain,Asthma,Hypertension,High Blood Sugar,156.0,88.0,Yes,Former,120.0,80.0
+P0829,165.0,84.0,37.5,73.0,fatigue,Diabetes,Heart Disease,Low Iron,220.0,83.0,Yes,Never,140.0,90.0
+P0830,167.0,64.0,36.5,70.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,150.0,82.0,Yes,Former,125.0,82.0
+P0831,156.0,44.0,37.4,79.0,palpitations,High Cholesterol,Arrhythmia,High Cholesterol,184.0,143.0,Yes,Current,135.0,88.0
+P0832,160.0,56.0,36.4,67.0,nausea,Diabetes,Stroke,High Blood Sugar,175.0,108.0,No,Never,145.0,92.0
+P0833,159.0,93.0,37.3,63.0,nausea,Asthma,Hypertension,Normal,180.0,83.0,Yes,Former,132.45075757575756,86.14621212121212
+P0835,169.0,66.0,36.0,78.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,228.0,149.0,Yes,Never,130.0,85.0
+P0836,172.0,65.0,37.0,63.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,199.0,92.0,No,Former,140.0,90.0
+P0837,185.0,98.0,36.8,84.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,178.0,79.0,Yes,Current,132.45075757575756,86.14621212121212
+P0838,160.0,94.0,36.6,74.56752496058854,nausea,Diabetes,Stroke,Normal,146.0,79.0,No,Never,135.0,88.0
+P0839,179.0,103.0,37.7,74.56752496058854,nausea,Asthma,Hypertension,Low Iron,256.0,83.0,Yes,Former,145.0,92.0
+P0841,169.0,74.0,36.97098308668076,68.0,chest pain,Diabetes,Heart Disease,High Cholesterol,171.0,61.0,Yes,Never,120.0,80.0
+P0842,176.0,47.0,37.0,69.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,228.0,66.0,No,Former,130.0,85.0
+P0843,158.0,92.0,37.3,93.0,fatigue,High Cholesterol,Arrhythmia,Normal,197.0,75.0,Yes,Current,140.0,90.0
+P0844,173.0,52.0,36.9,66.0,dizziness,Diabetes,Stroke,Low Iron,188.0,117.0,No,Never,125.0,82.0
+P0845,171.0,73.0,37.6,99.0,palpitations,Asthma,Hypertension,High Blood Sugar,217.0,88.0,Yes,Former,135.0,88.0
+P0847,172.0,61.0,35.9,75.0,nausea,Diabetes,Heart Disease,High Blood Sugar,186.0,138.0,Yes,Never,132.45075757575756,86.14621212121212
+P0848,194.0,57.0,36.7,79.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,204.0,138.0,No,Former,120.0,80.0
+P0849,163.0,60.0,36.97098308668076,100.0,nausea,High Cholesterol,Arrhythmia,Low Iron,180.0,91.0,Yes,Current,130.0,85.0
+P0851,163.0,61.0,35.7,63.0,dizziness,Asthma,Hypertension,High Cholesterol,274.0,74.0,Yes,Former,125.0,82.0
+P0853,169.90234986945168,53.0,37.3,75.0,nausea,Diabetes,Heart Disease,Normal,133.0,93.0,Yes,Never,145.0,92.0
+P0854,181.0,73.0,37.1,57.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,119.0,88.0,No,Former,132.45075757575756,86.14621212121212
+P0855,184.0,88.0,37.6,75.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,193.0,75.0,Yes,Current,120.0,80.0
+P0856,164.0,62.0,38.2,91.0,nausea,Diabetes,Stroke,High Cholesterol,173.0,99.00744680851064,No,Never,130.0,85.0
+P0857,161.0,59.0,36.97098308668076,76.0,fatigue,Asthma,Hypertension,High Blood Sugar,208.0,109.0,Yes,Former,140.0,90.0
+P0859,164.0,87.0,37.1,68.0,palpitations,Diabetes,Heart Disease,Low Iron,135.0,129.0,Yes,Never,135.0,88.0
+P0860,176.0,72.0,36.9,83.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,127.0,83.0,No,Former,145.0,92.0
+P0861,172.0,62.0,36.8,66.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,211.0,95.0,Yes,Current,132.45075757575756,86.14621212121212
+P0862,154.0,77.0,36.6,93.0,chest pain,Diabetes,Stroke,High Blood Sugar,205.0,59.0,Yes,Former,120.0,80.0
+P0863,185.0,53.0,36.7,94.0,shortness of breath,Asthma,Hypertension,Normal,182.0,99.0,Yes,Former,130.0,85.0
+P0865,163.0,76.0,37.0,74.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,218.0,98.0,Yes,Never,125.0,82.0
+P0866,166.0,65.0,36.2,85.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,250.0,144.0,No,Former,135.0,88.0
+P0867,172.0,57.0,37.1,85.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,211.0,105.0,Yes,Current,145.0,92.0
+P0868,173.0,56.0,37.0,66.0,nausea,Diabetes,Stroke,Normal,166.0,76.0,No,Never,132.45075757575756,86.14621212121212
+P0869,176.0,78.0,37.1,69.0,chest pain,Asthma,Hypertension,Low Iron,201.0,78.0,Yes,Former,120.0,80.0
+P0871,168.0,60.0,38.5,79.0,fatigue,Diabetes,Heart Disease,High Cholesterol,242.0,138.0,Yes,Never,140.0,90.0
+P0872,162.0,76.0,37.7,81.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,203.0,108.0,No,Former,125.0,82.0
+P0873,156.0,38.0,36.4,61.0,nausea,High Cholesterol,Arrhythmia,Normal,129.0,120.0,Yes,Current,135.0,88.0
+P0874,169.90234986945168,61.0,37.1,70.0,nausea,Diabetes,Stroke,Low Iron,187.0,118.0,No,Never,145.0,92.0
+P0875,169.0,69.0,36.7,61.0,nausea,Diabetes,Hypertension,High Blood Sugar,218.0,142.0,Yes,Former,132.45075757575756,86.14621212121212
+P0877,164.0,55.0,36.3,80.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,188.0,99.00744680851064,Yes,Never,130.0,85.0
+P0878,172.0,59.0,37.2,67.0,fatigue,Hypertension,Coronary Artery Disease,Normal,151.0,129.0,No,Former,140.0,90.0
+P0879,169.0,74.0,36.7,71.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,222.0,59.0,Yes,Current,125.0,82.0
+P0881,195.0,36.0,37.5,76.0,nausea,Asthma,Hypertension,High Cholesterol,113.0,99.00744680851064,Yes,Former,145.0,92.0
+P0883,165.0,60.0,36.6,67.0,chest pain,Diabetes,Heart Disease,Normal,239.0,85.0,Yes,Never,132.45075757575756,86.14621212121212
+P0884,180.0,76.0,37.2,73.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,184.0,107.0,No,Former,130.0,85.0
+P0885,176.0,28.0,36.97098308668076,76.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,269.0,125.0,Yes,Current,140.0,90.0
+P0886,188.0,62.0,36.8,66.0,dizziness,Diabetes,Stroke,High Blood Sugar,217.0,132.0,No,Never,125.0,82.0
+P0887,175.0,62.0,36.6,60.0,palpitations,Asthma,Hypertension,High Blood Sugar,213.0,99.00744680851064,Yes,Former,135.0,88.0
+P0889,175.0,64.0,37.1,68.0,nausea,Diabetes,Heart Disease,Low Iron,197.0,139.0,Yes,Never,132.45075757575756,86.14621212121212
+P0891,178.0,72.0,36.6,85.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,187.0,102.0,Yes,Current,130.0,85.0
+P0892,175.0,38.0,36.4,110.0,fatigue,Diabetes,Stroke,High Blood Sugar,221.0,114.0,No,Never,140.0,90.0
+P0893,180.0,81.0,36.7,62.0,dizziness,Asthma,Hypertension,Normal,162.0,99.0,Yes,Former,125.0,82.0
+P0895,183.0,77.0,36.5,67.0,nausea,Diabetes,Heart Disease,High Blood Sugar,155.0,89.0,Yes,Never,145.0,92.0
+P0896,176.0,128.0,37.0,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,281.0,108.0,No,Former,132.45075757575756,86.14621212121212
+P0897,168.0,38.0,36.2,67.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,221.0,54.0,Yes,Current,120.0,80.0
+P0898,171.0,95.0,36.4,63.0,shortness of breath,Diabetes,Stroke,Normal,212.0,79.0,Yes,Former,130.0,85.0
+P0899,182.0,65.0,37.3,74.0,fatigue,Asthma,Hypertension,Low Iron,157.0,79.0,Yes,Former,140.0,90.0
+P0901,173.0,69.0,36.8,74.56752496058854,palpitations,Diabetes,Heart Disease,High Cholesterol,195.0,72.0,Yes,Former,135.0,88.0
+P0902,166.0,63.0,36.5,75.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,208.0,83.0,No,Former,145.0,92.0
+P0903,170.0,61.0,36.5,79.0,nausea,High Cholesterol,Arrhythmia,Normal,199.6129541864139,54.0,Yes,Current,132.45075757575756,86.14621212121212
+P0904,182.0,74.0,36.8,70.0,chest pain,Diabetes,Stroke,Low Iron,206.0,116.0,No,Never,120.0,80.0
+P0905,171.0,47.0,37.3,71.0,nausea,Asthma,Hypertension,High Blood Sugar,183.0,97.0,Yes,Former,130.0,85.0
+P0907,156.0,63.0,36.8,63.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,229.0,74.0,Yes,Never,125.0,82.0
+P0908,177.0,53.0,36.4,71.0,palpitations,Diabetes,Coronary Artery Disease,Normal,138.0,110.0,No,Former,135.0,88.0
+P0909,169.90234986945168,63.0,37.1,66.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,222.0,83.0,Yes,Current,145.0,92.0
+P0910,191.0,69.38871473354232,36.6,66.0,nausea,Diabetes,Stroke,High Blood Sugar,227.0,79.0,No,Never,132.45075757575756,86.14621212121212
+P0911,166.0,61.0,36.7,74.56752496058854,chest pain,Diabetes,Hypertension,High Cholesterol,164.0,97.0,Yes,Former,120.0,80.0
+P0913,172.0,59.0,36.97098308668076,68.0,fatigue,Diabetes,Heart Disease,Normal,191.0,56.0,Yes,Never,140.0,90.0
+P0914,185.0,81.0,37.1,86.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,211.0,116.0,No,Former,125.0,82.0
+P0915,169.0,80.0,36.4,85.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,193.0,75.0,Yes,Current,135.0,88.0
+P0916,172.0,97.0,37.1,62.0,nausea,Diabetes,Stroke,High Cholesterol,217.0,99.0,No,Never,145.0,92.0
+P0917,176.0,67.0,37.5,64.0,nausea,Asthma,Hypertension,High Blood Sugar,270.0,98.0,Yes,Former,132.45075757575756,86.14621212121212
+P0919,165.0,71.0,37.7,92.0,nausea,Diabetes,Heart Disease,Low Iron,131.0,69.0,Yes,Never,130.0,85.0
+P0920,171.0,89.0,37.6,74.0,fatigue,Diabetes,Coronary Artery Disease,High Blood Sugar,233.0,91.0,No,Former,140.0,90.0
+P0921,180.0,59.0,37.8,77.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,267.0,148.0,Yes,Former,125.0,82.0
+P0922,159.0,81.0,37.2,68.0,palpitations,Diabetes,Stroke,High Blood Sugar,215.0,59.0,No,Former,135.0,88.0
+P0923,171.0,67.0,37.3,79.0,nausea,Asthma,Hypertension,Normal,156.0,150.0,Yes,Former,145.0,92.0
+P0925,181.0,71.0,37.2,54.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,155.0,101.0,Yes,Never,120.0,80.0
+P0926,154.0,73.0,36.7,61.0,shortness of breath,Diabetes,Coronary Artery Disease,High Cholesterol,225.0,67.0,No,Former,130.0,85.0
+P0927,164.0,68.0,36.8,75.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,145.0,76.0,Yes,Current,140.0,90.0
+P0928,173.0,73.0,37.1,63.0,dizziness,Diabetes,Stroke,Normal,187.0,84.0,No,Never,125.0,82.0
+P0929,185.0,93.0,36.4,74.0,palpitations,Asthma,Hypertension,Low Iron,159.0,68.0,Yes,Former,135.0,88.0
+P0932,188.0,63.0,35.9,83.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,207.0,155.0,No,Former,120.0,80.0
+P0933,155.0,56.0,37.8,77.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,200.0,65.0,Yes,Current,130.0,85.0
+P0935,174.0,83.0,36.8,83.0,dizziness,Asthma,Hypertension,High Blood Sugar,225.0,107.0,Yes,Former,125.0,82.0
+P0937,159.0,60.0,37.0,89.0,nausea,Diabetes,Heart Disease,High Blood Sugar,160.0,120.0,Yes,Never,145.0,92.0
+P0938,177.0,66.0,37.6,70.0,nausea,Hypertension,Coronary Artery Disease,Normal,199.6129541864139,88.0,No,Former,132.45075757575756,86.14621212121212
+P0940,164.0,64.0,36.3,61.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,193.0,119.0,No,Never,130.0,85.0
+P0941,157.0,84.0,37.3,70.0,fatigue,Asthma,Hypertension,High Cholesterol,256.0,66.0,Yes,Former,140.0,90.0
+P0943,176.0,79.0,37.0,87.0,palpitations,Diabetes,Heart Disease,Normal,199.6129541864139,120.0,Yes,Never,135.0,88.0
+P0944,169.0,67.0,36.6,84.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,213.0,89.0,No,Former,145.0,92.0
+P0945,188.0,74.0,37.9,57.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,160.0,127.0,Yes,Current,132.45075757575756,86.14621212121212
+P0946,159.0,52.0,37.5,85.0,chest pain,Diabetes,Stroke,High Cholesterol,194.0,136.0,No,Never,120.0,80.0
+P0947,154.0,71.0,36.6,56.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,192.0,80.0,Yes,Former,130.0,85.0
+P0949,169.0,67.0,36.8,71.0,dizziness,Diabetes,Heart Disease,Low Iron,199.6129541864139,77.0,Yes,Former,125.0,82.0
+P0950,172.0,45.0,37.2,82.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,222.0,166.0,No,Former,135.0,88.0
+P0951,167.0,88.0,37.1,61.0,nausea,Diabetes,Arrhythmia,High Cholesterol,209.0,79.0,Yes,Current,132.45075757575756,86.14621212121212
+P0952,173.0,81.0,37.6,86.0,nausea,Diabetes,Stroke,High Blood Sugar,151.0,130.0,No,Never,132.45075757575756,86.14621212121212
+P0953,157.0,77.0,37.4,60.0,chest pain,Asthma,Hypertension,Normal,162.0,125.0,Yes,Former,120.0,80.0
+P0955,169.0,55.0,37.2,65.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,188.0,79.0,Yes,Never,140.0,90.0
+P0956,181.0,96.0,36.3,57.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,199.6129541864139,95.0,No,Former,125.0,82.0
+P0957,169.90234986945168,83.0,36.9,75.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,153.0,35.0,Yes,Current,135.0,88.0
+P0958,174.0,66.0,37.5,93.0,nausea,Diabetes,Stroke,High Blood Sugar,185.0,106.0,No,Never,145.0,92.0
+P0959,175.0,87.0,37.0,101.0,nausea,Asthma,Hypertension,Low Iron,238.0,110.0,Yes,Former,132.45075757575756,86.14621212121212
+P0961,176.0,57.0,36.8,86.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,218.0,10.0,Yes,Former,130.0,85.0
+P0962,183.0,60.0,36.97098308668076,77.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,194.0,62.0,No,Former,140.0,90.0
+P0963,171.0,62.0,36.9,79.0,dizziness,High Cholesterol,Arrhythmia,Normal,210.0,77.0,Yes,Current,125.0,82.0
+P0964,177.0,54.0,37.2,71.0,palpitations,Diabetes,Stroke,Low Iron,190.0,108.0,No,Former,135.0,88.0
+P0965,169.0,88.0,36.7,76.0,nausea,Asthma,Hypertension,High Blood Sugar,226.0,99.00744680851064,Yes,Former,145.0,92.0
+P0967,169.90234986945168,75.0,36.5,69.0,nausea,Diabetes,Heart Disease,High Blood Sugar,185.0,99.00744680851064,Yes,Never,120.0,80.0
+P0968,188.0,61.0,37.6,74.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,211.0,69.0,No,Former,130.0,85.0
+P0969,169.0,42.0,36.9,74.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,221.0,118.0,Yes,Current,140.0,90.0
+P0971,171.0,41.0,37.8,64.0,palpitations,Asthma,Hypertension,High Cholesterol,184.0,111.0,Yes,Former,135.0,88.0
+P0973,178.0,49.0,36.5,94.0,nausea,Diabetes,Heart Disease,Normal,173.0,154.0,Yes,Never,132.45075757575756,86.14621212121212
+P0974,163.0,99.0,36.0,86.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,253.0,114.0,No,Former,120.0,80.0
+P0975,165.0,83.0,36.97098308668076,88.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,232.0,70.0,Yes,Current,130.0,85.0
+P0976,151.0,71.0,36.3,75.0,fatigue,Diabetes,Stroke,High Cholesterol,163.0,107.0,No,Never,132.45075757575756,86.14621212121212
+P0977,165.0,88.0,37.7,78.0,dizziness,Asthma,Hypertension,High Blood Sugar,212.0,122.0,Yes,Former,125.0,82.0
+P0979,154.0,78.0,37.2,90.0,nausea,Diabetes,Heart Disease,Low Iron,225.0,132.0,Yes,Never,145.0,92.0
+P0980,177.0,72.0,35.9,55.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,191.0,111.0,No,Former,132.45075757575756,86.14621212121212
+P0981,169.90234986945168,73.0,36.4,61.0,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,187.0,29.0,Yes,Current,120.0,80.0
+P0982,174.0,89.0,37.4,88.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,254.0,108.0,No,Never,130.0,85.0
+P0983,160.0,80.0,37.1,72.0,fatigue,Asthma,Hypertension,Normal,196.0,87.0,Yes,Former,140.0,90.0
+P0985,169.0,45.0,37.3,62.0,nausea,Diabetes,Heart Disease,High Blood Sugar,190.0,128.0,Yes,Never,135.0,88.0
+P0986,158.0,55.0,37.8,69.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,266.0,105.0,No,Former,145.0,92.0
+P0987,185.0,68.0,36.9,60.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,172.0,149.0,Yes,Former,132.45075757575756,86.14621212121212
+P0988,178.0,69.38871473354232,37.0,95.0,nausea,Diabetes,Stroke,Normal,175.0,94.0,No,Never,120.0,80.0
+P0989,167.0,53.0,37.1,74.0,shortness of breath,Asthma,Hypertension,Low Iron,260.0,118.0,Yes,Former,130.0,85.0
+P0991,172.0,92.0,36.0,80.0,dizziness,Diabetes,Heart Disease,High Cholesterol,264.0,97.0,Yes,Never,125.0,82.0
+P0992,169.90234986945168,79.0,37.3,84.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,235.0,123.0,Yes,Former,135.0,88.0
+P0993,167.0,71.0,36.9,74.56752496058854,nausea,High Cholesterol,Arrhythmia,Normal,193.0,82.0,Yes,Current,145.0,92.0
+P0994,163.0,66.0,37.3,85.0,nausea,Diabetes,Stroke,Low Iron,127.0,87.0,No,Never,132.45075757575756,86.14621212121212
+P0995,159.0,55.0,36.7,68.0,nausea,Asthma,Hypertension,High Blood Sugar,199.0,60.0,Yes,Former,120.0,80.0
+P0997,187.0,73.0,37.4,82.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,246.0,109.0,Yes,Never,140.0,90.0
+P0998,176.0,51.0,38.6,69.0,dizziness,Hypertension,Coronary Artery Disease,Normal,263.0,135.0,No,Former,125.0,82.0
+P0999,164.0,75.0,37.4,74.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,172.0,123.0,Yes,Current,135.0,88.0
+P1000,175.0,67.0,36.6,78.0,nausea,Diabetes,Stroke,High Blood Sugar,232.0,91.0,No,Never,145.0,92.0
+P1001,183.0,41.0,36.8,82.0,nausea,Asthma,Hypertension,High Cholesterol,230.0,99.00744680851064,Yes,Former,132.45075757575756,86.14621212121212
+P1003,170.0,63.0,36.1,82.0,shortness of breath,Diabetes,Heart Disease,Normal,219.0,133.0,Yes,Never,130.0,85.0
+P1004,163.0,98.0,36.8,72.0,fatigue,Hypertension,Coronary Artery Disease,Low Iron,122.0,122.0,No,Former,140.0,90.0
+P1005,176.0,78.0,36.97098308668076,82.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,199.6129541864139,132.0,Yes,Current,125.0,82.0
+P1006,173.0,49.0,36.4,82.0,palpitations,Diabetes,Stroke,High Cholesterol,153.0,93.0,No,Never,135.0,88.0
+P1007,178.0,77.0,37.5,91.0,nausea,Diabetes,Hypertension,High Blood Sugar,191.0,86.0,Yes,Former,145.0,92.0
+P1009,180.0,86.0,36.97098308668076,88.0,nausea,Diabetes,Heart Disease,Low Iron,212.0,98.0,Yes,Never,120.0,80.0
+P1010,164.0,62.0,36.9,89.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,245.0,99.00744680851064,No,Former,132.45075757575756,86.14621212121212
+P1011,183.0,68.0,37.8,77.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,213.0,106.0,Yes,Current,140.0,90.0
+P1012,171.0,89.0,37.4,75.0,dizziness,Diabetes,Stroke,High Blood Sugar,148.0,96.0,No,Never,125.0,82.0
+P1013,190.0,50.0,37.0,83.0,palpitations,Asthma,Hypertension,Normal,99.0,95.0,Yes,Former,135.0,88.0
+P1015,187.0,61.0,37.0,71.0,nausea,Diabetes,Heart Disease,High Blood Sugar,191.0,128.0,Yes,Never,132.45075757575756,86.14621212121212
+P1016,171.0,69.38871473354232,36.7,79.0,chest pain,Hypertension,Coronary Artery Disease,High Cholesterol,160.0,102.0,No,Former,120.0,80.0
+P1017,163.0,47.0,35.9,74.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,131.0,94.0,Yes,Current,130.0,85.0
+P1018,165.0,27.0,38.0,66.0,fatigue,Diabetes,Stroke,High Blood Sugar,170.0,77.0,No,Never,140.0,90.0
+P1019,166.0,63.0,37.1,87.0,nausea,Asthma,Hypertension,High Blood Sugar,192.0,60.0,Yes,Former,125.0,82.0
+P1021,175.0,88.0,37.0,95.0,nausea,Diabetes,Heart Disease,High Cholesterol,207.0,116.0,Yes,Never,132.45075757575756,86.14621212121212
+P1022,164.0,63.0,36.6,58.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,264.0,51.0,No,Former,132.45075757575756,86.14621212121212
+P1023,169.0,63.0,36.9,69.0,chest pain,High Cholesterol,Arrhythmia,Normal,158.0,122.0,Yes,Current,120.0,80.0
+P1024,191.0,87.0,36.2,75.0,shortness of breath,Diabetes,Stroke,Low Iron,235.0,127.0,No,Former,130.0,85.0
+P1025,187.0,41.0,38.1,86.0,fatigue,Asthma,Hypertension,High Blood Sugar,201.0,103.0,Yes,Former,140.0,90.0
+P1027,170.0,72.0,36.5,78.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,182.0,99.00744680851064,Yes,Never,135.0,88.0
+P1028,171.0,76.0,36.8,63.0,nausea,Diabetes,Coronary Artery Disease,High Blood Sugar,242.0,57.0,No,Former,145.0,92.0
+P1029,176.0,62.0,37.6,63.0,nausea,High Cholesterol,Arrhythmia,Low Iron,211.0,110.0,Yes,Current,132.45075757575756,86.14621212121212
+P1030,159.0,70.0,37.0,78.0,chest pain,Diabetes,Stroke,High Blood Sugar,172.0,107.0,No,Never,120.0,80.0
+P1031,167.0,32.0,36.4,61.0,nausea,Asthma,Hypertension,High Cholesterol,199.0,99.00744680851064,Yes,Former,130.0,85.0
+P1033,173.0,76.0,37.4,80.0,dizziness,Diabetes,Heart Disease,Normal,199.6129541864139,49.0,Yes,Never,132.45075757575756,86.14621212121212
+P1034,169.90234986945168,55.0,37.3,65.0,palpitations,Diabetes,Coronary Artery Disease,Low Iron,152.0,129.0,No,Former,135.0,88.0
+P1035,165.0,70.0,37.4,91.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,198.0,73.0,Yes,Current,145.0,92.0
+P1036,185.0,76.0,38.2,87.0,nausea,Diabetes,Stroke,High Blood Sugar,215.0,70.0,No,Never,132.45075757575756,86.14621212121212
+P1037,157.0,64.0,38.1,59.0,chest pain,Asthma,Hypertension,High Blood Sugar,201.0,96.0,Yes,Former,120.0,80.0
+P1039,172.0,55.0,37.8,52.0,fatigue,Diabetes,Heart Disease,Low Iron,230.0,104.0,Yes,Never,140.0,90.0
+P1040,180.0,66.0,37.2,74.56752496058854,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,199.0,77.0,No,Former,125.0,82.0
+P1041,186.0,79.0,37.2,74.56752496058854,palpitations,High Cholesterol,Arrhythmia,High Cholesterol,208.0,84.0,Yes,Current,135.0,88.0
+P1042,165.0,72.0,36.2,70.0,nausea,Diabetes,Stroke,High Blood Sugar,199.6129541864139,66.0,No,Never,145.0,92.0
+P1043,180.0,61.0,36.9,79.0,nausea,Asthma,Hypertension,Normal,216.0,99.00744680851064,Yes,Former,132.45075757575756,86.14621212121212
+P1045,168.0,80.0,37.4,82.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,187.0,99.0,Yes,Never,130.0,85.0
+P1046,178.0,39.0,37.5,69.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,199.6129541864139,125.0,Yes,Former,140.0,90.0
+P1047,176.0,69.38871473354232,36.0,74.56752496058854,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,251.0,143.0,Yes,Current,125.0,82.0
+P1048,154.0,64.0,37.0,74.0,palpitations,Diabetes,Stroke,Normal,197.0,82.0,No,Never,135.0,88.0
+P1049,184.0,76.0,37.6,62.0,nausea,Asthma,Hypertension,Low Iron,192.0,94.0,Yes,Former,145.0,92.0
+P1051,163.0,49.0,37.4,84.0,chest pain,Diabetes,Heart Disease,High Cholesterol,216.0,99.00744680851064,Yes,Never,120.0,80.0
+P1052,173.0,59.0,37.2,78.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,154.0,49.0,No,Former,130.0,85.0
+P1053,174.0,69.38871473354232,37.2,85.0,fatigue,High Cholesterol,Arrhythmia,Normal,197.0,111.0,Yes,Current,140.0,90.0
+P1054,172.0,58.0,36.9,78.0,dizziness,Diabetes,Stroke,Low Iron,186.0,100.0,No,Never,125.0,82.0
+P1055,164.0,96.0,36.4,76.0,palpitations,Asthma,Hypertension,High Blood Sugar,130.0,124.0,Yes,Former,135.0,88.0
+P1057,169.0,61.0,37.4,72.0,nausea,Diabetes,Heart Disease,High Blood Sugar,192.0,74.0,Yes,Never,132.45075757575756,86.14621212121212
+P1058,181.0,73.0,37.0,74.0,chest pain,Hypertension,Coronary Artery Disease,Normal,195.0,79.0,Yes,Former,120.0,80.0
+P1059,175.0,51.0,36.9,94.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,140.0,82.0,Yes,Former,130.0,85.0
+P1060,166.0,64.0,36.8,81.0,fatigue,Diabetes,Stroke,High Blood Sugar,246.0,124.0,No,Never,140.0,90.0
+P1061,177.0,74.0,36.8,90.0,dizziness,Asthma,Hypertension,High Cholesterol,195.0,64.0,Yes,Former,125.0,82.0
+P1063,169.90234986945168,69.38871473354232,36.8,67.0,nausea,Diabetes,Heart Disease,High Blood Sugar,216.0,46.0,Yes,Never,145.0,92.0
+P1064,152.0,62.0,36.3,76.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,168.0,130.0,No,Former,132.45075757575756,86.14621212121212
+P1065,166.0,47.0,37.4,77.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,218.0,138.0,Yes,Current,120.0,80.0
+P1066,158.0,74.0,36.9,65.0,shortness of breath,Diabetes,Stroke,High Cholesterol,185.0,90.0,No,Never,130.0,85.0
+P1067,157.0,96.0,37.0,71.0,fatigue,Asthma,Hypertension,High Blood Sugar,199.6129541864139,91.0,Yes,Former,140.0,90.0
+P1069,165.0,73.0,37.0,91.0,palpitations,Diabetes,Heart Disease,Low Iron,259.0,144.0,Yes,Former,135.0,88.0
+P1070,173.0,80.0,37.1,54.0,nausea,Diabetes,Coronary Artery Disease,High Blood Sugar,228.0,112.0,No,Former,145.0,92.0
+P1071,169.0,50.0,36.4,87.0,nausea,Diabetes,Arrhythmia,High Cholesterol,236.0,79.0,Yes,Current,132.45075757575756,86.14621212121212
+P1072,174.0,95.0,36.9,65.0,chest pain,Diabetes,Stroke,High Blood Sugar,179.0,51.0,Yes,Never,120.0,80.0
+P1073,170.0,73.0,37.3,61.0,shortness of breath,Asthma,Hypertension,Normal,136.0,66.0,Yes,Former,130.0,85.0
+P1075,179.0,59.0,37.1,82.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,282.0,80.0,Yes,Never,125.0,82.0
+P1076,165.0,97.0,37.1,87.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,261.0,105.0,No,Former,135.0,88.0
+P1077,154.0,81.0,37.0,83.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,186.0,83.0,Yes,Current,145.0,92.0
+P1078,165.0,78.0,37.5,74.56752496058854,nausea,Diabetes,Stroke,Normal,153.0,68.0,Yes,Never,132.45075757575756,86.14621212121212
+P1079,185.0,73.0,37.2,80.0,chest pain,Diabetes,Hypertension,Low Iron,157.0,64.0,Yes,Former,120.0,80.0
+P1081,166.0,88.0,36.5,78.0,fatigue,Diabetes,Heart Disease,High Cholesterol,195.0,126.0,Yes,Never,140.0,90.0
+P1082,166.0,72.0,37.1,87.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,264.0,151.0,No,Former,125.0,82.0
+P1083,166.0,40.0,37.0,74.56752496058854,nausea,High Cholesterol,Arrhythmia,Normal,194.0,99.00744680851064,Yes,Current,135.0,88.0
+P1085,173.0,67.0,37.5,71.0,nausea,Asthma,Hypertension,High Blood Sugar,255.0,139.0,Yes,Former,132.45075757575756,86.14621212121212
+P1087,180.0,69.0,37.0,76.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,281.0,106.0,Yes,Never,130.0,85.0
+P1089,167.0,40.0,37.0,75.0,dizziness,Diabetes,Arrhythmia,Low Iron,199.6129541864139,11.0,Yes,Current,125.0,82.0
+P1091,169.0,42.0,36.1,74.56752496058854,nausea,Asthma,Hypertension,High Cholesterol,227.0,114.0,Yes,Former,145.0,92.0
+P1093,177.0,68.0,36.3,60.0,chest pain,Diabetes,Heart Disease,Normal,153.0,98.0,Yes,Never,120.0,80.0
+P1094,170.0,76.0,37.9,86.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,251.0,104.0,No,Former,130.0,85.0
+P1095,177.0,57.0,36.9,81.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,248.0,82.0,Yes,Current,140.0,90.0
+P1097,170.0,85.0,36.97098308668076,102.0,palpitations,Asthma,Hypertension,High Blood Sugar,149.0,60.0,Yes,Former,135.0,88.0
+P1099,179.0,68.0,36.6,66.0,nausea,Diabetes,Heart Disease,Low Iron,204.0,116.0,Yes,Never,132.45075757575756,86.14621212121212
+P1100,173.0,78.0,37.0,60.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,180.0,94.0,No,Former,120.0,80.0
+P1101,179.0,59.0,37.5,72.0,shortness of breath,Diabetes,Arrhythmia,High Cholesterol,186.0,111.0,Yes,Current,130.0,85.0
+P1102,141.0,82.0,37.3,73.0,nausea,Diabetes,Stroke,High Blood Sugar,199.6129541864139,99.00744680851064,No,Never,140.0,90.0
+P1103,190.0,94.0,37.1,76.0,dizziness,Asthma,Hypertension,Normal,229.0,71.0,Yes,Former,125.0,82.0
+P1105,181.0,59.0,37.2,81.0,nausea,Diabetes,Heart Disease,High Blood Sugar,160.0,120.0,Yes,Never,145.0,92.0
+P1106,159.0,75.0,37.1,71.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,186.0,43.0,No,Former,132.45075757575756,86.14621212121212
+P1107,176.0,50.0,36.5,55.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,230.0,115.0,Yes,Current,120.0,80.0
+P1108,159.0,78.0,37.0,73.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,217.0,83.0,No,Never,130.0,85.0
+P1109,163.0,76.0,36.5,74.56752496058854,fatigue,Asthma,Hypertension,Low Iron,261.0,94.0,Yes,Former,140.0,90.0
+P1111,168.0,52.0,36.8,65.0,palpitations,Diabetes,Heart Disease,High Cholesterol,273.0,74.0,Yes,Never,135.0,88.0
+P1112,172.0,65.0,38.3,76.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,221.0,128.0,No,Former,145.0,92.0
+P1113,178.0,65.0,37.0,88.0,nausea,High Cholesterol,Arrhythmia,Normal,242.0,100.0,Yes,Former,132.45075757575756,86.14621212121212
+P1115,171.0,75.0,36.9,85.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,200.0,99.00744680851064,Yes,Former,130.0,85.0
+P1117,194.0,67.0,37.8,92.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,264.0,113.0,Yes,Never,125.0,82.0
+P1118,169.0,58.0,36.7,71.0,palpitations,Diabetes,Coronary Artery Disease,Normal,229.0,97.0,Yes,Former,135.0,88.0
+P1119,172.0,85.0,36.2,66.0,nausea,Diabetes,Arrhythmia,Low Iron,196.0,132.0,Yes,Current,145.0,92.0
+P1120,180.0,94.0,37.4,81.0,nausea,Diabetes,Stroke,High Blood Sugar,255.0,129.0,No,Former,132.45075757575756,86.14621212121212
+P1121,181.0,62.0,36.3,70.0,chest pain,Asthma,Hypertension,High Cholesterol,112.0,112.0,Yes,Former,120.0,80.0
+P1123,176.0,77.0,36.9,74.56752496058854,fatigue,Diabetes,Heart Disease,Normal,199.6129541864139,119.0,Yes,Never,140.0,90.0
+P1124,158.0,64.0,37.0,74.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,200.0,99.00744680851064,No,Former,132.45075757575756,86.14621212121212
+P1125,186.0,67.0,37.3,88.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,224.0,131.0,Yes,Current,135.0,88.0
+P1126,158.0,81.0,36.7,55.0,nausea,Diabetes,Stroke,High Cholesterol,202.0,126.0,No,Never,145.0,92.0
+P1127,173.0,41.0,36.97098308668076,75.0,nausea,Asthma,Hypertension,High Blood Sugar,222.0,69.0,Yes,Former,132.45075757575756,86.14621212121212
+P1129,169.0,71.0,37.1,76.0,shortness of breath,Diabetes,Heart Disease,Low Iron,222.0,78.0,Yes,Never,130.0,85.0
+P1130,173.0,69.38871473354232,37.0,88.0,fatigue,Diabetes,Coronary Artery Disease,High Blood Sugar,239.0,129.0,No,Former,140.0,90.0
+P1131,173.0,68.0,37.2,74.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,248.0,52.0,Yes,Current,125.0,82.0
+P1132,174.0,69.0,37.4,74.56752496058854,palpitations,Diabetes,Stroke,High Blood Sugar,280.0,111.0,No,Never,135.0,88.0
+P1133,186.0,44.0,37.2,80.0,nausea,Asthma,Hypertension,Normal,209.0,110.0,Yes,Former,145.0,92.0
+P1135,167.0,70.0,36.2,71.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,199.6129541864139,105.0,Yes,Never,120.0,80.0
+P1136,179.0,76.0,37.0,80.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,178.0,59.0,No,Former,130.0,85.0
+P1137,181.0,84.0,37.2,68.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,192.0,71.0,Yes,Current,140.0,90.0
+P1138,157.0,54.0,37.4,68.0,dizziness,Diabetes,Stroke,Normal,242.0,64.0,No,Former,125.0,82.0
+P1139,175.0,77.0,36.7,69.0,palpitations,Asthma,Hypertension,Low Iron,175.0,83.0,Yes,Former,135.0,88.0
+P1141,167.0,82.0,36.7,42.0,nausea,Diabetes,Heart Disease,High Blood Sugar,199.0,65.0,Yes,Never,132.45075757575756,86.14621212121212
+P1142,183.0,69.38871473354232,37.3,78.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,192.0,144.0,No,Former,132.45075757575756,86.14621212121212
+P1143,168.0,68.0,37.5,75.0,shortness of breath,High Cholesterol,Arrhythmia,Normal,209.0,60.0,Yes,Current,130.0,85.0
+P1144,171.0,60.0,36.8,58.0,fatigue,Diabetes,Stroke,Low Iron,184.0,140.0,No,Never,140.0,90.0
+P1145,168.0,76.0,37.5,78.0,dizziness,Asthma,Hypertension,High Blood Sugar,182.0,135.0,Yes,Former,125.0,82.0
+P1147,159.0,59.0,36.9,80.0,nausea,Diabetes,Heart Disease,High Blood Sugar,190.0,79.0,Yes,Never,145.0,92.0
+P1148,155.0,69.38871473354232,36.9,48.0,nausea,Hypertension,Coronary Artery Disease,Normal,180.0,110.0,No,Former,132.45075757575756,86.14621212121212
+P1149,185.0,68.0,36.97098308668076,88.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,199.6129541864139,61.0,Yes,Current,120.0,80.0
+P1150,161.0,56.0,37.2,67.0,nausea,Diabetes,Stroke,High Blood Sugar,216.0,127.0,No,Former,130.0,85.0
+P1151,160.0,82.0,38.1,81.0,fatigue,Asthma,Hypertension,High Cholesterol,226.0,97.0,Yes,Former,140.0,90.0
+P1153,163.0,26.0,37.3,66.0,palpitations,Diabetes,Heart Disease,Normal,239.0,63.0,Yes,Never,135.0,88.0
+P1154,156.0,64.0,36.7,81.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,223.0,25.0,No,Former,145.0,92.0
+P1155,186.0,54.0,36.6,71.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,188.0,68.0,Yes,Current,132.45075757575756,86.14621212121212
+P1156,180.0,45.0,37.0,54.0,chest pain,Diabetes,Stroke,High Cholesterol,181.0,133.0,No,Never,120.0,80.0
+P1157,163.0,51.0,37.1,86.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,212.0,87.0,Yes,Former,130.0,85.0
+P1159,179.0,89.0,36.9,66.0,nausea,Diabetes,Heart Disease,High Blood Sugar,255.0,119.0,Yes,Never,125.0,82.0
+P1160,166.0,74.0,36.4,70.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,247.0,154.0,Yes,Former,135.0,88.0
+P1161,145.0,60.0,37.1,77.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,178.0,139.0,Yes,Current,145.0,92.0
+P1162,192.0,76.0,36.0,74.0,nausea,Diabetes,Stroke,High Blood Sugar,195.0,70.0,No,Never,132.45075757575756,86.14621212121212
+P1163,156.0,63.0,37.0,80.0,chest pain,Asthma,Hypertension,Normal,226.0,41.0,Yes,Former,120.0,80.0
+P1165,180.0,52.0,37.4,67.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,237.0,168.0,Yes,Never,140.0,90.0
+P1166,194.0,43.0,37.5,74.56752496058854,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,197.0,105.0,No,Former,125.0,82.0
+P1167,183.0,64.0,36.7,93.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,149.0,61.0,Yes,Current,135.0,88.0
+P1168,175.0,72.0,36.9,73.0,nausea,Diabetes,Stroke,Normal,160.0,128.0,No,Never,145.0,92.0
+P1169,175.0,68.0,36.6,85.0,nausea,Asthma,Hypertension,Low Iron,210.0,96.0,Yes,Former,132.45075757575756,86.14621212121212
+P1171,177.0,55.0,37.2,70.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,156.0,126.0,Yes,Never,130.0,85.0
+P1172,172.0,79.0,36.4,72.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,110.0,No,Former,140.0,90.0
+P1173,171.0,50.0,36.8,73.0,dizziness,High Cholesterol,Arrhythmia,Normal,225.0,64.0,Yes,Current,125.0,82.0
+P1174,169.0,81.0,36.5,81.0,palpitations,Diabetes,Stroke,Low Iron,153.0,90.0,No,Never,135.0,88.0
+P1175,162.0,54.0,36.97098308668076,88.0,nausea,Asthma,Hypertension,High Blood Sugar,244.0,119.0,Yes,Former,145.0,92.0
+P1177,153.0,47.0,36.3,86.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,250.0,107.0,Yes,Never,132.45075757575756,86.14621212121212
+P1178,169.0,62.0,36.1,65.0,shortness of breath,Hypertension,Coronary Artery Disease,Normal,178.0,128.0,No,Former,130.0,85.0
+P1179,160.0,84.0,36.9,70.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,158.0,99.00744680851064,Yes,Current,140.0,90.0
+P1180,158.0,77.0,37.0,67.0,dizziness,Diabetes,Stroke,High Blood Sugar,181.0,105.0,No,Former,125.0,82.0
+P1181,171.0,84.0,37.1,78.0,palpitations,Asthma,Hypertension,High Cholesterol,196.0,-1.0,Yes,Former,135.0,88.0
+P1183,179.0,53.0,36.9,74.56752496058854,nausea,Diabetes,Heart Disease,Normal,191.0,122.0,Yes,Never,132.45075757575756,86.14621212121212
+P1184,154.0,69.38871473354232,37.2,65.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,213.0,88.0,No,Former,120.0,80.0
+P1185,169.90234986945168,58.0,37.5,74.56752496058854,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,199.6129541864139,86.0,Yes,Current,130.0,85.0
+P1186,179.0,89.0,36.0,81.0,fatigue,Diabetes,Stroke,High Cholesterol,197.0,68.0,No,Never,140.0,90.0
+P1187,160.0,52.0,36.8,54.0,dizziness,Asthma,Hypertension,High Blood Sugar,131.0,130.0,Yes,Former,125.0,82.0
+P1189,175.0,83.0,36.5,72.0,nausea,Diabetes,Heart Disease,High Blood Sugar,196.0,124.0,Yes,Never,145.0,92.0
+P1190,160.0,97.0,37.9,54.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,264.0,48.0,No,Former,132.45075757575756,86.14621212121212
+P1191,171.0,63.0,36.7,76.0,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,162.0,95.0,Yes,Current,120.0,80.0
+P1192,156.0,80.0,37.0,75.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,127.0,91.0,No,Never,130.0,85.0
+P1193,163.0,104.0,37.3,74.0,fatigue,Asthma,Hypertension,Normal,224.0,91.0,Yes,Former,140.0,90.0
+P1195,154.0,46.0,36.1,82.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,159.0,89.0,Yes,Never,135.0,88.0
+P1196,174.0,41.0,36.8,77.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,138.0,125.0,No,Former,145.0,92.0
+P1197,169.0,80.0,37.5,79.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,261.0,42.0,Yes,Current,132.45075757575756,86.14621212121212
+P1198,175.0,41.0,36.8,73.0,chest pain,Diabetes,Stroke,High Blood Sugar,256.0,153.0,No,Never,120.0,80.0
+P1199,172.0,64.0,36.6,92.0,shortness of breath,Asthma,Hypertension,Low Iron,100.0,114.0,Yes,Former,130.0,85.0
+P1201,171.0,72.0,36.8,76.0,dizziness,Diabetes,Heart Disease,High Cholesterol,266.0,127.0,Yes,Never,125.0,82.0
+P1202,165.0,76.0,36.7,75.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,180.0,56.0,No,Former,135.0,88.0
+P1203,171.0,73.0,37.1,83.0,nausea,High Cholesterol,Arrhythmia,Normal,180.0,80.0,Yes,Current,145.0,92.0
+P1204,175.0,89.0,37.4,66.0,nausea,Diabetes,Stroke,Low Iron,188.0,96.0,No,Never,132.45075757575756,86.14621212121212
+P1205,170.0,69.38871473354232,38.2,57.0,chest pain,Asthma,Hypertension,High Blood Sugar,155.0,140.0,Yes,Former,120.0,80.0
+P1207,162.0,58.0,37.6,77.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,242.0,113.0,Yes,Never,132.45075757575756,86.14621212121212
+P1208,163.0,82.0,36.7,89.0,dizziness,Hypertension,Coronary Artery Disease,Normal,126.0,82.0,No,Former,125.0,82.0
+P1209,155.0,83.0,36.5,62.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,209.0,114.0,Yes,Current,135.0,88.0
+P1210,187.0,76.0,37.0,86.0,nausea,Diabetes,Stroke,High Blood Sugar,235.0,150.0,No,Never,145.0,92.0
+P1211,157.0,87.0,37.1,98.0,nausea,Asthma,Hypertension,High Cholesterol,141.0,129.0,Yes,Former,132.45075757575756,86.14621212121212
+P1213,162.0,95.0,36.97098308668076,62.0,shortness of breath,Diabetes,Heart Disease,Normal,248.0,120.0,Yes,Never,130.0,85.0
+P1215,167.0,81.0,37.2,75.0,dizziness,Diabetes,Arrhythmia,High Blood Sugar,199.6129541864139,115.0,Yes,Current,125.0,82.0
+P1216,182.0,96.0,37.3,80.0,palpitations,Diabetes,Stroke,High Cholesterol,248.0,133.0,No,Never,135.0,88.0
+P1217,163.0,45.0,37.1,69.0,nausea,Asthma,Hypertension,High Blood Sugar,248.0,133.0,Yes,Former,145.0,92.0
+P1219,161.0,58.0,36.7,63.0,chest pain,Diabetes,Heart Disease,Low Iron,163.0,99.00744680851064,Yes,Never,120.0,80.0
+P1220,191.0,80.0,36.4,74.56752496058854,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,183.0,88.0,No,Former,130.0,85.0
+P1221,158.0,54.0,37.9,86.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,211.0,72.0,Yes,Current,140.0,90.0
+P1222,173.0,81.0,37.0,52.0,dizziness,Diabetes,Stroke,High Blood Sugar,199.6129541864139,91.0,Yes,Never,125.0,82.0
+P1223,176.0,90.0,36.9,74.56752496058854,palpitations,Asthma,Hypertension,Normal,237.0,97.0,Yes,Former,135.0,88.0
+P1225,168.0,74.0,38.5,74.0,nausea,Diabetes,Heart Disease,High Blood Sugar,140.0,125.0,Yes,Never,132.45075757575756,86.14621212121212
+P1226,168.0,55.0,36.5,63.0,chest pain,Diabetes,Coronary Artery Disease,High Cholesterol,207.0,16.0,No,Former,120.0,80.0
+P1227,170.0,57.0,36.8,74.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,180.0,181.0,Yes,Current,130.0,85.0
+P1228,168.0,88.0,36.97098308668076,74.0,fatigue,Diabetes,Stroke,Normal,199.6129541864139,145.0,No,Never,140.0,90.0
+P1229,179.0,81.0,37.3,76.0,dizziness,Diabetes,Hypertension,Low Iron,129.0,92.0,Yes,Former,132.45075757575756,86.14621212121212
+P1231,164.0,63.0,37.9,64.0,nausea,Diabetes,Heart Disease,High Cholesterol,197.0,109.0,Yes,Never,145.0,92.0
+P1232,156.0,39.0,37.3,91.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,226.0,82.0,No,Former,132.45075757575756,86.14621212121212
+P1233,169.0,53.0,36.5,77.0,chest pain,Diabetes,Arrhythmia,Normal,202.0,105.0,Yes,Current,120.0,80.0
+P1234,195.0,98.0,36.9,82.0,shortness of breath,Diabetes,Stroke,Low Iron,194.0,95.0,No,Never,130.0,85.0
+P1235,161.0,69.38871473354232,37.2,68.0,fatigue,Asthma,Hypertension,High Blood Sugar,247.0,97.0,Yes,Former,140.0,90.0
+P1237,186.0,85.0,36.3,72.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,221.0,99.00744680851064,Yes,Never,135.0,88.0
+P1238,164.0,51.0,37.6,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,Normal,133.0,101.0,No,Former,145.0,92.0
+P1239,175.0,72.0,36.97098308668076,65.0,nausea,High Cholesterol,Arrhythmia,Low Iron,166.0,104.0,Yes,Current,132.45075757575756,86.14621212121212
+P1240,186.0,84.0,37.4,65.0,chest pain,Diabetes,Stroke,High Blood Sugar,151.0,103.0,No,Never,120.0,80.0
+P1241,169.90234986945168,70.0,36.9,81.0,shortness of breath,Asthma,Hypertension,High Cholesterol,231.0,93.0,Yes,Former,130.0,85.0
+P1243,164.0,44.0,37.4,66.0,dizziness,Diabetes,Heart Disease,Normal,199.0,89.0,Yes,Never,125.0,82.0
+P1244,159.0,85.0,36.97098308668076,68.0,palpitations,Hypertension,Coronary Artery Disease,Low Iron,155.0,106.0,No,Former,135.0,88.0
+P1245,163.0,67.0,37.5,81.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,188.0,138.0,Yes,Current,145.0,92.0
+P1247,170.0,76.0,36.7,73.0,nausea,Asthma,Hypertension,High Blood Sugar,215.0,106.0,Yes,Former,120.0,80.0
+P1249,172.0,73.0,37.4,55.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,253.0,137.0,Yes,Never,140.0,90.0
+P1250,154.0,42.0,37.2,60.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,132.0,92.0,No,Former,125.0,82.0
+P1251,173.0,79.0,36.5,78.0,palpitations,Diabetes,Arrhythmia,High Cholesterol,167.0,138.0,Yes,Current,135.0,88.0
+P1253,150.0,79.0,36.8,85.0,nausea,Asthma,Hypertension,Normal,182.0,74.0,Yes,Former,132.45075757575756,86.14621212121212
+P1255,182.0,75.0,36.6,82.0,nausea,Diabetes,Heart Disease,High Blood Sugar,208.0,90.0,Yes,Never,130.0,85.0
+P1256,157.0,72.0,36.4,93.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,180.0,118.0,No,Former,140.0,90.0
+P1257,186.0,56.0,36.8,74.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,166.0,18.0,Yes,Current,125.0,82.0
+P1258,174.0,59.0,36.6,81.0,nausea,Diabetes,Stroke,Normal,156.0,99.00744680851064,No,Never,135.0,88.0
+P1259,162.0,87.0,36.2,69.0,nausea,Asthma,Hypertension,Low Iron,310.0,86.0,Yes,Former,145.0,92.0
+P1261,175.0,66.0,37.6,94.0,chest pain,Diabetes,Heart Disease,High Cholesterol,122.0,83.0,Yes,Never,120.0,80.0
+P1263,175.0,56.0,37.1,78.0,fatigue,Diabetes,Arrhythmia,Normal,224.0,98.0,Yes,Current,140.0,90.0
+P1264,160.0,87.0,37.2,88.0,dizziness,Diabetes,Stroke,High Blood Sugar,169.0,58.0,No,Never,125.0,82.0
+P1265,171.0,79.0,37.6,73.0,palpitations,Asthma,Hypertension,High Blood Sugar,162.0,109.0,Yes,Former,135.0,88.0
+P1267,168.0,56.0,37.5,83.0,nausea,Diabetes,Heart Disease,High Blood Sugar,190.0,108.0,Yes,Never,132.45075757575756,86.14621212121212
+P1268,160.0,64.0,36.7,75.0,chest pain,Diabetes,Coronary Artery Disease,Normal,122.0,124.0,No,Former,120.0,80.0
+P1269,162.0,73.0,36.3,76.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,271.0,132.0,Yes,Current,130.0,85.0
+P1270,182.0,79.0,36.97098308668076,66.0,fatigue,Diabetes,Stroke,High Blood Sugar,182.0,137.0,No,Never,140.0,90.0
+P1271,180.0,66.0,37.6,57.0,dizziness,Asthma,Hypertension,High Cholesterol,259.0,156.0,Yes,Former,125.0,82.0
+P1273,159.0,83.0,36.4,84.0,nausea,Diabetes,Heart Disease,Normal,159.0,78.0,Yes,Never,145.0,92.0
+P1274,166.0,80.0,37.3,72.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,241.0,123.0,No,Former,132.45075757575756,86.14621212121212
+P1275,182.0,56.0,36.8,89.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,173.0,121.0,Yes,Current,120.0,80.0
+P1276,171.0,90.0,37.4,67.0,shortness of breath,Diabetes,Stroke,High Cholesterol,125.0,123.0,No,Never,132.45075757575756,86.14621212121212
+P1277,193.0,87.0,36.3,64.0,fatigue,Asthma,Hypertension,High Blood Sugar,183.0,156.0,Yes,Former,140.0,90.0
+P1279,171.0,71.0,36.6,74.0,nausea,Diabetes,Heart Disease,Low Iron,181.0,112.0,Yes,Never,135.0,88.0
+P1280,166.0,69.38871473354232,37.0,82.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,187.0,70.0,No,Former,145.0,92.0
+P1281,171.0,57.0,36.7,67.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,245.0,164.0,Yes,Current,132.45075757575756,86.14621212121212
+P1282,169.90234986945168,70.0,37.3,88.0,chest pain,Diabetes,Stroke,High Blood Sugar,204.0,99.00744680851064,No,Never,120.0,80.0
+P1283,177.0,37.0,37.5,94.0,shortness of breath,Diabetes,Hypertension,Normal,166.0,90.0,Yes,Former,130.0,85.0
+P1285,162.0,46.0,37.8,87.0,nausea,Diabetes,Heart Disease,High Blood Sugar,207.0,80.0,Yes,Never,125.0,82.0
+P1286,156.0,92.0,37.2,64.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,99.0,78.0,No,Former,135.0,88.0
+P1287,151.0,65.0,36.4,85.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,217.0,84.0,Yes,Current,145.0,92.0
+P1288,175.0,66.0,37.7,85.0,nausea,Diabetes,Stroke,Normal,215.0,59.0,No,Never,132.45075757575756,86.14621212121212
+P1289,158.0,60.0,36.7,83.0,chest pain,Asthma,Hypertension,Low Iron,200.0,76.0,Yes,Former,120.0,80.0
+P1291,173.0,91.0,37.8,74.56752496058854,fatigue,Diabetes,Heart Disease,High Cholesterol,173.0,122.0,Yes,Never,140.0,90.0
+P1292,194.0,32.0,37.2,68.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,213.0,127.0,No,Former,125.0,82.0
+P1293,169.0,69.38871473354232,36.3,68.0,palpitations,High Cholesterol,Arrhythmia,Normal,137.0,135.0,Yes,Current,135.0,88.0
+P1294,178.0,75.0,36.5,65.0,nausea,Diabetes,Stroke,Low Iron,216.0,155.0,No,Never,145.0,92.0
+P1295,170.0,51.0,37.7,76.0,nausea,Asthma,Hypertension,High Blood Sugar,278.0,46.0,Yes,Former,132.45075757575756,86.14621212121212
+P1297,179.0,95.0,37.0,66.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,169.0,75.0,Yes,Never,130.0,85.0
+P1298,167.0,55.0,37.4,64.0,fatigue,Hypertension,Coronary Artery Disease,Normal,171.0,99.00744680851064,No,Former,140.0,90.0
+P1299,172.0,52.0,37.3,67.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,205.0,99.00744680851064,Yes,Current,125.0,82.0
+P1300,173.0,87.0,37.1,86.0,palpitations,Diabetes,Stroke,High Blood Sugar,157.0,86.0,No,Never,135.0,88.0
+P1301,163.0,75.0,36.9,68.0,nausea,Asthma,Hypertension,High Cholesterol,216.0,106.0,Yes,Former,145.0,92.0
+P1303,168.0,73.0,37.4,70.0,chest pain,Diabetes,Heart Disease,Normal,221.0,78.0,Yes,Former,120.0,80.0
+P1304,162.0,54.0,37.3,78.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,129.0,34.0,No,Former,130.0,85.0
+P1305,175.0,86.0,36.9,79.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,239.0,70.0,Yes,Current,140.0,90.0
+P1306,161.0,85.0,37.5,44.0,nausea,Diabetes,Stroke,High Cholesterol,237.0,83.0,No,Never,125.0,82.0
+P1307,170.0,77.0,36.9,85.0,palpitations,Asthma,Hypertension,High Blood Sugar,233.0,92.0,Yes,Former,135.0,88.0
+P1309,180.0,96.0,36.6,64.0,nausea,Diabetes,Heart Disease,Low Iron,208.0,85.0,Yes,Never,132.45075757575756,86.14621212121212
+P1310,174.0,69.0,36.5,65.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,241.0,66.0,No,Former,120.0,80.0
+P1311,169.0,52.0,36.9,70.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,276.0,96.0,Yes,Current,130.0,85.0
+P1312,178.0,76.0,37.6,67.0,fatigue,Diabetes,Stroke,High Blood Sugar,161.0,67.0,No,Never,140.0,90.0
+P1315,170.0,64.0,36.7,63.0,nausea,Diabetes,Heart Disease,High Blood Sugar,194.0,95.0,Yes,Never,132.45075757575756,86.14621212121212
+P1316,156.0,76.0,36.9,90.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,138.0,74.0,No,Former,132.45075757575756,86.14621212121212
+P1317,169.90234986945168,69.0,36.2,65.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,188.0,127.0,Yes,Current,132.45075757575756,86.14621212121212
+P1318,166.0,55.0,36.9,87.0,shortness of breath,Diabetes,Stroke,Normal,160.0,112.0,No,Never,130.0,85.0
+P1319,163.0,86.0,36.9,78.0,nausea,Asthma,Hypertension,Low Iron,199.6129541864139,99.00744680851064,Yes,Former,140.0,90.0
+P1321,170.0,69.38871473354232,37.1,81.0,palpitations,Diabetes,Heart Disease,High Cholesterol,182.0,111.0,Yes,Never,135.0,88.0
+P1322,175.0,56.0,36.4,73.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,183.0,120.0,No,Former,145.0,92.0
+P1323,169.0,46.0,37.5,70.0,nausea,High Cholesterol,Arrhythmia,Normal,203.0,104.0,Yes,Current,132.45075757575756,86.14621212121212
+P1324,174.0,73.0,37.1,74.56752496058854,chest pain,Diabetes,Stroke,Low Iron,135.0,148.0,No,Never,120.0,80.0
+P1325,170.0,86.0,37.1,74.56752496058854,shortness of breath,Asthma,Hypertension,High Blood Sugar,142.0,113.0,Yes,Former,132.45075757575756,86.14621212121212
+P1327,160.0,69.0,36.7,86.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,168.0,104.0,Yes,Never,125.0,82.0
+P1328,168.0,61.0,37.1,79.0,palpitations,Hypertension,Coronary Artery Disease,Normal,242.0,120.0,No,Former,135.0,88.0
+P1329,157.0,53.0,37.2,61.0,nausea,High Cholesterol,Arrhythmia,Low Iron,209.0,76.0,Yes,Current,145.0,92.0
+P1330,175.0,69.38871473354232,36.1,70.0,nausea,Diabetes,Stroke,High Blood Sugar,224.0,86.0,No,Never,132.45075757575756,86.14621212121212
+P1331,185.0,83.0,36.7,104.0,nausea,Asthma,Hypertension,High Cholesterol,256.0,110.0,Yes,Former,120.0,80.0
+P1333,167.0,93.0,37.1,98.0,fatigue,Diabetes,Heart Disease,Normal,177.0,115.0,Yes,Never,140.0,90.0
+P1334,184.0,78.0,37.6,88.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,234.0,133.0,No,Former,125.0,82.0
+P1335,171.0,90.0,36.6,77.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,220.0,57.0,Yes,Current,135.0,88.0
+P1336,166.0,49.0,36.97098308668076,78.0,nausea,Diabetes,Stroke,High Cholesterol,192.0,99.00744680851064,No,Never,132.45075757575756,86.14621212121212
+P1337,163.0,49.0,36.7,74.0,nausea,Asthma,Hypertension,High Blood Sugar,255.0,106.0,Yes,Former,132.45075757575756,86.14621212121212
+P1339,166.0,77.0,36.8,75.0,shortness of breath,Diabetes,Heart Disease,Low Iron,201.0,201.0,Yes,Never,130.0,85.0
+P1340,171.0,96.0,36.97098308668076,87.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,200.0,115.0,No,Former,140.0,90.0
+P1341,171.0,80.0,36.5,69.0,dizziness,High Cholesterol,Arrhythmia,High Cholesterol,162.0,99.00744680851064,Yes,Current,132.45075757575756,86.14621212121212
+P1342,170.0,66.0,37.2,79.0,palpitations,Diabetes,Stroke,High Blood Sugar,203.0,84.0,No,Never,135.0,88.0
+P1343,174.0,54.0,36.1,83.0,nausea,Asthma,Hypertension,Normal,255.0,85.0,Yes,Former,145.0,92.0
+P1345,179.0,55.0,36.8,70.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,201.0,103.0,Yes,Never,120.0,80.0
+P1346,155.0,94.0,37.8,64.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,193.0,86.0,No,Former,130.0,85.0
+P1347,144.0,65.0,36.9,66.0,fatigue,Diabetes,Arrhythmia,High Blood Sugar,213.0,91.0,Yes,Current,140.0,90.0
+P1348,179.0,93.0,35.9,74.56752496058854,dizziness,Diabetes,Stroke,Normal,229.0,140.0,No,Never,125.0,82.0
+P1349,156.0,80.0,36.0,74.56752496058854,palpitations,Asthma,Hypertension,Low Iron,224.0,141.0,Yes,Former,132.45075757575756,86.14621212121212
+P1351,158.0,62.0,37.3,65.0,nausea,Diabetes,Heart Disease,High Cholesterol,212.0,59.0,Yes,Never,132.45075757575756,86.14621212121212
+P1352,151.0,64.0,37.2,76.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,99.00744680851064,No,Former,120.0,80.0
+P1353,175.0,76.0,37.1,69.0,shortness of breath,High Cholesterol,Arrhythmia,Normal,159.0,146.0,Yes,Current,130.0,85.0
+P1354,177.0,71.0,37.6,86.0,fatigue,Diabetes,Stroke,Low Iron,206.0,141.0,No,Never,140.0,90.0
+P1355,164.0,61.0,36.7,88.0,dizziness,Diabetes,Hypertension,High Blood Sugar,199.6129541864139,122.0,Yes,Former,125.0,82.0
+P1357,164.0,71.0,36.2,78.0,nausea,Diabetes,Heart Disease,High Blood Sugar,199.6129541864139,101.0,Yes,Never,145.0,92.0
+P1358,173.0,38.0,36.5,72.0,nausea,Hypertension,Coronary Artery Disease,Normal,229.0,118.0,No,Former,132.45075757575756,86.14621212121212
+P1359,155.0,76.0,36.1,63.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,184.0,79.0,Yes,Current,120.0,80.0
+P1360,171.0,55.0,36.9,94.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,212.0,108.0,No,Never,130.0,85.0
+P1361,169.0,52.0,37.0,67.0,nausea,Diabetes,Hypertension,High Cholesterol,256.0,99.00744680851064,Yes,Former,140.0,90.0
+P1363,171.0,43.0,37.0,85.0,palpitations,Diabetes,Heart Disease,Normal,198.0,74.0,Yes,Never,135.0,88.0
+P1364,160.0,49.0,36.5,69.0,nausea,Diabetes,Coronary Artery Disease,Low Iron,205.0,102.0,No,Former,145.0,92.0
+P1365,181.0,59.0,36.9,85.0,nausea,Diabetes,Arrhythmia,High Blood Sugar,244.0,93.0,Yes,Current,132.45075757575756,86.14621212121212
+P1366,168.0,69.38871473354232,36.3,82.0,chest pain,Diabetes,Stroke,High Cholesterol,139.0,119.0,No,Never,120.0,80.0
+P1367,169.0,62.0,37.7,92.0,nausea,Asthma,Hypertension,High Blood Sugar,187.0,86.0,Yes,Former,130.0,85.0
+P1369,165.0,76.0,36.8,62.0,nausea,Diabetes,Heart Disease,Low Iron,239.0,61.0,Yes,Former,125.0,82.0
+P1370,161.0,71.0,37.8,69.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,214.0,137.0,No,Former,135.0,88.0
+P1371,168.0,68.0,36.4,77.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,139.0,77.0,Yes,Current,145.0,92.0
+P1372,187.0,52.0,36.4,75.0,nausea,Diabetes,Stroke,High Blood Sugar,198.0,46.0,No,Never,132.45075757575756,86.14621212121212
+P1373,156.0,91.0,36.5,71.0,chest pain,Asthma,Hypertension,Normal,199.6129541864139,99.00744680851064,Yes,Former,120.0,80.0
+P1375,169.90234986945168,44.0,37.2,79.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,167.0,66.0,Yes,Never,140.0,90.0
+P1376,167.0,54.0,37.4,94.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,158.0,49.0,Yes,Former,125.0,82.0
+P1377,163.0,65.0,38.3,79.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,117.0,99.0,Yes,Current,135.0,88.0
+P1378,180.0,55.0,35.9,81.0,nausea,Diabetes,Stroke,Normal,248.0,129.0,No,Never,145.0,92.0
+P1379,163.0,77.0,37.3,80.0,nausea,Asthma,Hypertension,Low Iron,184.0,117.0,Yes,Former,132.45075757575756,86.14621212121212
+P1381,176.0,102.0,36.7,84.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,199.0,114.0,Yes,Never,130.0,85.0
+P1382,165.0,87.0,36.7,78.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,199.6129541864139,99.0,No,Former,140.0,90.0
+P1383,191.0,73.0,36.5,71.0,dizziness,High Cholesterol,Arrhythmia,Normal,149.0,57.0,Yes,Former,125.0,82.0
+P1385,177.0,86.0,37.4,72.0,nausea,Asthma,Hypertension,High Blood Sugar,171.0,93.0,Yes,Former,145.0,92.0
+P1387,183.0,57.0,37.7,71.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,168.0,125.0,Yes,Never,120.0,80.0
+P1388,185.0,71.0,36.2,78.0,shortness of breath,Diabetes,Coronary Artery Disease,Normal,269.0,122.0,No,Former,130.0,85.0
+P1389,170.0,82.0,36.3,79.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,241.0,118.0,Yes,Current,140.0,90.0
+P1390,162.0,72.0,35.9,83.0,dizziness,Diabetes,Stroke,High Blood Sugar,232.0,91.0,No,Never,125.0,82.0
+P1391,174.0,46.0,36.7,87.0,palpitations,Asthma,Hypertension,High Cholesterol,195.0,58.0,Yes,Former,135.0,88.0
+P1393,190.0,68.0,37.1,74.56752496058854,nausea,Diabetes,Heart Disease,Normal,191.0,115.0,Yes,Never,132.45075757575756,86.14621212121212
+P1394,171.0,68.0,37.1,71.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,198.0,28.0,No,Former,120.0,80.0
+P1395,166.0,99.0,36.97098308668076,75.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,206.0,74.0,Yes,Current,130.0,85.0
+P1396,171.0,49.0,37.4,56.0,fatigue,Diabetes,Stroke,High Cholesterol,228.0,79.0,No,Never,140.0,90.0
+P1397,156.0,77.0,37.1,88.0,dizziness,Asthma,Hypertension,High Blood Sugar,225.0,103.0,Yes,Former,125.0,82.0
+P1399,182.0,104.0,36.1,78.0,nausea,Diabetes,Heart Disease,Low Iron,178.0,98.0,Yes,Never,145.0,92.0
+P1400,163.0,63.0,37.2,88.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,225.0,99.00744680851064,No,Former,132.45075757575756,86.14621212121212
+P1401,159.0,77.0,36.4,74.56752496058854,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,228.0,95.0,Yes,Current,120.0,80.0
+P1402,175.0,78.0,36.8,80.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,184.0,78.0,No,Never,130.0,85.0
+P1403,181.0,72.0,37.3,73.0,fatigue,Asthma,Hypertension,Normal,136.0,80.0,Yes,Former,140.0,90.0
+P1405,179.0,76.0,36.6,67.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,224.0,111.0,Yes,Never,135.0,88.0
+P1406,162.0,32.0,37.0,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,272.0,117.0,No,Former,145.0,92.0
+P1407,155.0,80.0,36.2,71.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,152.0,76.0,Yes,Current,132.45075757575756,86.14621212121212
+P1408,185.0,71.0,37.6,81.0,chest pain,Diabetes,Stroke,Normal,182.0,145.0,No,Never,120.0,80.0
+P1409,166.0,66.0,36.9,56.0,shortness of breath,Diabetes,Hypertension,Low Iron,184.0,90.0,Yes,Former,130.0,85.0
+P1411,183.0,59.0,36.7,85.0,dizziness,Diabetes,Heart Disease,High Cholesterol,199.6129541864139,80.0,Yes,Never,132.45075757575756,86.14621212121212
+P1412,175.0,63.0,36.7,74.56752496058854,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,163.0,39.0,No,Former,135.0,88.0
+P1413,174.0,99.0,36.6,72.0,nausea,High Cholesterol,Arrhythmia,Normal,222.0,112.0,Yes,Current,145.0,92.0
+P1414,191.0,57.0,37.4,79.0,nausea,Diabetes,Stroke,Low Iron,183.0,107.0,No,Never,132.45075757575756,86.14621212121212
+P1417,170.0,82.0,36.97098308668076,82.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,269.0,99.00744680851064,Yes,Never,140.0,90.0
+P1418,172.0,73.0,36.0,65.0,dizziness,Hypertension,Coronary Artery Disease,Normal,215.0,84.0,No,Former,125.0,82.0
+P1419,185.0,50.0,36.7,74.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,204.0,90.0,Yes,Current,135.0,88.0
+P1421,175.0,60.0,37.0,70.0,nausea,Diabetes,Hypertension,High Cholesterol,211.0,105.0,Yes,Former,132.45075757575756,86.14621212121212
+P1423,166.0,76.0,37.5,63.0,shortness of breath,Diabetes,Heart Disease,Normal,211.0,93.0,Yes,Never,130.0,85.0
+P1424,161.0,76.0,37.0,85.0,fatigue,Diabetes,Coronary Artery Disease,Low Iron,204.0,89.0,No,Former,140.0,90.0
+P1425,159.0,43.0,36.9,57.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,234.0,65.0,Yes,Current,132.45075757575756,86.14621212121212
+P1426,150.0,85.0,37.3,80.0,palpitations,Diabetes,Stroke,High Cholesterol,200.0,88.0,No,Never,132.45075757575756,86.14621212121212
+P1427,190.0,73.0,37.5,71.0,nausea,Asthma,Hypertension,High Blood Sugar,160.0,0.0,Yes,Former,145.0,92.0
+P1429,167.0,69.38871473354232,36.6,77.0,chest pain,Diabetes,Heart Disease,Low Iron,120.0,97.0,Yes,Never,120.0,80.0
+P1430,167.0,86.0,36.1,59.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,281.0,116.0,No,Former,130.0,85.0
+P1431,173.0,76.0,36.7,75.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,234.0,91.0,Yes,Current,140.0,90.0
+P1432,178.0,90.0,36.97098308668076,60.0,dizziness,Diabetes,Stroke,High Blood Sugar,166.0,110.0,No,Never,125.0,82.0
+P1433,178.0,77.0,36.97098308668076,79.0,palpitations,Asthma,Hypertension,High Blood Sugar,188.0,34.0,Yes,Former,135.0,88.0
+P1435,168.0,104.0,37.3,70.0,nausea,Diabetes,Heart Disease,High Blood Sugar,261.0,49.0,Yes,Never,132.45075757575756,86.14621212121212
+P1436,172.0,83.0,36.7,77.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,143.0,63.0,No,Former,120.0,80.0
+P1437,167.0,78.0,37.0,67.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,204.0,94.0,Yes,Current,130.0,85.0
+P1438,169.90234986945168,50.0,37.6,74.0,fatigue,Diabetes,Stroke,Normal,195.0,138.0,No,Never,140.0,90.0
+P1439,174.0,69.38871473354232,37.2,59.0,dizziness,Asthma,Hypertension,Low Iron,233.0,111.0,Yes,Former,125.0,82.0
+P1441,176.0,72.0,36.7,92.0,nausea,Diabetes,Heart Disease,High Cholesterol,129.0,99.0,Yes,Never,145.0,92.0
+P1442,181.0,60.0,36.7,102.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,189.0,78.0,No,Former,132.45075757575756,86.14621212121212
+P1443,171.0,72.0,36.6,75.0,chest pain,High Cholesterol,Arrhythmia,Normal,161.0,83.0,Yes,Current,120.0,80.0
+P1444,157.0,93.0,36.7,82.0,shortness of breath,Diabetes,Stroke,Low Iron,203.0,112.0,No,Never,130.0,85.0
+P1445,173.0,80.0,37.4,57.0,nausea,Asthma,Hypertension,High Blood Sugar,257.0,58.0,Yes,Former,140.0,90.0
+P1447,169.90234986945168,68.0,36.3,82.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,167.0,88.0,Yes,Never,135.0,88.0
+P1448,175.0,57.0,36.97098308668076,70.0,nausea,Hypertension,Coronary Artery Disease,Normal,177.0,124.0,No,Former,145.0,92.0
+P1449,182.0,64.0,37.2,87.0,nausea,High Cholesterol,Arrhythmia,Low Iron,184.0,128.0,Yes,Current,132.45075757575756,86.14621212121212
+P1450,170.0,63.0,36.3,72.0,chest pain,Diabetes,Stroke,High Blood Sugar,229.0,99.00744680851064,No,Former,120.0,80.0
+P1451,173.0,62.0,36.8,70.0,shortness of breath,Asthma,Hypertension,High Cholesterol,193.0,82.0,Yes,Former,130.0,85.0
+P1453,172.0,68.0,37.9,64.0,dizziness,Diabetes,Heart Disease,Normal,174.0,45.0,Yes,Never,125.0,82.0
+P1454,196.0,61.0,36.4,74.56752496058854,palpitations,Hypertension,Coronary Artery Disease,Low Iron,209.0,69.0,No,Former,135.0,88.0
+P1455,175.0,26.0,37.5,64.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,231.0,173.0,Yes,Current,145.0,92.0
+P1456,152.0,100.0,37.7,64.0,nausea,Diabetes,Stroke,High Cholesterol,170.0,118.0,No,Never,132.45075757575756,86.14621212121212
+P1457,177.0,86.0,36.7,65.0,chest pain,Asthma,Hypertension,High Blood Sugar,231.0,157.0,Yes,Former,120.0,80.0
+P1459,182.0,70.0,36.5,68.0,fatigue,Diabetes,Heart Disease,Low Iron,241.0,77.0,Yes,Never,140.0,90.0
+P1460,176.0,52.0,36.9,61.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,191.0,88.0,No,Former,125.0,82.0
+P1461,168.0,95.0,37.0,68.0,palpitations,High Cholesterol,Arrhythmia,High Cholesterol,215.0,117.0,Yes,Current,135.0,88.0
+P1462,157.0,98.0,37.3,74.0,nausea,Diabetes,Stroke,High Blood Sugar,198.0,113.0,No,Never,145.0,92.0
+P1463,167.0,72.0,37.5,63.0,nausea,Asthma,Hypertension,Normal,196.0,82.0,Yes,Former,132.45075757575756,86.14621212121212
+P1465,164.0,72.0,36.0,96.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,221.0,198.0,Yes,Never,130.0,85.0
+P1466,175.0,49.0,36.97098308668076,66.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,150.0,95.0,No,Former,140.0,90.0
+P1467,186.0,63.0,37.1,71.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,257.0,90.0,Yes,Current,125.0,82.0
+P1468,173.0,71.0,37.1,71.0,palpitations,Diabetes,Stroke,Normal,125.0,103.0,No,Never,135.0,88.0
+P1469,158.0,63.0,36.8,70.0,nausea,Asthma,Hypertension,Low Iron,172.0,92.0,Yes,Former,145.0,92.0
+P1471,181.0,68.0,37.8,84.0,chest pain,Diabetes,Heart Disease,High Cholesterol,216.0,138.0,Yes,Never,120.0,80.0
+P1472,163.0,68.0,37.2,74.56752496058854,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,263.0,96.0,No,Former,130.0,85.0
+P1473,168.0,70.0,36.8,62.0,fatigue,High Cholesterol,Arrhythmia,Normal,125.0,65.0,Yes,Current,140.0,90.0
+P1474,170.0,54.0,36.7,87.0,nausea,Diabetes,Stroke,Low Iron,179.0,95.0,No,Never,125.0,82.0
+P1475,162.0,59.0,36.9,74.0,palpitations,Asthma,Hypertension,High Blood Sugar,114.0,86.0,Yes,Former,135.0,88.0
+P1477,168.0,84.0,36.9,52.0,nausea,Diabetes,Heart Disease,High Blood Sugar,199.6129541864139,135.0,Yes,Never,132.45075757575756,86.14621212121212
+P1478,174.0,38.0,37.0,76.0,chest pain,Hypertension,Coronary Artery Disease,Normal,263.0,103.0,No,Former,120.0,80.0
+P1479,161.0,87.0,36.8,94.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,204.0,61.0,Yes,Current,130.0,85.0
+P1481,177.0,65.0,38.0,72.0,dizziness,Asthma,Hypertension,High Cholesterol,199.6129541864139,100.0,Yes,Former,125.0,82.0
+P1483,169.90234986945168,64.0,37.0,69.0,nausea,Diabetes,Heart Disease,Normal,143.0,88.0,Yes,Never,145.0,92.0
+P1484,166.0,69.0,37.0,71.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,211.0,85.0,No,Former,132.45075757575756,86.14621212121212
+P1485,172.0,54.0,35.8,71.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,140.0,82.0,Yes,Current,120.0,80.0
+P1486,179.0,62.0,37.4,68.0,shortness of breath,Diabetes,Stroke,High Cholesterol,251.0,99.0,No,Never,130.0,85.0
+P1487,155.0,92.0,37.1,87.0,fatigue,Asthma,Hypertension,High Blood Sugar,193.0,28.0,Yes,Former,140.0,90.0
+P1489,154.0,56.0,36.6,77.0,palpitations,Diabetes,Heart Disease,Low Iron,180.0,81.0,Yes,Never,135.0,88.0
+P1490,182.0,46.0,36.8,83.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,210.0,136.0,No,Former,145.0,92.0
+P1491,164.0,65.0,36.8,72.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,208.0,75.0,Yes,Current,132.45075757575756,86.14621212121212
+P1492,195.0,66.0,37.5,67.0,chest pain,Diabetes,Stroke,High Blood Sugar,198.0,105.0,No,Never,120.0,80.0
+P1493,164.0,77.0,36.8,68.0,shortness of breath,Asthma,Hypertension,Normal,182.0,106.0,Yes,Former,130.0,85.0
+P1495,185.0,77.0,37.2,64.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,162.0,137.0,Yes,Never,125.0,82.0
+P1496,190.0,99.0,36.4,69.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,151.0,98.0,No,Former,135.0,88.0
+P1497,169.90234986945168,82.0,36.9,69.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,249.0,85.0,Yes,Current,145.0,92.0
+P1498,182.0,69.38871473354232,36.7,96.0,nausea,Diabetes,Stroke,High Blood Sugar,229.0,80.0,No,Never,132.45075757575756,86.14621212121212
+P1499,180.0,67.0,35.9,47.0,chest pain,Asthma,Hypertension,Low Iron,202.0,92.0,Yes,Former,120.0,80.0
+P1501,177.0,87.0,37.4,92.0,fatigue,Diabetes,Heart Disease,High Cholesterol,189.0,116.0,Yes,Never,132.45075757575756,86.14621212121212
+P1502,164.0,69.38871473354232,37.3,76.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,252.0,112.0,No,Former,125.0,82.0
+P1503,161.0,70.0,37.1,82.0,palpitations,High Cholesterol,Arrhythmia,Normal,207.0,117.0,Yes,Current,135.0,88.0
+P1504,169.0,70.0,36.3,75.0,nausea,Diabetes,Stroke,Low Iron,159.0,137.0,No,Never,145.0,92.0
+P1505,168.0,62.0,36.8,68.0,nausea,Asthma,Hypertension,High Blood Sugar,273.0,155.0,Yes,Former,132.45075757575756,86.14621212121212
+P1507,176.0,74.0,36.5,77.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,195.0,132.0,Yes,Never,130.0,85.0
+P1508,179.0,69.0,36.97098308668076,67.0,fatigue,Hypertension,Coronary Artery Disease,Normal,229.0,89.0,No,Former,140.0,90.0
+P1509,170.0,77.0,36.9,66.0,dizziness,Diabetes,Arrhythmia,Low Iron,183.0,135.0,Yes,Current,125.0,82.0
+P1510,184.0,61.0,36.9,70.0,palpitations,Diabetes,Stroke,High Blood Sugar,233.0,131.0,No,Never,135.0,88.0
+P1511,158.0,88.0,37.1,92.0,nausea,Asthma,Hypertension,High Cholesterol,104.0,130.0,Yes,Former,145.0,92.0
+P1513,162.0,95.0,37.3,77.0,chest pain,Diabetes,Heart Disease,Normal,239.0,79.0,Yes,Never,120.0,80.0
+P1514,151.0,43.0,37.1,70.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,190.0,99.00744680851064,No,Former,130.0,85.0
+P1515,169.0,76.0,37.6,63.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,208.0,98.0,Yes,Current,132.45075757575756,86.14621212121212
+P1516,168.0,77.0,36.2,79.0,dizziness,Diabetes,Stroke,High Cholesterol,146.0,99.00744680851064,No,Never,125.0,82.0
+P1517,185.0,58.0,37.3,92.0,palpitations,Asthma,Hypertension,High Blood Sugar,273.0,90.0,Yes,Former,135.0,88.0
+P1519,159.0,89.0,36.4,51.0,nausea,Diabetes,Heart Disease,High Blood Sugar,191.0,125.0,Yes,Never,132.45075757575756,86.14621212121212
+P1520,188.0,36.0,36.97098308668076,81.0,chest pain,Diabetes,Coronary Artery Disease,High Blood Sugar,183.0,91.0,No,Former,120.0,80.0
+P1521,182.0,77.0,36.6,84.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,241.0,139.0,Yes,Current,130.0,85.0
+P1522,175.0,32.0,36.7,74.56752496058854,fatigue,Diabetes,Stroke,High Blood Sugar,279.0,12.0,No,Never,140.0,90.0
+P1523,167.0,55.0,37.4,76.0,dizziness,Asthma,Hypertension,Normal,238.0,63.0,Yes,Former,125.0,82.0
+P1525,166.0,61.0,36.6,74.56752496058854,nausea,Diabetes,Heart Disease,High Blood Sugar,163.0,75.0,Yes,Never,145.0,92.0
+P1526,180.0,52.0,36.7,67.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,167.0,110.0,No,Former,132.45075757575756,86.14621212121212
+P1527,188.0,67.0,37.6,85.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,152.0,108.0,Yes,Current,120.0,80.0
+P1528,185.0,69.38871473354232,37.0,70.0,shortness of breath,Diabetes,Stroke,Normal,217.0,111.0,No,Never,130.0,85.0
+P1529,165.0,42.0,36.9,60.0,fatigue,Asthma,Hypertension,Low Iron,207.0,117.0,Yes,Former,140.0,90.0
+P1531,171.0,92.0,37.6,87.0,nausea,Diabetes,Heart Disease,High Cholesterol,232.0,63.0,Yes,Never,135.0,88.0
+P1532,152.0,97.0,36.6,81.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,249.0,111.0,No,Former,145.0,92.0
+P1533,173.0,68.0,37.7,75.0,nausea,High Cholesterol,Arrhythmia,Normal,138.0,81.0,Yes,Current,132.45075757575756,86.14621212121212
+P1535,165.0,101.0,36.9,69.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,232.0,129.0,Yes,Former,130.0,85.0
+P1537,175.0,80.0,36.5,70.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,168.0,146.0,Yes,Never,125.0,82.0
+P1538,164.0,57.0,36.8,53.0,nausea,Hypertension,Coronary Artery Disease,Normal,240.0,105.0,No,Former,135.0,88.0
+P1539,169.90234986945168,69.0,36.4,67.0,nausea,High Cholesterol,Arrhythmia,Low Iron,148.0,118.0,Yes,Current,145.0,92.0
+P1540,141.0,67.0,37.5,71.0,nausea,Diabetes,Stroke,High Blood Sugar,187.0,141.0,No,Never,132.45075757575756,86.14621212121212
+P1541,169.0,74.0,37.8,81.0,chest pain,Asthma,Hypertension,High Blood Sugar,213.0,80.0,Yes,Former,120.0,80.0
+P1543,186.0,83.0,36.97098308668076,82.0,fatigue,Diabetes,Heart Disease,Normal,231.0,108.0,Yes,Never,140.0,90.0
+P1544,169.90234986945168,53.0,36.9,88.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,177.0,127.0,No,Former,125.0,82.0
+P1545,163.0,69.38871473354232,36.8,85.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,256.0,105.0,Yes,Current,135.0,88.0
+P1546,174.0,74.0,36.2,79.0,nausea,Diabetes,Stroke,High Cholesterol,194.0,138.0,No,Never,145.0,92.0
+P1547,160.0,80.0,38.0,75.0,nausea,Asthma,Hypertension,High Blood Sugar,226.0,106.0,Yes,Former,132.45075757575756,86.14621212121212
+P1549,177.0,53.0,36.8,82.0,shortness of breath,Diabetes,Heart Disease,Low Iron,174.0,143.0,Yes,Never,130.0,85.0
+P1550,182.0,69.0,37.7,91.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,117.0,71.0,Yes,Former,140.0,90.0
+P1551,168.0,62.0,36.5,78.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,214.0,137.0,Yes,Current,125.0,82.0
+P1553,161.0,75.0,36.9,59.0,nausea,Asthma,Hypertension,Normal,222.0,99.00744680851064,Yes,Former,145.0,92.0
+P1555,167.0,42.0,37.0,83.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,182.0,112.0,Yes,Never,132.45075757575756,86.14621212121212
+P1557,179.0,79.0,37.0,88.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,141.0,112.0,Yes,Current,140.0,90.0
+P1558,161.0,71.0,36.97098308668076,74.0,nausea,Diabetes,Stroke,Normal,229.0,39.0,Yes,Never,125.0,82.0
+P1559,184.0,68.0,37.0,66.0,palpitations,Asthma,Hypertension,Low Iron,177.0,103.0,Yes,Former,135.0,88.0
+P1561,169.0,73.0,36.5,59.0,nausea,Diabetes,Heart Disease,High Cholesterol,187.0,105.0,Yes,Never,132.45075757575756,86.14621212121212
+P1562,162.0,58.0,37.0,63.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,167.0,65.0,No,Former,120.0,80.0
+P1563,145.0,37.0,36.7,84.0,shortness of breath,Diabetes,Arrhythmia,Normal,222.0,64.0,Yes,Current,130.0,85.0
+P1564,178.0,87.0,37.4,83.0,fatigue,Diabetes,Stroke,Low Iron,255.0,148.0,No,Never,140.0,90.0
+P1565,177.0,84.0,37.0,78.0,dizziness,Asthma,Hypertension,High Blood Sugar,218.0,132.0,Yes,Former,125.0,82.0
+P1567,170.0,73.0,37.5,71.0,nausea,Diabetes,Heart Disease,High Blood Sugar,160.0,105.0,Yes,Never,145.0,92.0
+P1568,175.0,86.0,37.3,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,Normal,220.0,92.0,No,Former,132.45075757575756,86.14621212121212
+P1569,154.0,73.0,37.1,86.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,286.0,117.0,Yes,Current,120.0,80.0
+P1570,164.0,83.0,36.5,69.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,184.0,79.0,No,Never,130.0,85.0
+P1571,177.0,65.0,37.0,64.0,fatigue,Diabetes,Hypertension,High Cholesterol,184.0,129.0,Yes,Former,140.0,90.0
+P1573,172.0,74.0,36.8,68.0,palpitations,Diabetes,Heart Disease,Normal,180.0,99.00744680851064,Yes,Former,135.0,88.0
+P1574,156.0,72.0,36.8,89.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,90.0,100.0,No,Former,145.0,92.0
+P1575,174.0,50.0,36.5,67.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,216.0,82.0,Yes,Current,132.45075757575756,86.14621212121212
+P1577,153.0,57.0,36.7,53.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,135.0,99.00744680851064,Yes,Former,130.0,85.0
+P1579,162.0,57.0,36.3,69.0,dizziness,Diabetes,Heart Disease,Low Iron,156.0,136.0,Yes,Never,125.0,82.0
+P1580,161.0,54.0,37.0,60.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,186.0,78.0,No,Former,135.0,88.0
+P1581,172.0,101.0,38.0,86.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,258.0,96.0,Yes,Current,145.0,92.0
+P1582,181.0,89.0,37.5,81.0,nausea,Diabetes,Stroke,High Blood Sugar,143.0,113.0,No,Never,132.45075757575756,86.14621212121212
+P1583,169.90234986945168,98.0,37.8,74.0,chest pain,Asthma,Hypertension,Normal,138.0,86.0,Yes,Former,120.0,80.0
+P1585,174.0,71.0,37.6,74.56752496058854,fatigue,Diabetes,Heart Disease,High Blood Sugar,245.0,99.00744680851064,Yes,Never,140.0,90.0
+P1586,176.0,50.0,36.6,66.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,137.0,99.00744680851064,No,Former,125.0,82.0
+P1587,171.0,59.0,36.7,64.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,216.0,81.0,Yes,Current,135.0,88.0
+P1588,166.0,56.0,35.6,83.0,nausea,Diabetes,Stroke,Normal,223.0,71.0,No,Never,145.0,92.0
+P1589,161.0,88.0,37.6,78.0,nausea,Asthma,Hypertension,Low Iron,117.0,90.0,Yes,Former,132.45075757575756,86.14621212121212
+P1591,159.0,86.0,36.97098308668076,66.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,235.0,99.00744680851064,Yes,Never,130.0,85.0
+P1592,140.0,79.0,36.9,81.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,187.0,65.0,No,Former,140.0,90.0
+P1593,174.0,104.0,36.6,67.0,dizziness,High Cholesterol,Arrhythmia,Normal,250.0,169.0,Yes,Current,125.0,82.0
+P1594,179.0,47.0,37.2,73.0,palpitations,Diabetes,Stroke,Low Iron,245.0,138.0,No,Never,135.0,88.0
+P1595,146.0,88.0,37.6,89.0,nausea,Asthma,Hypertension,High Blood Sugar,204.0,100.0,Yes,Former,145.0,92.0
+P1597,176.0,55.0,37.2,59.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,161.0,50.0,Yes,Never,120.0,80.0
+P1598,190.0,85.0,36.9,64.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,198.0,175.0,No,Former,130.0,85.0
+P1599,170.0,75.0,37.1,84.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,222.0,82.0,Yes,Current,140.0,90.0
+P1600,162.0,66.0,37.2,77.0,dizziness,Diabetes,Stroke,High Blood Sugar,187.0,96.0,No,Never,125.0,82.0
+P1601,168.0,57.0,36.97098308668076,73.0,palpitations,Asthma,Hypertension,High Cholesterol,112.0,44.0,Yes,Former,132.45075757575756,86.14621212121212
+P1603,163.0,100.0,36.9,74.56752496058854,nausea,Diabetes,Heart Disease,Normal,207.0,66.0,Yes,Never,132.45075757575756,86.14621212121212
+P1604,162.0,70.0,37.5,66.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,184.0,103.0,No,Former,120.0,80.0
+P1605,165.0,81.0,37.2,78.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,234.0,83.0,Yes,Current,132.45075757575756,86.14621212121212
+P1606,160.0,58.0,37.1,67.0,fatigue,Diabetes,Stroke,High Cholesterol,260.0,67.0,No,Never,140.0,90.0
+P1607,171.0,58.0,36.4,66.0,dizziness,Asthma,Hypertension,High Blood Sugar,87.0,75.0,Yes,Former,125.0,82.0
+P1609,173.0,49.0,37.4,71.0,nausea,Diabetes,Heart Disease,Low Iron,199.6129541864139,61.0,Yes,Never,145.0,92.0
+P1610,167.0,63.0,37.0,74.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,219.0,77.0,No,Former,132.45075757575756,86.14621212121212
+P1611,167.0,70.0,37.3,77.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,205.0,119.0,Yes,Current,120.0,80.0
+P1613,178.0,67.0,37.5,66.0,fatigue,Asthma,Hypertension,Normal,180.0,114.0,Yes,Former,140.0,90.0
+P1615,168.0,80.0,36.7,74.56752496058854,palpitations,Diabetes,Heart Disease,High Blood Sugar,181.0,88.0,Yes,Never,135.0,88.0
+P1616,201.0,81.0,35.7,64.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,216.0,100.0,No,Former,145.0,92.0
+P1617,172.0,55.0,36.9,76.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,240.0,89.0,Yes,Current,132.45075757575756,86.14621212121212
+P1618,162.0,65.0,36.8,89.0,chest pain,Diabetes,Stroke,Normal,153.0,127.0,No,Never,120.0,80.0
+P1619,165.0,87.0,37.2,61.0,shortness of breath,Asthma,Hypertension,Low Iron,241.0,106.0,Yes,Former,130.0,85.0
+P1621,171.0,49.0,36.8,66.0,dizziness,Diabetes,Heart Disease,High Cholesterol,214.0,90.0,Yes,Never,125.0,82.0
+P1622,155.0,75.0,36.1,69.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,179.0,139.0,No,Former,135.0,88.0
+P1623,179.0,40.0,36.5,66.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,207.0,99.00744680851064,Yes,Current,145.0,92.0
+P1624,163.0,70.0,37.2,67.0,nausea,Diabetes,Stroke,Low Iron,235.0,70.0,No,Never,132.45075757575756,86.14621212121212
+P1625,169.90234986945168,98.0,37.9,102.0,chest pain,Asthma,Hypertension,High Blood Sugar,150.0,165.0,Yes,Former,132.45075757575756,86.14621212121212
+P1627,165.0,57.0,37.2,86.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,207.0,77.0,Yes,Never,140.0,90.0
+P1628,182.0,81.0,37.5,79.0,dizziness,Hypertension,Coronary Artery Disease,Normal,296.0,81.0,No,Former,125.0,82.0
+P1629,170.0,46.0,36.6,58.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,165.0,175.0,Yes,Current,132.45075757575756,86.14621212121212
+P1630,178.0,60.0,37.2,78.0,nausea,Diabetes,Stroke,High Blood Sugar,281.0,154.0,Yes,Never,145.0,92.0
+P1631,174.0,78.0,36.6,85.0,nausea,Asthma,Hypertension,High Cholesterol,280.0,144.0,Yes,Former,132.45075757575756,86.14621212121212
+P1633,163.0,66.0,37.1,84.0,shortness of breath,Diabetes,Heart Disease,Normal,188.0,172.0,Yes,Never,130.0,85.0
+P1634,180.0,81.0,37.1,82.0,nausea,Diabetes,Coronary Artery Disease,Low Iron,172.0,111.0,No,Former,140.0,90.0
+P1635,166.0,76.0,36.6,93.0,dizziness,Diabetes,Arrhythmia,High Blood Sugar,197.0,129.0,Yes,Current,125.0,82.0
+P1636,165.0,74.0,37.4,70.0,palpitations,Diabetes,Stroke,High Cholesterol,143.0,105.0,No,Never,135.0,88.0
+P1637,160.0,64.0,38.0,64.0,nausea,Asthma,Hypertension,High Blood Sugar,196.0,98.0,Yes,Former,145.0,92.0
+P1639,190.0,68.0,36.8,89.0,chest pain,Diabetes,Heart Disease,Low Iron,175.0,99.00744680851064,Yes,Never,120.0,80.0
+P1640,159.0,76.0,37.1,56.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,190.0,118.0,No,Former,130.0,85.0
+P1641,170.0,62.0,37.4,54.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,131.0,111.0,Yes,Current,140.0,90.0
+P1642,184.0,67.0,36.7,75.0,dizziness,Diabetes,Stroke,High Blood Sugar,214.0,99.0,No,Never,125.0,82.0
+P1643,169.90234986945168,55.0,35.6,70.0,palpitations,Asthma,Hypertension,Normal,210.0,145.0,Yes,Former,135.0,88.0
+P1645,159.0,57.0,37.4,84.0,nausea,Diabetes,Heart Disease,High Blood Sugar,191.0,115.0,Yes,Never,132.45075757575756,86.14621212121212
+P1646,174.0,53.0,36.1,69.0,chest pain,Hypertension,Coronary Artery Disease,High Cholesterol,188.0,121.0,No,Former,120.0,80.0
+P1647,168.0,73.0,36.7,56.0,shortness of breath,Diabetes,Arrhythmia,High Blood Sugar,220.0,134.0,Yes,Former,130.0,85.0
+P1648,179.0,73.0,37.8,95.0,fatigue,Diabetes,Stroke,Normal,198.0,98.0,No,Never,140.0,90.0
+P1649,181.0,81.0,37.7,65.0,dizziness,Asthma,Hypertension,Low Iron,212.0,106.0,Yes,Former,125.0,82.0
+P1651,175.0,76.0,36.9,86.0,nausea,Diabetes,Heart Disease,High Cholesterol,244.0,144.0,Yes,Never,145.0,92.0
+P1652,173.0,78.0,37.0,71.0,nausea,Diabetes,Coronary Artery Disease,High Blood Sugar,227.0,90.0,No,Former,132.45075757575756,86.14621212121212
+P1653,171.0,76.0,36.9,74.0,chest pain,High Cholesterol,Arrhythmia,Normal,207.0,108.0,Yes,Current,120.0,80.0
+P1654,166.0,57.0,37.6,79.0,shortness of breath,Diabetes,Stroke,Low Iron,260.0,150.0,No,Never,130.0,85.0
+P1655,173.0,72.0,36.6,85.0,fatigue,Asthma,Hypertension,High Blood Sugar,216.0,36.0,Yes,Former,140.0,90.0
+P1657,171.0,70.0,37.5,90.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,224.0,143.0,Yes,Never,135.0,88.0
+P1658,169.90234986945168,38.0,37.0,53.0,nausea,Hypertension,Coronary Artery Disease,Normal,126.0,132.0,No,Former,145.0,92.0
+P1659,159.0,72.0,37.7,82.0,nausea,High Cholesterol,Arrhythmia,Low Iron,252.0,115.0,Yes,Current,132.45075757575756,86.14621212121212
+P1660,181.0,103.0,36.7,66.0,chest pain,Diabetes,Stroke,High Blood Sugar,205.0,86.0,No,Never,120.0,80.0
+P1661,183.0,64.0,37.0,88.0,shortness of breath,Asthma,Hypertension,High Cholesterol,197.0,73.0,Yes,Former,130.0,85.0
+P1663,148.0,75.0,37.0,68.0,dizziness,Diabetes,Heart Disease,Normal,186.0,146.0,Yes,Never,125.0,82.0
+P1664,163.0,74.0,36.3,81.0,palpitations,Hypertension,Coronary Artery Disease,Low Iron,209.0,81.0,No,Former,135.0,88.0
+P1665,182.0,87.0,36.8,83.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,176.0,103.0,Yes,Current,145.0,92.0
+P1666,169.0,51.0,36.3,81.0,nausea,Diabetes,Stroke,High Cholesterol,199.6129541864139,77.0,No,Former,132.45075757575756,86.14621212121212
+P1667,160.0,80.0,37.3,64.0,chest pain,Asthma,Hypertension,High Blood Sugar,195.0,125.0,Yes,Former,132.45075757575756,86.14621212121212
+P1669,178.0,67.0,36.1,74.0,fatigue,Diabetes,Heart Disease,Low Iron,163.0,97.0,Yes,Never,140.0,90.0
+P1670,175.0,75.0,37.7,74.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,210.0,49.0,No,Former,125.0,82.0
+P1672,166.0,83.0,37.0,54.0,nausea,Diabetes,Stroke,High Blood Sugar,215.0,100.0,No,Never,145.0,92.0
+P1673,166.0,52.0,36.7,78.0,nausea,Asthma,Hypertension,Normal,158.0,99.00744680851064,Yes,Former,132.45075757575756,86.14621212121212
+P1675,186.0,69.0,36.3,66.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,225.0,38.0,Yes,Never,130.0,85.0
+P1676,166.0,71.0,37.0,67.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,259.0,75.0,No,Former,140.0,90.0
+P1677,182.0,71.0,37.1,72.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,158.0,100.0,Yes,Current,125.0,82.0
+P1678,185.0,67.0,37.7,38.0,palpitations,Diabetes,Stroke,Normal,199.6129541864139,99.00744680851064,No,Never,135.0,88.0
+P1679,179.0,87.0,37.2,67.0,nausea,Diabetes,Hypertension,Low Iron,211.0,66.0,Yes,Former,145.0,92.0
+P1681,174.0,53.0,36.5,80.0,chest pain,Diabetes,Heart Disease,High Cholesterol,184.0,70.0,Yes,Never,120.0,80.0
+P1682,169.0,64.0,36.8,66.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,144.0,91.0,No,Former,130.0,85.0
+P1683,160.0,72.0,36.5,72.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,239.0,158.0,Yes,Current,140.0,90.0
+P1684,173.0,88.0,37.0,90.0,dizziness,Diabetes,Stroke,Low Iron,168.0,102.0,No,Never,125.0,82.0
+P1685,158.0,79.0,36.7,84.0,palpitations,Asthma,Hypertension,High Blood Sugar,168.0,135.0,Yes,Former,135.0,88.0
+P1688,172.0,73.0,36.8,80.0,chest pain,Diabetes,Coronary Artery Disease,Normal,139.0,16.0,No,Former,120.0,80.0
+P1689,172.0,89.0,36.4,72.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,199.0,90.0,Yes,Current,130.0,85.0
+P1690,167.0,67.0,36.9,73.0,fatigue,Diabetes,Stroke,High Blood Sugar,211.0,139.0,No,Never,140.0,90.0
+P1691,175.0,78.0,37.0,79.0,dizziness,Asthma,Hypertension,High Cholesterol,219.0,82.0,Yes,Former,125.0,82.0
+P1693,178.0,88.0,37.2,89.0,nausea,Diabetes,Heart Disease,Normal,301.0,144.0,Yes,Never,145.0,92.0
+P1694,156.0,85.0,36.5,73.0,nausea,Diabetes,Coronary Artery Disease,Low Iron,190.0,85.0,No,Former,132.45075757575756,86.14621212121212
+P1695,171.0,83.0,37.9,81.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,190.0,84.0,Yes,Current,120.0,80.0
+P1697,159.0,61.0,36.8,85.0,fatigue,Asthma,Hypertension,High Blood Sugar,199.6129541864139,81.0,Yes,Former,140.0,90.0
+P1699,175.0,83.0,36.9,79.0,palpitations,Diabetes,Heart Disease,Low Iron,248.0,112.0,Yes,Never,135.0,88.0
+P1700,171.0,66.0,37.3,83.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,140.0,56.0,No,Former,132.45075757575756,86.14621212121212
+P1701,173.0,85.0,37.0,83.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,190.0,118.0,Yes,Current,132.45075757575756,86.14621212121212
+P1702,174.0,69.38871473354232,36.9,63.0,chest pain,Diabetes,Stroke,High Blood Sugar,217.0,99.00744680851064,No,Never,120.0,80.0
+P1703,176.0,56.0,37.0,68.0,shortness of breath,Asthma,Hypertension,Normal,223.0,50.0,Yes,Former,130.0,85.0
+P1705,174.0,67.0,36.8,67.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,221.0,115.0,Yes,Never,125.0,82.0
+P1706,167.0,74.0,36.0,72.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,167.0,122.0,No,Former,135.0,88.0
+P1707,176.0,62.0,37.5,90.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,262.0,77.0,Yes,Current,145.0,92.0
+P1708,188.0,90.0,37.1,74.56752496058854,nausea,Diabetes,Stroke,Normal,239.0,118.0,No,Never,132.45075757575756,86.14621212121212
+P1709,168.0,76.0,36.6,67.0,chest pain,Asthma,Hypertension,Low Iron,146.0,133.0,Yes,Former,120.0,80.0
+P1711,181.0,48.0,37.0,78.0,fatigue,Diabetes,Heart Disease,High Cholesterol,158.0,160.0,Yes,Never,140.0,90.0
+P1712,168.0,50.0,36.5,74.56752496058854,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,227.0,101.0,No,Former,125.0,82.0
+P1713,148.0,69.38871473354232,37.4,72.0,palpitations,High Cholesterol,Arrhythmia,Normal,148.0,134.0,Yes,Current,135.0,88.0
+P1714,178.0,38.0,37.2,78.0,nausea,Diabetes,Stroke,Low Iron,186.0,108.0,No,Former,145.0,92.0
+P1715,164.0,85.0,37.2,87.0,nausea,Asthma,Hypertension,High Blood Sugar,218.0,117.0,Yes,Former,132.45075757575756,86.14621212121212
+P1717,173.0,118.0,37.2,67.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,210.0,111.0,Yes,Never,130.0,85.0
+P1718,171.0,104.0,36.9,86.0,fatigue,Hypertension,Coronary Artery Disease,Normal,157.0,77.0,No,Former,132.45075757575756,86.14621212121212
+P1719,177.0,67.0,36.97098308668076,72.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,223.0,74.0,Yes,Current,125.0,82.0
+P1720,165.0,68.0,36.0,74.56752496058854,palpitations,Diabetes,Stroke,High Blood Sugar,175.0,152.0,No,Never,135.0,88.0
+P1721,175.0,84.0,36.8,73.0,nausea,Asthma,Hypertension,High Cholesterol,187.0,99.00744680851064,Yes,Former,145.0,92.0
+P1723,177.0,45.0,36.6,76.0,chest pain,Diabetes,Heart Disease,Normal,199.6129541864139,89.0,Yes,Never,120.0,80.0
+P1724,176.0,43.0,36.7,75.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,200.0,60.0,No,Former,130.0,85.0
+P1725,160.0,60.0,36.8,91.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,169.0,143.0,Yes,Current,140.0,90.0
+P1726,180.0,78.0,36.4,60.0,nausea,Diabetes,Stroke,High Cholesterol,188.0,79.0,No,Never,125.0,82.0
+P1727,164.0,77.0,36.97098308668076,62.0,palpitations,Diabetes,Hypertension,High Blood Sugar,200.0,115.0,Yes,Former,135.0,88.0
+P1729,173.0,52.0,37.1,78.0,nausea,Diabetes,Heart Disease,Low Iron,181.0,84.0,Yes,Never,132.45075757575756,86.14621212121212
+P1730,188.0,35.0,37.0,76.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,215.0,115.0,No,Former,120.0,80.0
+P1731,167.0,82.0,36.9,90.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,148.0,69.0,Yes,Current,130.0,85.0
+P1732,166.0,57.0,36.97098308668076,77.0,fatigue,Diabetes,Stroke,High Blood Sugar,246.0,173.0,No,Never,140.0,90.0
+P1733,169.0,39.0,37.5,74.56752496058854,nausea,Asthma,Hypertension,Normal,250.0,128.0,Yes,Former,125.0,82.0
+P1735,177.0,81.0,36.7,76.0,nausea,Diabetes,Heart Disease,High Blood Sugar,254.0,76.0,Yes,Never,132.45075757575756,86.14621212121212
+P1736,153.0,68.0,36.9,58.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,194.0,96.0,No,Former,132.45075757575756,86.14621212121212
+P1737,159.0,63.0,37.3,102.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,216.0,89.0,Yes,Current,120.0,80.0
+P1738,159.0,67.0,37.7,80.0,shortness of breath,Diabetes,Stroke,Normal,180.0,158.0,No,Never,130.0,85.0
+P1739,169.90234986945168,64.0,36.7,77.0,fatigue,Asthma,Hypertension,Low Iron,236.0,63.0,Yes,Former,140.0,90.0
+P1741,168.0,69.38871473354232,37.2,82.0,palpitations,Diabetes,Heart Disease,High Cholesterol,167.0,99.0,Yes,Never,135.0,88.0
+P1742,168.0,77.0,36.5,73.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,153.0,96.0,No,Former,145.0,92.0
+P1743,170.0,74.0,37.0,68.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,141.0,96.0,Yes,Current,132.45075757575756,86.14621212121212
+P1744,181.0,72.0,36.3,80.0,chest pain,Diabetes,Stroke,Low Iron,207.0,96.0,No,Never,120.0,80.0
+P1745,160.0,55.0,36.1,78.0,shortness of breath,Asthma,Hypertension,High Blood Sugar,222.0,126.0,Yes,Former,130.0,85.0
+P1747,179.0,37.0,36.8,89.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,195.0,112.0,Yes,Never,125.0,82.0
+P1748,169.90234986945168,72.0,37.1,77.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,153.0,8.0,No,Former,135.0,88.0
+P1749,171.0,91.0,36.97098308668076,82.0,nausea,High Cholesterol,Arrhythmia,Low Iron,172.0,99.00744680851064,Yes,Current,145.0,92.0
+P1750,180.0,47.0,36.97098308668076,88.0,nausea,Diabetes,Stroke,High Blood Sugar,246.0,50.0,No,Never,132.45075757575756,86.14621212121212
+P1751,142.0,61.0,37.0,75.0,chest pain,Asthma,Hypertension,High Cholesterol,199.6129541864139,119.0,Yes,Former,120.0,80.0
+P1753,163.0,88.0,37.7,83.0,fatigue,Diabetes,Heart Disease,Normal,156.0,72.0,Yes,Never,140.0,90.0
+P1754,151.0,63.0,36.3,67.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,213.0,92.0,No,Former,125.0,82.0
+P1755,175.0,59.0,36.9,75.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,181.0,82.0,Yes,Current,135.0,88.0
+P1756,183.0,40.0,36.5,76.0,nausea,Diabetes,Stroke,High Cholesterol,241.0,137.0,No,Never,145.0,92.0
+P1757,168.0,69.38871473354232,37.3,65.0,nausea,Asthma,Hypertension,High Blood Sugar,230.0,102.0,Yes,Former,132.45075757575756,86.14621212121212
+P1759,186.0,74.0,36.7,60.0,shortness of breath,Diabetes,Heart Disease,Low Iron,194.0,112.0,Yes,Never,130.0,85.0
+P1760,183.0,69.0,37.4,62.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,177.0,107.0,No,Former,140.0,90.0
+P1761,186.0,74.0,37.0,88.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,143.0,102.0,Yes,Current,125.0,82.0
+P1762,177.0,69.0,37.3,82.0,palpitations,Diabetes,Stroke,High Blood Sugar,165.0,124.0,No,Never,135.0,88.0
+P1765,167.0,73.0,37.1,89.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,205.0,97.0,Yes,Never,120.0,80.0
+P1766,161.0,70.0,36.8,74.0,shortness of breath,Hypertension,Coronary Artery Disease,High Cholesterol,187.0,121.0,No,Former,130.0,85.0
+P1767,191.0,55.0,37.3,100.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,237.0,99.00744680851064,Yes,Current,140.0,90.0
+P1768,168.0,89.0,37.0,57.0,dizziness,Diabetes,Stroke,Normal,199.6129541864139,68.0,No,Never,125.0,82.0
+P1769,171.0,79.0,37.1,81.0,palpitations,Asthma,Hypertension,Low Iron,228.0,100.0,Yes,Former,135.0,88.0
+P1771,170.0,85.0,37.9,83.0,nausea,Diabetes,Heart Disease,High Cholesterol,43.0,42.0,Yes,Never,132.45075757575756,86.14621212121212
+P1772,186.0,62.0,36.9,72.0,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,211.0,121.0,No,Former,120.0,80.0
+P1773,163.0,58.0,37.3,72.0,shortness of breath,High Cholesterol,Arrhythmia,Normal,143.0,117.0,Yes,Current,130.0,85.0
+P1774,171.0,58.0,36.6,79.0,fatigue,Diabetes,Stroke,Low Iron,191.0,114.0,No,Never,140.0,90.0
+P1775,162.0,43.0,37.2,83.0,dizziness,Asthma,Hypertension,High Blood Sugar,187.0,139.0,Yes,Former,125.0,82.0
+P1777,163.0,42.0,37.2,85.0,nausea,Diabetes,Heart Disease,High Blood Sugar,215.0,57.0,Yes,Never,145.0,92.0
+P1778,169.0,51.0,36.8,64.0,nausea,Hypertension,Coronary Artery Disease,Normal,206.0,97.0,No,Former,132.45075757575756,86.14621212121212
+P1779,165.0,38.0,37.0,72.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,233.0,89.0,Yes,Current,120.0,80.0
+P1780,163.0,69.38871473354232,37.3,65.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,214.0,74.0,Yes,Never,130.0,85.0
+P1781,155.0,67.0,36.4,71.0,fatigue,Asthma,Hypertension,High Cholesterol,181.0,97.0,Yes,Former,140.0,90.0
+P1783,154.0,54.0,37.2,76.0,palpitations,Diabetes,Heart Disease,Normal,155.0,44.0,Yes,Never,135.0,88.0
+P1784,177.0,52.0,38.0,101.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,212.0,86.0,No,Former,145.0,92.0
+P1785,170.0,76.0,36.9,76.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,138.0,65.0,Yes,Current,132.45075757575756,86.14621212121212
+P1786,155.0,61.0,37.3,75.0,chest pain,Diabetes,Stroke,High Cholesterol,208.0,106.0,No,Never,120.0,80.0
+P1787,166.0,74.0,36.9,76.0,nausea,Asthma,Hypertension,High Blood Sugar,199.6129541864139,80.0,Yes,Former,130.0,85.0
+P1789,173.0,72.0,36.1,74.0,dizziness,Diabetes,Heart Disease,Low Iron,137.0,148.0,Yes,Never,125.0,82.0
+P1790,183.0,89.0,37.0,86.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,175.0,120.0,No,Former,135.0,88.0
+P1791,151.0,78.0,36.2,76.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,232.0,53.0,Yes,Current,132.45075757575756,86.14621212121212
+P1792,171.0,63.0,35.7,67.0,nausea,Diabetes,Stroke,High Blood Sugar,213.0,145.0,No,Never,132.45075757575756,86.14621212121212
+P1793,168.0,73.0,37.1,65.0,nausea,Asthma,Hypertension,Normal,207.0,147.0,Yes,Former,120.0,80.0
+P1795,172.0,70.0,36.9,74.56752496058854,fatigue,Diabetes,Heart Disease,High Blood Sugar,199.6129541864139,139.0,Yes,Never,140.0,90.0
+P1796,162.0,65.0,36.9,86.0,dizziness,Hypertension,Coronary Artery Disease,High Cholesterol,249.0,83.0,No,Former,125.0,82.0
+P1797,166.0,67.0,38.5,61.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,199.6129541864139,44.0,Yes,Current,135.0,88.0
+P1799,180.0,55.0,37.3,76.0,nausea,Asthma,Hypertension,High Blood Sugar,195.0,151.0,Yes,Former,132.45075757575756,86.14621212121212
+P1801,189.0,49.0,37.1,66.0,shortness of breath,Diabetes,Heart Disease,High Cholesterol,237.0,99.0,Yes,Former,130.0,85.0
+P1802,169.0,45.0,36.9,68.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,220.0,101.0,No,Former,140.0,90.0
+P1803,162.0,51.0,36.8,67.0,dizziness,Diabetes,Arrhythmia,Normal,292.0,84.0,Yes,Current,125.0,82.0
+P1804,154.0,72.0,37.9,76.0,palpitations,Diabetes,Stroke,Low Iron,199.6129541864139,86.0,No,Never,135.0,88.0
+P1805,151.0,56.0,37.6,73.0,nausea,Asthma,Hypertension,High Blood Sugar,232.0,102.0,Yes,Former,132.45075757575756,86.14621212121212
+P1807,172.0,70.0,35.8,79.0,nausea,Diabetes,Heart Disease,High Blood Sugar,206.0,57.0,Yes,Never,120.0,80.0
+P1808,169.90234986945168,40.0,36.8,92.0,shortness of breath,Hypertension,Coronary Artery Disease,Normal,239.0,106.0,No,Former,132.45075757575756,86.14621212121212
+P1809,154.0,79.0,38.4,91.0,fatigue,High Cholesterol,Arrhythmia,Low Iron,117.0,132.0,Yes,Current,140.0,90.0
+P1810,178.0,82.0,36.9,74.56752496058854,dizziness,Diabetes,Stroke,High Blood Sugar,191.0,126.0,No,Never,125.0,82.0
+P1811,165.0,55.0,37.6,80.0,nausea,Asthma,Hypertension,High Cholesterol,177.0,75.0,Yes,Former,135.0,88.0
+P1813,186.0,57.0,37.1,74.56752496058854,nausea,Diabetes,Heart Disease,Normal,215.0,91.0,Yes,Never,132.45075757575756,86.14621212121212
+P1814,178.0,71.0,36.6,71.0,chest pain,Hypertension,Coronary Artery Disease,Low Iron,244.0,147.0,No,Former,120.0,80.0
+P1815,167.0,51.0,35.8,76.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,194.0,119.0,Yes,Current,130.0,85.0
+P1816,161.0,43.0,37.3,76.0,fatigue,Diabetes,Stroke,High Cholesterol,208.0,121.0,No,Never,140.0,90.0
+P1817,148.0,64.0,36.6,69.0,dizziness,Asthma,Hypertension,High Blood Sugar,204.0,126.0,Yes,Former,125.0,82.0
+P1819,167.0,64.0,36.4,70.0,nausea,Diabetes,Heart Disease,Low Iron,156.0,103.0,Yes,Never,145.0,92.0
+P1820,169.90234986945168,52.0,36.9,77.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,244.0,119.0,No,Former,132.45075757575756,86.14621212121212
+P1821,168.0,64.0,37.0,80.0,chest pain,High Cholesterol,Arrhythmia,High Cholesterol,211.0,83.0,Yes,Current,120.0,80.0
+P1822,170.0,74.0,37.1,83.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,215.0,57.0,No,Never,130.0,85.0
+P1823,167.0,69.0,36.4,70.0,fatigue,Asthma,Hypertension,Normal,167.0,121.0,Yes,Former,140.0,90.0
+P1825,171.0,59.0,36.7,84.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,192.0,66.0,Yes,Never,135.0,88.0
+P1826,174.0,69.38871473354232,36.97098308668076,86.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,138.0,124.0,No,Former,145.0,92.0
+P1827,159.0,69.38871473354232,36.9,74.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,132.0,150.0,Yes,Current,132.45075757575756,86.14621212121212
+P1828,184.0,77.0,37.0,72.0,chest pain,Diabetes,Stroke,Normal,175.0,99.0,No,Never,120.0,80.0
+P1829,169.0,87.0,37.1,76.0,shortness of breath,Asthma,Hypertension,Low Iron,220.0,75.0,Yes,Former,130.0,85.0
+P1831,177.0,66.0,36.9,73.0,dizziness,Diabetes,Heart Disease,High Cholesterol,159.0,99.00744680851064,Yes,Never,125.0,82.0
+P1832,172.0,62.0,36.9,82.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,167.0,81.0,No,Former,135.0,88.0
+P1833,179.0,85.0,36.4,81.0,nausea,High Cholesterol,Arrhythmia,Normal,181.0,112.0,Yes,Current,145.0,92.0
+P1834,172.0,48.0,37.4,72.0,nausea,Diabetes,Stroke,Low Iron,185.0,51.0,No,Never,132.45075757575756,86.14621212121212
+P1835,163.0,55.0,37.1,77.0,chest pain,Asthma,Hypertension,High Blood Sugar,286.0,56.0,Yes,Former,120.0,80.0
+P1837,169.90234986945168,88.0,36.0,82.0,fatigue,Diabetes,Heart Disease,High Blood Sugar,240.0,99.0,Yes,Never,140.0,90.0
+P1838,171.0,75.0,37.7,74.0,dizziness,Hypertension,Coronary Artery Disease,Normal,246.0,99.00744680851064,No,Former,125.0,82.0
+P1839,169.0,55.0,36.4,72.0,palpitations,High Cholesterol,Arrhythmia,Low Iron,160.0,156.0,Yes,Current,135.0,88.0
+P1840,167.0,65.0,36.7,71.0,nausea,Diabetes,Stroke,High Blood Sugar,151.0,103.0,No,Never,145.0,92.0
+P1841,168.0,60.0,37.2,74.0,nausea,Asthma,Hypertension,High Cholesterol,155.0,117.0,Yes,Former,132.45075757575756,86.14621212121212
+P1843,164.0,84.0,36.3,81.0,shortness of breath,Diabetes,Heart Disease,Normal,178.0,123.0,Yes,Never,130.0,85.0
+P1844,170.0,49.0,36.97098308668076,71.0,fatigue,Hypertension,Coronary Artery Disease,Low Iron,149.0,84.0,No,Former,140.0,90.0
+P1845,171.0,94.0,37.4,90.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,182.0,102.0,Yes,Current,125.0,82.0
+P1846,159.0,82.0,36.7,89.0,nausea,Diabetes,Stroke,High Cholesterol,190.0,96.0,No,Never,135.0,88.0
+P1847,182.0,86.0,38.5,66.0,nausea,Asthma,Hypertension,High Blood Sugar,210.0,130.0,Yes,Former,145.0,92.0
+P1849,179.0,67.0,36.5,68.0,nausea,Diabetes,Heart Disease,Low Iron,166.0,31.0,Yes,Never,120.0,80.0
+P1850,174.0,48.0,36.7,71.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,227.0,93.0,No,Former,130.0,85.0
+P1851,163.0,62.0,37.1,95.0,fatigue,High Cholesterol,Arrhythmia,High Cholesterol,174.0,114.0,Yes,Current,140.0,90.0
+P1852,187.0,77.0,36.8,71.0,dizziness,Diabetes,Stroke,High Blood Sugar,193.0,104.0,No,Never,125.0,82.0
+P1853,158.0,89.0,37.3,78.0,palpitations,Asthma,Hypertension,Normal,227.0,136.0,Yes,Former,135.0,88.0
+P1855,180.0,64.0,36.3,64.0,nausea,Diabetes,Heart Disease,High Blood Sugar,177.0,83.0,Yes,Never,132.45075757575756,86.14621212121212
+P1856,163.0,67.0,36.1,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,223.0,30.0,No,Former,120.0,80.0
+P1857,183.0,49.0,35.9,62.0,shortness of breath,High Cholesterol,Arrhythmia,High Blood Sugar,165.0,92.0,Yes,Current,130.0,85.0
+P1858,167.0,78.0,36.97098308668076,66.0,fatigue,Diabetes,Stroke,Normal,184.0,99.00744680851064,No,Never,140.0,90.0
+P1859,172.0,59.0,36.8,46.0,dizziness,Diabetes,Hypertension,Low Iron,222.0,88.0,Yes,Former,125.0,82.0
+P1861,168.0,63.0,37.6,95.0,nausea,Diabetes,Heart Disease,High Cholesterol,224.0,99.00744680851064,Yes,Never,145.0,92.0
+P1862,178.0,58.0,37.6,76.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,218.0,69.0,No,Former,132.45075757575756,86.14621212121212
+P1863,169.90234986945168,69.0,36.8,60.0,chest pain,High Cholesterol,Arrhythmia,Normal,221.0,118.0,Yes,Current,120.0,80.0
+P1865,183.0,64.0,36.97098308668076,70.0,fatigue,Asthma,Hypertension,High Blood Sugar,204.0,94.0,Yes,Former,140.0,90.0
+P1867,180.0,74.0,36.7,83.0,palpitations,Diabetes,Heart Disease,High Blood Sugar,212.0,98.0,Yes,Never,135.0,88.0
+P1868,181.0,94.0,36.7,83.0,nausea,Hypertension,Coronary Artery Disease,Normal,204.0,33.0,No,Former,145.0,92.0
+P1869,159.0,72.0,36.7,63.0,nausea,High Cholesterol,Arrhythmia,Low Iron,215.0,110.0,Yes,Current,132.45075757575756,86.14621212121212
+P1870,165.0,84.0,36.97098308668076,82.0,chest pain,Diabetes,Stroke,High Blood Sugar,187.0,113.0,No,Never,120.0,80.0
+P1871,158.0,49.0,36.7,90.0,shortness of breath,Asthma,Hypertension,High Cholesterol,202.0,150.0,Yes,Former,130.0,85.0
+P1873,166.0,53.0,37.2,103.0,dizziness,Diabetes,Heart Disease,Normal,187.0,112.0,Yes,Never,125.0,82.0
+P1874,177.0,47.0,36.5,65.0,palpitations,Hypertension,Coronary Artery Disease,Low Iron,255.0,74.0,No,Former,135.0,88.0
+P1875,169.90234986945168,58.0,37.6,103.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,212.0,89.0,Yes,Current,145.0,92.0
+P1876,183.0,87.0,36.5,71.0,nausea,Diabetes,Stroke,High Cholesterol,199.0,54.0,No,Never,132.45075757575756,86.14621212121212
+P1877,164.0,84.0,36.2,69.0,chest pain,Asthma,Hypertension,High Blood Sugar,275.0,99.00744680851064,Yes,Former,120.0,80.0
+P1879,153.0,47.0,36.6,69.0,fatigue,Diabetes,Heart Disease,Low Iron,155.0,108.0,Yes,Never,140.0,90.0
+P1880,161.0,67.0,37.2,78.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,268.0,99.00744680851064,No,Former,125.0,82.0
+P1881,179.0,74.0,35.8,61.0,palpitations,High Cholesterol,Arrhythmia,High Cholesterol,201.0,102.0,Yes,Current,135.0,88.0
+P1882,186.0,72.0,37.7,72.0,nausea,Diabetes,Stroke,High Blood Sugar,190.0,89.0,No,Never,145.0,92.0
+P1883,157.0,42.0,37.3,87.0,nausea,Asthma,Hypertension,Normal,152.0,90.0,Yes,Former,132.45075757575756,86.14621212121212
+P1885,169.0,69.0,36.3,76.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,221.0,101.0,Yes,Former,130.0,85.0
+P1886,172.0,78.0,37.8,79.0,fatigue,Hypertension,Coronary Artery Disease,High Cholesterol,156.0,122.0,No,Former,140.0,90.0
+P1887,161.0,37.0,36.6,86.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,194.0,96.0,Yes,Current,125.0,82.0
+P1889,165.0,72.0,35.9,80.0,nausea,Diabetes,Hypertension,Low Iron,210.0,94.0,Yes,Former,145.0,92.0
+P1891,175.0,80.0,36.9,76.0,chest pain,Diabetes,Heart Disease,High Cholesterol,250.0,89.0,Yes,Never,120.0,80.0
+P1892,170.0,78.0,36.97098308668076,85.0,shortness of breath,Hypertension,Coronary Artery Disease,High Blood Sugar,236.0,160.0,No,Former,130.0,85.0
+P1893,165.0,58.0,36.3,63.0,fatigue,High Cholesterol,Arrhythmia,Normal,185.0,72.0,Yes,Current,140.0,90.0
+P1895,169.0,64.0,37.2,74.56752496058854,palpitations,Asthma,Hypertension,High Blood Sugar,194.0,88.0,Yes,Former,135.0,88.0
+P1897,167.0,90.0,36.2,88.0,nausea,Diabetes,Heart Disease,High Blood Sugar,182.0,90.0,Yes,Never,132.45075757575756,86.14621212121212
+P1898,185.0,80.0,37.5,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,Normal,189.0,108.0,No,Former,120.0,80.0
+P1899,175.0,76.0,37.0,61.0,shortness of breath,High Cholesterol,Arrhythmia,Low Iron,264.0,48.0,Yes,Current,130.0,85.0
+P1900,167.0,75.0,37.5,70.0,fatigue,Diabetes,Stroke,High Blood Sugar,237.0,131.0,No,Never,140.0,90.0
+P1901,176.0,61.0,37.0,60.0,dizziness,Asthma,Hypertension,High Cholesterol,237.0,118.0,Yes,Former,125.0,82.0
+P1903,181.0,95.0,36.9,78.0,nausea,Diabetes,Heart Disease,Normal,155.0,31.0,Yes,Never,132.45075757575756,86.14621212121212
+P1904,173.0,55.0,37.5,63.0,nausea,Diabetes,Coronary Artery Disease,Low Iron,198.0,70.0,No,Former,132.45075757575756,86.14621212121212
+P1905,168.0,94.0,36.97098308668076,86.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,238.0,92.0,Yes,Current,120.0,80.0
+P1906,174.0,65.0,36.8,74.0,shortness of breath,Diabetes,Stroke,High Cholesterol,149.0,177.0,No,Never,130.0,85.0
+P1907,154.0,89.0,36.9,75.0,nausea,Asthma,Hypertension,High Blood Sugar,225.0,116.0,Yes,Former,140.0,90.0
+P1909,158.0,78.0,37.8,82.0,palpitations,Diabetes,Heart Disease,Low Iron,242.0,79.0,Yes,Never,135.0,88.0
+P1910,171.0,58.0,36.97098308668076,82.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,256.0,98.0,No,Former,145.0,92.0
+P1911,187.0,48.0,37.3,78.0,nausea,High Cholesterol,Arrhythmia,High Cholesterol,208.0,107.0,Yes,Current,132.45075757575756,86.14621212121212
+P1912,192.0,73.0,37.0,74.56752496058854,chest pain,Diabetes,Stroke,High Blood Sugar,238.0,60.0,No,Never,120.0,80.0
+P1913,176.0,85.0,37.6,72.0,shortness of breath,Diabetes,Hypertension,Normal,171.0,95.0,Yes,Former,130.0,85.0
+P1915,151.0,47.0,36.9,71.0,dizziness,Diabetes,Heart Disease,High Blood Sugar,226.0,66.0,Yes,Never,125.0,82.0
+P1916,164.0,68.0,36.6,75.0,palpitations,Hypertension,Coronary Artery Disease,High Cholesterol,211.0,99.00744680851064,No,Former,135.0,88.0
+P1917,162.0,68.0,37.4,72.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,252.0,123.0,Yes,Former,145.0,92.0
+P1918,163.0,78.0,36.1,70.0,nausea,Diabetes,Stroke,Normal,178.0,125.0,No,Never,132.45075757575756,86.14621212121212
+P1919,168.0,84.0,37.3,68.0,chest pain,Asthma,Hypertension,Low Iron,192.0,117.0,Yes,Former,120.0,80.0
+P1921,150.0,97.0,37.6,88.0,fatigue,Diabetes,Heart Disease,High Cholesterol,158.0,121.0,Yes,Never,140.0,90.0
+P1922,177.0,73.0,36.97098308668076,86.0,dizziness,Hypertension,Coronary Artery Disease,High Blood Sugar,209.0,109.0,No,Former,125.0,82.0
+P1923,159.0,64.0,37.3,62.0,palpitations,High Cholesterol,Arrhythmia,Normal,131.0,104.0,Yes,Current,135.0,88.0
+P1924,172.0,45.0,37.0,87.0,nausea,Diabetes,Stroke,Low Iron,241.0,81.0,No,Never,145.0,92.0
+P1925,169.90234986945168,66.0,36.1,71.0,nausea,Diabetes,Hypertension,High Blood Sugar,201.0,85.0,Yes,Former,132.45075757575756,86.14621212121212
+P1927,144.0,84.0,37.3,65.0,shortness of breath,Diabetes,Heart Disease,High Blood Sugar,166.0,173.0,Yes,Never,130.0,85.0
+P1928,167.0,76.0,37.1,76.0,fatigue,Hypertension,Coronary Artery Disease,Normal,190.0,109.0,No,Former,140.0,90.0
+P1929,181.0,52.0,37.6,78.0,dizziness,High Cholesterol,Arrhythmia,Low Iron,227.0,81.0,Yes,Current,125.0,82.0
+P1930,189.0,72.0,37.2,60.0,palpitations,Diabetes,Stroke,High Blood Sugar,221.0,75.0,No,Never,135.0,88.0
+P1931,157.0,80.0,36.5,81.0,nausea,Asthma,Hypertension,High Cholesterol,171.0,85.0,Yes,Former,145.0,92.0
+P1933,165.0,83.0,37.1,73.0,chest pain,Diabetes,Heart Disease,Normal,226.0,88.0,Yes,Never,120.0,80.0
+P1934,168.0,81.0,35.8,88.0,shortness of breath,Hypertension,Coronary Artery Disease,Low Iron,171.0,127.0,No,Former,130.0,85.0
+P1935,169.90234986945168,70.0,37.8,73.0,fatigue,High Cholesterol,Arrhythmia,High Blood Sugar,202.0,88.0,Yes,Current,140.0,90.0
+P1936,154.0,75.0,37.2,83.0,dizziness,Diabetes,Stroke,High Cholesterol,204.0,107.0,No,Never,125.0,82.0
+P1937,172.0,88.0,37.6,52.0,nausea,Asthma,Hypertension,High Blood Sugar,212.0,123.0,Yes,Former,135.0,88.0
+P1939,180.0,64.0,36.97098308668076,89.0,nausea,Diabetes,Heart Disease,Low Iron,149.0,80.0,Yes,Never,132.45075757575756,86.14621212121212
+P1940,169.90234986945168,58.0,38.1,72.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,123.0,149.0,Yes,Former,120.0,80.0
+P1941,173.0,75.0,36.3,55.0,shortness of breath,High Cholesterol,Arrhythmia,High Cholesterol,177.0,129.0,Yes,Current,130.0,85.0
+P1943,172.0,61.0,37.0,60.0,dizziness,Asthma,Hypertension,Normal,280.0,123.0,Yes,Former,125.0,82.0
+P1945,176.0,63.0,37.2,79.0,nausea,Diabetes,Heart Disease,High Blood Sugar,192.0,160.0,Yes,Never,145.0,92.0
+P1946,166.0,83.0,37.4,65.0,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,128.0,101.0,No,Former,132.45075757575756,86.14621212121212
+P1947,173.0,78.0,36.7,86.0,chest pain,High Cholesterol,Arrhythmia,High Blood Sugar,199.6129541864139,99.00744680851064,Yes,Current,132.45075757575756,86.14621212121212
+P1948,169.0,76.0,37.6,83.0,shortness of breath,Diabetes,Stroke,Normal,175.0,56.0,No,Never,130.0,85.0
+P1949,181.0,65.0,36.2,84.0,fatigue,Asthma,Hypertension,Low Iron,192.0,75.0,Yes,Former,140.0,90.0
+P1951,152.0,77.0,37.1,60.0,palpitations,Diabetes,Heart Disease,High Cholesterol,234.0,138.0,Yes,Never,135.0,88.0
+P1952,182.0,57.0,37.0,84.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,209.0,23.0,No,Former,145.0,92.0
+P1953,160.0,102.0,36.6,72.0,nausea,High Cholesterol,Arrhythmia,Normal,164.0,87.0,Yes,Current,132.45075757575756,86.14621212121212
+P1955,164.0,61.0,37.3,88.0,shortness of breath,Diabetes,Hypertension,High Blood Sugar,210.0,75.0,Yes,Former,130.0,85.0
+P1957,148.0,68.0,36.9,74.56752496058854,dizziness,Diabetes,Heart Disease,High Blood Sugar,215.0,141.0,Yes,Never,125.0,82.0
+P1958,201.0,66.0,37.3,96.0,palpitations,Hypertension,Coronary Artery Disease,Normal,158.0,111.0,No,Former,135.0,88.0
+P1959,180.0,69.38871473354232,36.8,75.0,nausea,High Cholesterol,Arrhythmia,Low Iron,226.0,75.0,Yes,Current,145.0,92.0
+P1960,172.0,72.0,38.0,74.56752496058854,nausea,Diabetes,Stroke,High Blood Sugar,217.0,131.0,No,Never,132.45075757575756,86.14621212121212
+P1961,169.0,59.0,36.6,74.56752496058854,chest pain,Asthma,Hypertension,High Cholesterol,157.0,100.0,Yes,Former,120.0,80.0
+P1963,169.90234986945168,70.0,37.0,67.0,fatigue,Diabetes,Heart Disease,Normal,227.0,63.0,Yes,Never,140.0,90.0
+P1964,176.0,81.0,36.3,82.0,dizziness,Hypertension,Coronary Artery Disease,Low Iron,190.0,70.0,No,Former,125.0,82.0
+P1965,175.0,60.0,37.7,69.0,palpitations,High Cholesterol,Arrhythmia,High Blood Sugar,263.0,75.0,Yes,Current,135.0,88.0
+P1966,170.0,75.0,37.1,70.0,nausea,Diabetes,Stroke,High Cholesterol,220.0,101.0,No,Never,145.0,92.0
+P1967,168.0,69.38871473354232,37.4,85.0,nausea,Asthma,Hypertension,High Blood Sugar,180.0,102.0,Yes,Former,132.45075757575756,86.14621212121212
+P1969,168.0,100.0,37.2,70.0,shortness of breath,Diabetes,Heart Disease,Low Iron,202.0,111.0,Yes,Never,130.0,85.0
+P1970,181.0,89.0,36.7,86.0,fatigue,Hypertension,Coronary Artery Disease,High Blood Sugar,170.0,18.0,No,Former,140.0,90.0
+P1971,175.0,64.0,37.5,90.0,dizziness,High Cholesterol,Arrhythmia,High Blood Sugar,163.0,107.0,Yes,Current,125.0,82.0
+P1972,140.0,53.0,36.97098308668076,81.0,palpitations,Diabetes,Stroke,High Blood Sugar,228.0,56.0,Yes,Never,135.0,88.0
+P1973,176.0,75.0,37.3,74.56752496058854,nausea,Asthma,Hypertension,Normal,233.0,71.0,Yes,Former,145.0,92.0
+P1975,169.0,75.0,37.2,75.0,chest pain,Diabetes,Heart Disease,High Blood Sugar,260.0,80.0,Yes,Never,120.0,80.0
+P1976,166.0,72.0,36.7,74.56752496058854,nausea,Hypertension,Coronary Artery Disease,High Cholesterol,178.0,58.0,Yes,Former,130.0,85.0
+P1977,181.0,77.0,37.8,65.0,nausea,Diabetes,Arrhythmia,High Blood Sugar,266.0,106.0,Yes,Current,140.0,90.0
+P1978,179.0,91.0,37.3,82.0,dizziness,Diabetes,Stroke,Normal,163.0,57.0,No,Never,125.0,82.0
+P1979,162.0,78.0,37.1,75.0,palpitations,Asthma,Hypertension,Low Iron,159.0,110.0,Yes,Former,135.0,88.0
+P1981,160.0,90.0,36.5,65.0,nausea,Diabetes,Heart Disease,High Cholesterol,182.0,60.0,Yes,Never,132.45075757575756,86.14621212121212
+P1982,156.0,94.0,37.8,74.56752496058854,chest pain,Hypertension,Coronary Artery Disease,High Blood Sugar,179.0,91.0,No,Former,120.0,80.0
+P1983,163.0,117.0,36.97098308668076,74.0,shortness of breath,High Cholesterol,Arrhythmia,Normal,221.0,24.0,Yes,Current,130.0,85.0
+P1984,178.0,53.0,36.97098308668076,93.0,fatigue,Diabetes,Stroke,Low Iron,209.0,90.0,No,Never,140.0,90.0
+P1985,179.0,73.0,37.8,77.0,dizziness,Asthma,Hypertension,High Blood Sugar,152.0,119.0,Yes,Former,125.0,82.0
+P1987,177.0,78.0,36.6,77.0,nausea,Diabetes,Heart Disease,High Blood Sugar,185.0,102.0,Yes,Never,145.0,92.0
+P1988,175.0,61.0,37.0,71.0,nausea,Hypertension,Coronary Artery Disease,High Blood Sugar,128.0,126.0,No,Former,132.45075757575756,86.14621212121212
+P1989,163.0,98.0,37.2,78.0,chest pain,High Cholesterol,Arrhythmia,Low Iron,160.0,176.0,Yes,Current,120.0,80.0
+P1990,174.0,58.0,36.8,80.0,shortness of breath,Diabetes,Stroke,High Blood Sugar,169.0,151.0,No,Never,130.0,85.0
+P1991,178.0,44.0,37.3,87.0,fatigue,Asthma,Hypertension,High Cholesterol,257.0,84.0,Yes,Former,140.0,90.0
+P1993,181.0,40.0,36.5,91.0,palpitations,Diabetes,Heart Disease,Normal,226.0,99.00744680851064,Yes,Never,135.0,88.0
+P1994,177.0,81.0,37.3,84.0,nausea,Hypertension,Coronary Artery Disease,Low Iron,140.0,71.0,No,Former,145.0,92.0
+P1995,173.0,69.38871473354232,37.4,67.0,nausea,High Cholesterol,Arrhythmia,High Blood Sugar,247.0,113.0,Yes,Current,132.45075757575756,86.14621212121212
+P1996,180.0,70.0,37.1,97.0,chest pain,Diabetes,Stroke,High Cholesterol,252.0,64.0,Yes,Never,120.0,80.0
+P1997,169.0,38.0,37.6,78.0,nausea,Asthma,Hypertension,High Blood Sugar,120.0,97.0,Yes,Former,130.0,85.0
+P1999,168.0,94.0,37.2,91.0,dizziness,Diabetes,Heart Disease,Low Iron,219.0,96.0,Yes,Never,125.0,82.0
+P2000,162.0,75.0,36.4,95.0,palpitations,Hypertension,Coronary Artery Disease,High Blood Sugar,225.0,71.0,No,Former,135.0,88.0

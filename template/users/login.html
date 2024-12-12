@@ -7,17 +7,134 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="{% static 'styles_login.css' %}">
+    <style>
+        /* Full-page layout with background */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            background: url("{% static 'login.avif' %}") no-repeat center center fixed;
+            background-size: cover;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    
+        /* Login card styling */
+        .login-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100%;
+            width: 100%;
+        }
+    
+        .login-card {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+            width: 350px;
+            padding: 30px 20px;
+            text-align: center;
+            animation: fadeIn 1s ease-in-out;
+        }
+    
+        /* Fade-in animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    
+        /* Card title */
+        .login-card h2 {
+            margin-bottom: 20px;
+            font-size: 28px;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+    
+        /* Form group styling */
+        .form-group {
+            margin-bottom: 15px;
+        }
+    
+        /* Input fields */
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+    
+        input:focus {
+            outline: none;
+            border-color: #4CAF50;
+            box-shadow: 0 0 5px rgba(76, 175, 80, 0.4);
+        }
+    
+        /* Submit button */
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            width: 100%;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    
+        .btn:hover {
+            background-color: #45a049;
+        }
+    
+        /* Additional links */
+        .links {
+            margin-top: 20px;
+        }
+    
+        .links p {
+            font-size: 14px;
+            color: #555;
+        }
+    
+        .links a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    
+        .links a:hover {
+            text-decoration: underline;
+        }
+    </style>    
 </head>
 <body>
-    <div class="container">
-        <h2>Login</h2>
-        <form method="POST">
-            {% csrf_token %}
-            {{ form.as_p }}
-            <button type="submit" class="btn">Login</button>
-        </form>
-        <p>Don't have an account? <a href="{% url 'register' %}">Register here</a></p>
-        <p><a href="{% url 'forgot_password' %}">Forgot your password?</a></p> 
+    <div class="login-container">
+        <div class="login-card">
+            <h2>Login</h2>
+            <form method="POST">
+                {% csrf_token %}
+                <div class="form-group">
+                    {{ form.as_p }}
+                </div>
+                <button type="submit" class="btn">Login</button>
+            </form>
+            <div class="links">
+                <p>Don't have an account? <a href="{% url 'register' %}">Register here</a></p>
+                <p><a href="{% url 'forgot_password' %}">Forgot your password?</a></p>
+            </div>
+        </div>
     </div>
 </body>
 </html>

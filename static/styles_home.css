@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #f8b400, #56ccf2); /* Soft gradient from peachy-orange to light blue */
+    background:urlurl("/static/home.jpg") no-repeat center center fixed;
+    background-size: cover; 
     margin: 0;
     padding: 0;
     display: flex;

@@ -1,23 +1,92 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
+    <title>Heart Disease Predictor</title>
     {% load static %}
     <link rel="stylesheet" type="text/css" href="{% static 'styles_home.css' %}">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: url("{% static 'home.jpg' %}") no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+        }
+
+        .container {
+            position: fixed;
+            top: 18%; /* Adjusts vertical position */
+            left: 15%; /* Moved further to the right */
+            width: 320px; /* Adjusted width */
+            height: 300px; /* Adjusted height */
+            padding: 15px;
+            background: #e60000; /* Solid red background */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Adds depth with shadow */
+            text-align: center;
+            display: flex;
+            flex-direction: column; /* Vertical alignment */
+            justify-content: space-between; /* Space between elements */
+        }
+
+        header h1 {
+            font-size: 1.8em; /* Adjusted font size */
+            margin-bottom: 10px;
+            color: white; /* Contrast with the background */
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Subtle shadow for text */
+        }
+
+        .description {
+            font-size: 0.9em; /* Adjusted font size */
+            margin-bottom: 10px;
+            color: white; /* Matches the text color */
+        }
+
+        .links {
+            display: flex;
+            flex-direction: column;
+            gap: 2px; /* Adds spacing between buttons */
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 8px 18px; /* Reduced padding */
+            margin: 5px;
+            background: white; /* Button background color */
+            color: #e60000; /* Button text color matches box */
+            text-decoration: none;
+            border-radius: 5px; /* Rounded corners for buttons */
+            font-size: 1em;
+            font-weight: bold;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            background: #ffffff; /* Hover effect */
+            color: #b30000; /* Slightly darker red for hover text */
+            box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5); /* Glow effect */
+        }
+
+        span {
+            font-size: 1.2em; /* Span font size */
+            color: white; /* Text color matches box */
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Heart Disease Predictor</h1>
-        <p class="description">Welcome to the Heart Disease Predictor, your tool for assessing the risk of heart disease.</p>
+        <header>
+            <h1>Heart Disease Predictor</h1>
+        </header>
+        <p class="description">Your tool for assessing the risk of heart disease using AI.</p>
         <div class="links">
-            <p>
-                <a href="{% url 'login' %}" class="btn">Login</a>
-                <span>OR</span>
-                <a href="{% url 'register' %}" class="btn">Register</a>
-            </p>
+            <a href="{% url 'login' %}" class="btn">Login</a>
+            <span>OR</span>
+            <a href="{% url 'register' %}" class="btn">Register</a>
         </div>
     </div>
 </body>
